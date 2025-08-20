@@ -1,0 +1,1328 @@
+PRACTICE
+EXAM
+5
+QUESTIONS
+1. Which of the following is an offering of shares to existing stockholders on a pro-rata
+basis?
+A. Private placement
+B. Public offering
+C. Rights offering
+D. Tender offering
+2. Which of the following is correct regarding open market operations?
+A. It is a tool used by the Federal Reserve to implement monetary policy.
+B. It is conducted by the Trading Desk at the Federal Reserve Bank of New York.
+C. The authority to conduct open market operations is found in Section 14 of the Fed
+eral Reserve Act
+D. All of the above are correct
+3. All but which of the following are characteristics of REMICs?
+A. They have a perpetual life.
+B. They combine the predictable cash flow of a bond with the high yield of a mortgage
+backed security.
+C. Investors receive a specified cash flow from the underlying mortgages.
+D. They are self-liquidating.
+4. Which of the following ls an order to sell a stock at a price below the current market
+price?
+A. Sell discount order
+B. Sell limit order
+C. Sell market order
+D. Sell stop order
+5. As a cyber security measure, broker-dealers should utilize a/an / which means
+that each time a user attempts to log into an investment account through an unrecog
+nized device, the investment firm will send a unique code to the user via email or text
+message. Before the user can access the account, he or she must enter the code and
+password.
+A. access control
+B. declaration of conformity
+C. inspection certification
+D. two-step verification process
+157
+Practice Exam 5
+6. Justin, age 58, contributes to his employer's 401(k). In 2024, he will contribute $25,000
+to the plan through salary deferrals, and he would like to contribute to an IRA as well.
+If he is single and has an income of $250,000, the maximum IRA contribution that he
+can make is:
+A. $7,000 to a deductible IRA.
+B. $8,000 to a deductible IRA.
+C. $8,000 to a non-deductible IRA.
+D. $8,000 to a Roth IRA.
+7. When an investment company puts home mortgages or other loans into a pool and then
+sells securities representing shares of the pool, the securities sold are referred to as
+which of the following?
+A. Asset-backed securities
+B. Dark pools
+C. Derivative-backed securities
+D. Unit investment trusts
+B. If the yield curve is then the spread between yields of short-term and long-
+term bonds is ,.
+A. flattening, decreasing
+B. flattening, increasing
+C. steepening, decreasing
+D. None of the above are correct.
+9. Which of the following is also referred to as a "red herring?"
+A. Omitting prospectus
+B. Preliminary prospectus
+C. Shelf registration
+D. To m b s t o n e ad
+10. Which of the following investment strategies will expose an investor to the greatest
+amount of risk?
+A. Buying a covered call
+B. Buying a naked call
+C. Selling a covered call
+D. Selling a naked call
+11. A quarterly interest rate of 3.2% is equivalent to:
+A. 1.07% monthly or 9.60% annually.
+B. 1.07% monthly or 12.80% annually.
+C. 6.40% monthly or 9.60% annually.
+D. 6.40% monthly or 12.80% annually.
+158
+Practice Exam 5
+12. All but which of the following are correct regarding the Federal Reserve?
+A. It derives its authority from Congress.
+B. It operates and oversees the U.S. payment system.
+C. It operates and oversees government spending.
+D. It supervises and regulates banks.
+13. All but which of the following is another name for an income statement?
+A. Statement of financial performance
+B. Statement of financial position
+C. Statement of operations
+D. Statement of profit or loss
+14. Which of the following is correct regarding the relationship between an investment's
+real return and nominal return?
+(1) Real return is an investment's rate ofreturn after adjusting for inflation.
+(2) Nominal return is an investment's rate ofreturn without adjusting for inflation.
+A. (1) only
+B. (2) only
+C. Both (1) and (2) are correct.
+D. Neither (1) or (2) are correct.
+15. Which of the following theories states that security prices in different markets will
+not differ for any significant period of time?
+A. Arbitrage pricing theory
+B. Black-scholes valuation theory
+C. Efficient market theory
+D. Modern portfolio theory
+16. Which of the following are required to obtain a viatical settlement?
+(1) The insured must not be terminally ill.
+(2) The insured must have owned the policy for at least one year.
+(3) The current beneficiary of the policy must sign a release or waiver.
+(4) The insured must sign a release allowing the viatical settlement provider access
+to his or her medical records.
+A. (1) and (2) only
+B. (3) and (4) only
+C. (2), (3), and (4) only
+D. All of the above are correct
+159
+Practice Exam 5
+17. Which of the following is true regarding a qualified domestic trust (QDOT)?
+A. There must be at least one trustee who is a U.S. citizen or a qualifying domestic
+corporation.
+B. The surviving spouse must have the right to all income, as well as a general power
+of appointment over trust assets.
+C. The trust does not qualify for the marital deduction unless a special election is
+made by the trustee.
+D. Property in the trust is not subject to gift or estate taxes.
+18. Which of the following are primary issuers of individual bonds?
+(1) Local government
+(2) U.S. government
+(3) An agency of the U.S. government
+(4) Corporations
+A. (1) and (4) only
+B. (1), (2), and (3) only
+C. (2), (3), and (4) only
+D. All of the above are correct.
+The following information relates to questions 19 -21.
+Jennifer's income is $80,000 and she is in the 25% tax bracket. While preparing to file her
+tax return, she expected to take an $8,000 deduction through a government incentive pro
+gram that she qualified for. However, she has discovered the deduction has been replaced
+with a $4,000 tax credit.
+19. Ignoring exemptions and other adjustments, if Jennifer had claimed the $8,000 tax
+deduction, her total taxes owed would have been:
+A. $14,000.
+B. $16,000.
+C. $18,000.
+D. $20,000.
+20. Ignoring exemptions and other adjustments, if Jennifer claims the $4,000 tax credit,
+her total taxes owed will be:
+A. $14,000.
+B. $16,000.
+C. $18,000.
+D. $20,000.
+160
+Practice Exam 5
+21. Ignoring exemptions and other adjustments, a tax credit of / would result in
+the same amount of taxes owed as the $8,000 tax deduction.
+A. $2,000
+B. $3,000
+C. $5,000
+D. $6,000
+22. Which of the following is the formula to calculate a mutual fund's turnover rate?
+A. Tu r n o v e r rate = Gross proceeds from sale of securities / NAV
+B. Tu r n o v e r rate = Gross proceeds from sale of securities - NA V
+C. Tu r n o v e r rate = Gross proceeds from sale of securities + NAV
+D. Tu r n o v e r rate= NAV / Gross proceeds from sale of securities
+23. Higher inflation =�interest rates =�bond values
+A. higher, higher
+B. higher, lower
+C. lower, higher
+D. lower, lower
+24. If a wash sale occurs, which of the following will result?
+A. No loss deduction is allowed, and the amount of the disallowed loss is subtracted
+from the cost basis of the newly acquired shares.
+B. No loss deduction is allowed, and a gain must be realized immediately.
+C. No loss deduction is allowed, and the amount of the disallowed loss is added to
+the cost basis of the newly acquired shares.
+D. The loss can be realized.
+25. Lisa, a single taxpayer with an AGI of $140,000, is permitted to fully deduct her IRA
+contribution if she's an active participant in which of the following plans?
+A. 401(k) plan with no match
+B. 403(b) plan with no match
+C. 403(b) plan with match
+D. 457 plan
+26. If real GDP declined the last 3 quarters, how many more consecutive quarters of de
+cline would be needed to be classified as an economic depression?
+A. 1 quarter
+B. 2 quarters
+C. 3 quarters
+D. 4 quarters
+161
+Practice Exam 5
+27. Which of the following is the ethical barrier that is required between different divi
+sions of a financial institution to avoid conflicts of interest?
+A. Checks and balance system
+B. Chinese wall
+C. Ethical wall
+D. Moral barrier
+28. Preferred stock that does not have to pay missed dividends is considered which of
+the following?
+A. Convertible
+B. Cumulative
+C. In-kind
+D. Noncumulative
+29. Which of the following rules addresses the registration and resale requirements for
+securities issued in a merger, consolidation, acquisition of assets, or reclassification
+of securities?
+A. Securities Act Rule 145
+B. Securities Act Rule 172
+C. Securities Act Rule 238
+D. Securities Act Rule 405
+30. The "cooling-off period," which transpires between the filing of a new issue's pro
+spectus and the actual offering of the issue, must be a minimum of how many days?
+A. 7 days
+B. 10 days
+C. 20 days
+D. 30 days
+31. Brady bonds are typically issued by which of the following countries?
+A. Asian countries
+B. European countries
+C. Latin American countries
+D. Middle Eastern countries
+32. Expansionary policy is characterized by which of the following?
+A. Decreasing transfer payments
+B. Increasing public spending
+C. Increasing taxes
+D. All of the above are correct.
+162
+Practice Exam 5
+33. In order to maintain a SIMPLE plan, an employer may not have more than _
+employees.
+A. 25
+B. 50
+C. 75
+D. 100
+34. An investment-grade bond is one that is rated / or higher by the Standard &
+Poor's bond rating service. A high-yield bond is rated or lower by Standard
+& Poor's.
+A. BBB, BB
+B. BBB+, BB-
+C. BBB-, BB+
+D. BB, BBB
+35. Which of the following has the most stable cash flows and the lowest prepayment
+risk of any class of CMO?
+A. General obligation bond
+B. Planned amortization class bond
+C. Ta r g e t e d amortization class bond
+D. Zero-coupon bond
+36. Blue sky laws are classified as which of the following?
+A. Federal-based laws
+B. International-based laws
+C. Municipal-based laws
+D. State-based laws
+37. Which of the following is used by U.S. corporations (specifically, C Corps) to report
+income, gains, losses, deductions, and credits, and to determine their tax liability?
+A. IRS Form 1040
+B. IRS Form 1041
+C. IRS Form 1065
+D. IRS Form 1120
+38. Pink sheets are to unlisted stocks as are to bonds.
+A. blue sheets
+B. green sheets
+C. white sheets
+D. yellow sheets
+163
+Practice Exam 5
+39. Which of the following acts promotes efficiency and capital formation in the financial
+markets, and provides for more effective and less burdensome regulation between
+states and the Federal Government? It also declared that any offering of a "covered
+security" is exempt from state registration and review.
+A. Insider Tr a d i n g and Securities Fraud Enforcement Act of 1988
+B. Uniform Prudent Investors Act of 1994
+C. National Securities Market Improvement Act of 1996
+D. Sarbanes-Oxley Act of 2002
+The following information relates to questions 40 - 41.
+Stephanie purchased a whole life insurance policy several years ago. She has provided the
+following information related to the policy.
+Face amount$250,000
+Cash value$87,500
+Paid-up additions$75,000
+Cash value of paid-up additions$50,000
+Annual premium$4,300
+Annual dividend$1,900
+40. What is the current surrender value of Stephanie's policy?
+A. $112,500
+B. $137,500
+C. $162,500
+D. $164,400
+41. If Stephanie dies, a death benefit of will be paid to her beneficiary.
+A. $250,000
+B. $262,500
+C. $300,000
+D. $325,000
+42. An investor purchased a call option for $3.00. The option has a strike price of $37.00,
+and the stock is currently valued at $36.00. The call option would cost $2.50 if pur
+chased today. Ignoring transaction costs, what is the value of the option?
+A. -$0.50
+B. $0
+C. $1.00
+D. $2.00
+164
+Practice Exam 5
+43. Which of the following is a graphical representation of a security's average price
+over a period of time?
+A. Moving average
+B. Support and resistance average
+C. Technical average
+D. Trendline average
+44. Which of the following is/are correct regarding generation skipping transfers?
+(1) A generation skipping transfer may only occur during a transferor's lifetime.
+(2) The gift tax annual exclusion may only be used to offset a lifetime generation
+skipping transfer.
+A. (1) only
+B. (2) only
+C. Both (1) and (2) are correct.
+D. Neither (1) or (2) are correct.
+45. Which of the following is a private, non-profit organization whose primary purpose
+is to establish and improve generally accepted accounting principles within the U.S.?
+A. FASB
+B. FDIC
+C. MSRB
+D. NSCC
+46. When calculating gross domestic product (GDP), all but which of the following varia
+bles are paired with the correct description?
+A. C = Personal consumption
+B. I = Issuance of government bonds
+C. G = Government spending
+D. E = Net exports
+47. Which of the following is the correct method to conducting bottom-up investment
+analysis?
+A. First examine a specific company, then examine a specific industry, then examine
+a specific economy, then examine the global economy.
+B. First examine a specific company, then examine a specific economy, then examine
+a specific industry, then examine the global economy.
+C. First examine the global economy, then examine a specific industry, then examine
+a specific economy, then examine a specific company.
+D. First examine the global economy, then examine a specific economy, then examine
+a specific industry, then examine a specific company.
+165
+Practice Exam 5
+48. Which of the following groups may be excluded from participating in an employee
+stock purchase plan (ESPP)?
+A. Employees working less than 20 hours per week.
+B. Employees with less than 2 years of service.
+C. Officers of the employer.
+D. All of the above are correct.
+For questions 49 - 51, match the type of risk with the description that follows. Use only
+one answer per blank. Answers may be used more than once or not at all.
+A. Business risk
+B. Tax risk
+C. Financial risk
+D. Market risk
+E. Credit risk
+F. Country risk
+49. / The risk associated with a company's decision to use debt as part of its capital
+structure.
+50. / The possibility that a bond issuer will default
+51. / The risk inherent in company operations.
+52. Which of the following government agencies are responsible for monitoring quali
+fied retirement plan rules and eligibility?
+A. ERISA and the IRS
+B. ERISA and the PBGC
+C. IRS and the Department of Labor
+D. IRS and the PBGC
+53. Which of the following is/are correct regarding probate?
+(1) If a person dies testate, his or her property is subject to probate.
+(2) If a person dies intestate, his or her property avoids probate.
+A. (1) only
+B. (2) only
+C. Both (1) and (2) are correct
+D. Neither (1) or (2) are correct.
+54. An but which of the following are characteristics of defined benefit plans?
+A. Employer contributions vary.
+B. Participant benefits vary.
+C. The employer assumes the investment risk.
+D. They favor older employees.
+166
+Practice Exam 5
+55. Which of the following is correct regarding non-systematic risk?
+A. It includes risks such as tax risk and financial risk.
+B. An investor who owns five growth stocks can reduce non-systematic risk by add
+ing a value stock to her portfolio.
+C. It is the risk associated with a particular security or company.
+D. All of the above are correct
+56. Money in a Coverdell Education Savings Account (ESA) must be used by the time the
+beneficiary is _years of age.
+A. 18
+B. 21
+C. 24
+D. 30
+57. Which of the following describes the rate of return calculated by the capital asset
+pricing model (CAPM)?
+A. The rate of return is not reliable because CAPM fails to take risk into account.
+B. The rate of return can be used in the dividend growth model for valuing common
+stock.
+C. The rate of return represents the stock market's overall rate of return.
+D. The rate of return is not reliable because CAPM uses beta in its formula.
+58. Alpha Inc. reports the following information at its annual shareholder meeting:
+Liabilities at year-end$500,000
+Contributed capital at year-end$100,000
+Beginning retained earnings$150,000
+Revenue during the year$300,000
+Expenses during the year$200,000
+Dividends paid during the year$50,000
+What is the value of Alpha Inc.'s total assets at year-end?
+A. $800,000
+B. $900,000
+C. $1,300,000
+D. $1,350,000
+59. Regarding the money supply, which of the following is the formula for Ml?
+A. Ml = Savings accounts+ Short-term time deposits
+B. Ml = Coins and currency in circulation+ Money held in checking accounts
+C. Ml = Long-term time deposits
+D. Ml= Coins and currency in circulation+ Short-term time deposits
+167
+Practice Exam 5
+60. Which of the following is/are correct regarding tax credits?
+(1) A refundable tax credit cannot reduce a taxpayer's income tax liability below
+zero.
+(2) A non-refundable tax credit can reduce a taxpayer's income tax liability below
+zero.
+A. (1) only
+B. (2) only
+C. Both (1) and (2) are correct
+D. Neither (1) or (2) are correct.
+For questions 61 - 64, match the legislation with the description that follows. Use only
+one answer per blank Answers may be used more than once or not at all.
+A. Securities Act of 1933
+B. Securities Exchange Act of 1934
+C. Investment Company Act of 1940
+D. Securities Investor Protection Act of 1970
+61. _ Regulates brokerage firms.
+62. _ Regulates mutual funds.
+63. _ Regulates new securities.
+64. _ Regulates existing securities.
+65. Treasury notes, Treasury bonds, and TIPS, whose interest and principal portions
+have been separated so they may be sold individually, are referred to as which of the
+following?
+A. Treasury GI Cs
+B. Treasury CM Os
+C. Treasury STRIPS
+D. Treasury UITs
+66. Which of the following is/are correct regarding the capital structure of open-end
+mutual funds?
+(1) Open-end mutual funds issue new shares and redeem existing shares from
+shareholders.
+(2) The price an investor pays when buying shares of an open-end mutual fund is
+based on supply and demand.
+A. (1) only
+B. (2) only
+C. Both (1) and (2) are correct
+D. Neither (1) or (2) are correct
+168
+Practice Exam 5
+67. Regulation A permits unregistered public offerings of up to of securities in
+any 12-month period.
+A. $1 million
+B. $5 million
+C. $10 million
+D. $20 million
+68. Which of the following retirement plans require immediate vesting?
+A. Employer contributions to a 401(k) plan.
+B. Employer contributions to a money purchase plan.
+C. Employer contributions to a SEP.
+D. All of the above are correct.
+69. How is the net asset value (NAV)  of a mutual fund calculated?
+A. NAV = (Total value of investment+ Liabilities)+ Shares outstanding
+B. NAV = (Total value of investment+ Shares outstanding) - Liabilities
+C. NAV = (Total value of investment - Liabilities) / Shares outstanding
+D. NAV = Total value of investment+ Shares outstanding
+70. According to the anomaly known as the "small-firm effect," / companies have
+been shown to outperform companies on a risk-adjusted basis over a period
+of many years.
+A. large cap, small cap
+B. mid cap, small cap
+C. small cap, large cap
+D. small cap, mid cap
+71. Interest earned on which of the following is a tax preference item for the alternative
+minimum tax (AMT)?
+A. General obligation bonds
+B. Private activity bonds
+C. Public purpose bonds
+D. Revenue bonds
+72. According to the Uniform Securities Act, if the Administrator issues a subpoena and
+the affected party fails to respond, it is referred to as which of the following?
+A. Adhesion
+B. Contumacy
+C. Estoppel
+D. Rescission
+169
+Practice Exam 5
+73. A research analyst provides the following economic information for Country X:
+Category Amount ($ billions)
+Consumption 11.4
+Government spending 3.3
+Capital consumption allowance 5.0
+Gross private domestic investment 6.2
+Imports 2.9
+Exports 1.8
+What is the gross domestic product (GDP) of Country X?
+A. $17.9 billion
+B. $18.6 billion
+C. $19.8 billion
+D. $24.8 billion
+74. A corporate insider is defined as a director or senior officer of a company, as well as
+any person or entity that beneficially owns more than of a company's vot-
+ing shares.
+A. 1%
+B. 2%
+C. 5%
+D. 10%
+75. Which of the following securities are backed by the full faith and credit of the U.S.
+government?
+A. Federal Home Loan Mortgage Corporation debentures (Freddie Macs)
+B. Federal National Mortgage Association certificates (Fannie Maes)
+C. Government National Mortgage Association certificates (Ginnie Maes)
+D. Student Loan Marketing Association notes (Sallie Maes)
+76. Which of the following investments will provide tax-exempt interest if the proceeds
+are used to pay for qualifying education expenses?
+(1) FNMA funds
+(2) Series EE bonds
+(3) Treasury bonds
+(4) Treasury bills
+A. (2) only
+B. (1) and (2) only
+C. (2), (3), and (4) only
+D. All of the above are correct.
+170
+Practice Exam 5
+77. How are the value of publicly traded stocks and bonds determined for gift and estate
+tax purposes?
+A. The closing price on the date of disposition.
+B. The opening price on the date of disposition.
+C. The mean between the highest and lowest selling price on the date of disposition.
+D. The mean between the highest and lowest selling price on the date prior to the date
+of disposition.
+78. Which of the following is an exchange employee who is in charge of keeping a book
+of public limit orders on exchanges utilizing the "market-maker" system?
+A. Designated market maker
+B. Limit order officer
+C. Order book official
+D. Public order specialist
+79. Employer contributions to a defined contribution plan must use either the _
+cliff vesting or / graded vesting schedules.
+A. 3-year, 6-year
+B. 3-year, 7-year
+C. 5-year, 6-year
+D. 5-year, 7-year
+80. Which of the following is a short-term obligation that is issued for temporary financ
+ing needs by a municipality?
+A. Bond anticipation note
+B. Guaranteed investment contract
+C. Tax anticipation note
+D. Unit investment trust
+81. Which of the following is an order to buy a stock at a price above the current market
+price?
+A. Buy stop order
+B. Buy limit order
+C. Buy market order
+D. None of the above are correct
+82. A variable life insurance policy will pay benefits that vary according to which of the
+following?
+A. The flexibility of premiums paid.
+B. The value of underlying investments.
+C. The variability of the mortality factor.
+D. All of the above are correct.
+171
+Practice Exam 5
+83. Which of the following ls correct regarding JAR registration?
+A. Individual registrations can be administered at the state level or federal level, de
+pending on where the RIA firm is registered.
+B. All individual registrations are administered at the federal level, regardless of
+whether the RIA firm is registered at the SEC or state level.
+C. All individual registrations are administered at the state level, regardless of
+whether the RIA firm is registered at the SEC or state level.
+D. None of the above are correct.
+84. Which of the following estate planning objectives can be accomplished through a will?
+A. Avoiding probate.
+B. Establishing a testamentary trust.
+C. Providing burial wishes.
+D. Providing for decisions during incapacitation.
+85. An indenture agreement describes the terms and conditions of a bond, including
+which of the following?
+A. Call provisions
+B. Description of collateral
+C. How coupon payments are determined
+D. All of the above are correct.
+86. Which of the following must be filed for each of the first three fiscal quarters of a com
+pany's fiscal year, and includes unaudited financial statements and provides a contin
+uing view of the company's financial position during the year?
+A. Form ADV
+B. Form 8-K
+C. Form 10-K
+D. Form 10-Q
+87. Which of the following is an advantage that money purchase plans have over other
+qualified retirement plans?
+A. Employer contributions can be omitted in certain years and must only be substan-
+tial and recurring.
+B. Forfeitures must be used to reduce future employer contributions.
+C. They are easy to explain to employees.
+D. They favor older employees.
+88. A trade surplus results from which of the following?
+A. A country having a current account deficit.
+B. A country exporting more than it imports.
+C. A country exporting less than it imports.
+D. None of the above are correct
+172
+Practice Exam 5
+89. Eurodollars have which of the following characteristics?
+(1) They are foreign denominated deposits in banks located outside the U.S.
+(2) They involve deposits made at only European banks.
+A. (1) only
+B. (2) only
+C. Both (1) and (2) are correct.
+D. Neither (1) or (2) are correct.
+90. According to the principles of behavioral finance, which of the following terms de
+scribes an investor's tendency to look for information that supports his or her previ
+ously established decision, even if that decision was imprudent? This tendency may
+explain why investors are slow to sell an underperforming stock
+A. Confirmation bias
+B. Expectation bias
+C. Hold bias
+D. Prospect bias
+91. Which of the following is a computerized subscriber service that serves as a vehicle
+for the fourth market by permitting subscribers to display bids and offers and execute
+trades electronically?
+A. ECN
+B. EMMA
+C. lnstinet
+D. NSCC
+92. A/An  legal opinion means that the bond counsel has no reservations re-
+garding the bond issue, and it is considered the most desirable for investors.
+A. binding
+B. enforceable
+C. qualified
+D. unqualified
+93. Which of the following is correct regarding certificates of deposit (CDs)?
+A. They are short-term securities that may be bought or sold in the open market at a
+market-determined price.
+B. They typically invest in high-quality, short-term investments, such as commercial
+paper, Treasury bills, and money market funds.
+C. They are known as "time deposits."
+D. The financial institution typically pays a variable rate of interest for the term of
+the CD.
+173
+Practice Exam 5
+94. In any single life private annuity transaction, if the seller outlives his or her actuarial
+life expectancy, the purchaser will have paid for the property. If the seller
+does not outlive his or her actuarial life expectancy, the will have made a
+good financial deal.
+A. too much, purchaser
+B. too much, seller
+C. too little, purchaser
+D. too little, seller
+95. The annual report on provides a comprehensive overview of a company's
+business and financial condition and includes audited financial statements.
+A. Form 6-K
+B. Form 8-K
+C. Form 10-K
+D. Form 10-Q
+96. Beta Corporation sold products to customers on April 30, 2017 for a total price of
+$85,000. Payment is due in 60 days. The total cost of the products was $67,000. What
+is the net change in Beta Corporation's total assets on April 30, 2017?
+A. $0
+B. $18,000
+C. $67,000
+D. $103,000
+97. Which of the following is/are correct regarding cyclical stocks?
+(1) When the economy is growing, demand usually strengthens and cyclical compa
+nies are able to make large profits.
+(2) When the economy is declining, cyclical companies are hurt by decreases in de-
+mand and are less profitable.
+A. (1) only
+B. (2) only
+C. Both (1) and (2) are correct.
+D. Neither (1) or (2) are correct.
+98. Which of the following acts, also known as the Currency and Foreign Tr a n s a c t i o n s
+Reporting Act, requires financial institutions to assist U.S. government agencies in de
+tecting and preventing money laundering?
+A. Bank Secrecy Act of 1970
+B. Insider Tr a d i n g and Securities Fraud Enforcement Act of 1988
+C. National Securities Market Improvement Act of 1996
+D. Sarbanes-Oxley Act of 2002
+174
+Practice Exam 5
+99. Which of the following plans require immediate vesting?
+(1) Money purchase plan
+(2) SEP
+(3) 401(k) plan
+(4) 403(b) plan
+A. (2) only
+B. (1) and (3) only
+C. (2) and ( 4) only
+D. (1), (2), and (4) only
+100. All but which of the following are characteristics of a REIT?
+A. It is a publicly traded open-end investment company.
+B. A mortgage REIT is a specific type of REIT.
+C. A REIT can sell at a premium or discount to its NAV.
+D. All of the above are correct
+101. Which of the following is the typical limit on the term of a loan from a qualified re
+tirement plan?
+A. 1 year
+B. 2 years
+C. 5 years
+D. 10years
+102. Which of the following refers to taking a loss on a bond and replacing it with a sub
+stantially different bond to avoid triggering the wash sale rule?
+A. Bond conversion
+B. Bond spread
+C. Bond swap
+D. Bond yield
+103. Steve sold his portfolio of ETFs and is now required to pay 15% tax on the gain.
+Which of the following must be true?
+(1) The ETFs were taxed at long-term capital gains rates.
+(2) Steve's marginal tax bracket was less than 25%.
+(3) Steve owned the ETFs for more than one year.
+(4) Steve's marginal tax bracket was 25% or higher.
+A. (1) and (3) only
+B. (3) and (4) only
+C. (1), (2), and (3) only
+D. (1), (3), and (4) only
+175
+Practice Exam 5
+104. Which of the following will shift the Markowitz efficient frontier to the left:?
+A. Taking less risk.
+B. Taking more risk.
+C. Changing the proportion of securities already invested in the portfolio.
+D. Selecting investments with lower coefficients of correlation between them.
+105. Which of the following terms refers to a broker using securities in his or her posses
+sion, but owned by a customer, as collateral to raise a loan to cover a short position?
+A. Recapitalization
+B. RecollateraJization
+C. Rehypothecation
+D. Securitization
+106. Which of the following is the maximum prison sentence for an insider trading vio
+lation?
+A. 10 years
+B. 20 years
+C. 30 years
+D. 40 years
+107. Which of the following are among the requirements for a valid S Corp election?
+(1) Only one class of stock is permitted.
+(2) There may be no more than 75 shareholders.
+(3) It must be a domestic corporation.
+(4) Shareholders must be U.S. citizens or residents.
+A. (1) and (3) only
+B. (1), (2), and (4) only
+C. (1), (3), and ( 4) only
+D. (2), (3), and (4) only
+108. Which of the following are permitted investments in an IRA?
+A. A mutual fund that invests exclusively in a silver mining stock.
+B. Gold coins minted in the U.S.
+C. A real estate investment trust
+D. All of the above are correct
+109. (Current assets - Inventory) / Current liabilities = _
+A. Current ratio
+B. Inventory turnover ratio
+C. Quick ratio
+D. Return on assets
+176
+Practice Exam 5
+110. To calculate core inflation, which of the following categories are excluded from the
+calculation?
+A. Food and energy prices
+B. Food and utilities
+C. Healthcare and energy prices
+D. Te c h n o l o g y and utilities
+111. Investment advisers that have custody of client assets or require prepayment of ad-
+visory fees or more in advance, and in excess of for each client,
+must file an audited balance sheet with the SEC as of the end of the investment ad
+viser's fiscal year.
+A. 6 months, $1,200
+B. 6 months, $1,500
+C. 12 months, $1,200
+D. 12 months, $1,500
+112. Which of the following mutual fund share classes will charge investors a level load?
+A. Class A shares
+B. Class B shares
+C. Class C shares
+D. Class D shares
+113. Investment risk is defined as which of the following?
+A. The chance that an investment's actual return will be greater or less than its ex
+pected return.
+B. The chance that an investment's actual return will equal its expected return.
+C. The chance that an investment's actual return will be less than its expected re
+turn.
+D. None of the above are correct
+114. All but which of the following are characteristics of sole proprietorships?
+A. They are the simplest form of business entity.
+B. They have no formal legal requirements.
+C. They have a lack of continuity of business life.
+D. They provide limited liability to owners.
+115. Which of the following option strategies seeks to maximize an investor's profit
+when the price of an underlying security decreases in value?
+A. Bear spread
+B. Bull spread
+C. Long straddle
+D. Protective collar
+177
+Practice Exam 5
+116. Which of the following acts allowed for the establishment of the National Association
+of Securities Dealers (NASD) and the U.S. domestic over-the-counter markets in se
+curities?
+A. Maloney Act of 1938
+B. Trust Indenture Act of 1939
+C. Investment Company Act of 1940
+D. Uniform Securities Act of 1956
+For questions 117 - 119, select the word that best completes the bond relationship pro
+vided. Use only one answer per blank. Answers may be used more than once or not at all.
+A. More
+B. Less
+117. / Lower-coupon bonds are / affected by interest rate changes than
+higher-coupon bonds.
+118. / The shorter a bond's term to maturity, the its potential for relative
+price fluctuation.
+119. / Long-term bonds are / affected by interest rate changes than short
+term bonds.
+120. Which of the following are correct regarding qualified personal residence trusts
+(QPRTs)?
+(1) A QPRT is ideal for a single parent in his 30s or 40s.
+(2) A QPRT is generally appropriate for vacation homes valued at over $1,000,000.
+(3) After the trust term ends, the house reverts back to the grantor.
+(4) The grantor will have a taxable gift upon the creation ofa QPRT.
+A. (1) and (2) only
+B. (2) and (3) only
+C. (2) and (4) only
+D. (1), (3), and (4) only
+121. Which of the following sections of the tax code allows individuals to make with
+drawals before age 59 % from certain retirement accounts without penalty, as long
+as the SEPP (substantially equal periodic payment) regulation is met?
+A. Rule 67(e)
+B. Rule 72(t)
+C. Rule 83(b)
+D. Rule 501(r)
+178
+Practice Exam 5
+122. Dawn contributed $12,000 to a qualified retirement plan several years ago. The ac
+count balance is now $14,500. If Dawn takes a lump sum distribution, she will owe:
+A. long-term capital gains tax on $2,500.
+B. long-term capital gains tax on $14,500.
+C. ordinary income tax on $2,500.
+D. ordinary income tax on $14,500.
+123. Which of the following is required for an individual to open a health savings ac
+count (HSA)?
+A. The individual must have a high-deductible health plan (HDHP).
+B. The individual must have a low-deductible health plan (LDHP).
+C. The individual must have a flexible spending account (FSA).
+D. None of the above are required to open a health savings account
+124. Which of the following statements about property held as tenancy by entirety are
+correct?
+(1) The property automatically passes to the surviving co-tenant when one tenant
+dies.
+(2) It is an interest in property that can be held only by spouses.
+(3) It can be held by non-spouse business partners in an LLC.
+(4) In most states, it is not severable by an individual tenant
+A. (1) and (2) only
+B. (2) and (4) only
+C. (1), (2), and (3) only
+D. (1), (2), and (4) only
+125. Kappa Inc. provides the following information at its annual shareholder meeting:
+Gross income$2,300,000
+Net income$950,000
+Number of shares outstanding250,000
+Price per share$9.10
+Average total book value of equity$3,260,000
+Total liabilities$2,980,000
+What is Kappa Inc.'s return on equity (ROE)?
+A. 27.72%
+B. 29.14%
+C. 31.88%
+D. 33.59%
+179
+Practice Exam 5
+For questions 126 - 129, match the hedging technique with the description that follows.
+Use only one answer per blank Answers may be used more than once or not at all.
+A. Collar
+B. Spread
+C. Straddle
+D. Protective put
+126. / Purchasing a call option and selling a call option on the same stock at the same
+time.
+127. / Purchasing a put option and selling a call option on the same stock at the same
+time.
+128. / Purchasing a put option while holding shares of the underlying stock from a
+previous purchase.
+129. / Purchasing a call option and a put option on the same stock at the same time.
+130. Which of the following is the official repository for information on virtually all mu
+nicipai bonds, and provides free access to official disclosures, trade data, and other
+information about the municipal securities market?
+A. EMMA
+B. FAST
+C. MSRB
+D. TRACE
+180
+ANSWER KEY
+1. C
+A rights offering is an offering of shares to existing stockholders on a pro-rata basis.
+2.D
+Open market operations is a tool used by the Federal Reserve to implement monetary
+policy. It is conducted by the Trading Desk at the Federal Reserve Bank of New York, and
+the authority to conduct open market operations is found in Section 14 of the Federal
+Reserve Act.
+3.A
+With REMICs (real estate mortgage investment conduits), investors receive a specified
+cash flow from the underlying mortgages. They combine the predictable cash flow of a
+bond with the high yield of a mortgage-backed security. REMICs are self-liquidating and
+have a limited life that terminates when the underlying mortgages are repaid.
+4.D
+A sell stop order is an order to sell a stock at a price below the current market price.
+5.D
+As a cyber security measure, broker-dealers should utilize a two-step verification process,
+which means that each time a user attempts to log into an investment account through an
+unrecognized device, the investment firm will send a unique code to the user via email or
+text message. Before the user can access the account, he or she must enter the code and
+password.
+6. C
+Because Justin is an active participant in an employer-sponsored retirement plan, he is
+subject to an AGI phaseout of $77,000 to $87,000 in 2024. Because his income is above
+the phaseout range, he is not eligible to make a deductible IRA contribution. His AGI is too
+high to contribute to a Roth IRA, as well. The Roth IRA AGI phaseout is $146,000 to
+$161,000 in 2024.
+7. A
+When an investment company puts home mortgages or other loans into a pool and then
+sells securities representing shares of the pool, the securities sold are referred to as asset
+backed securities.
+B. A
+If the yield curve is flattening, then the spread between yields of short-term and long
+term bonds is decreasing.
+9. B
+The preliminary prospectus is also referred to as a "red herring."
+10.D
+Selling a naked call will expose an investor to the greatest amount of risk.
+181
+Practice Exam 5
+11.B
+Monthly interest rate = 3.2% / 3 months = 1.07%
+Annual interest rate = 3.2% x 4 quarters = 12.80%
+12. C
+The Federal Reserve supervises and regulates banks, and operates and oversees the U.S.
+payment system. It derives its authority from Congress.
+13. B
+An income statement is also referred to as a statement of financial performance, state
+ment of operations, and statement of profit or loss. A statement of financial position is
+another name for a balance sheet.
+14. C
+Real return is an investment's rate of return after adjusting for inflation. Nominal return
+is an investment's rate of return without adjusting for inflation.
+15.A
+According to the arbitrage pricing theory, security prices in different markets will not
+differ for any significant period oftime.
+16. B
+In order to obtain a viatical settlement, the insured must be terminally ill and must have
+owned the policy for at least two years. The current beneficiary of the policy must sign a
+release or waiver, and the insured must sign a release allowing the viatical settlement
+provider access to his or her medical records.
+17. A
+A qualified domestic trust (QDOT) allows property to pass to a non-U.S. citizen spouse
+and still qualify for the marital deduction. In order for a QDOT to be valid, there must be
+at least one trustee who is a U.S. citizen or a qualifying domestic corporation.
+18.D
+The primary issuers of individual bonds are local government, state government, U.S.
+government, an agency of the U.S. government, and corporations.
+19.C
+Ta x e s owed from tax deduction = ($80,000 - $8,000) x 0.25 =$18,000
+20. B
+Ta x e s owed from tax credit= ($80,000 x 0.25) - $4,000 = $16,000
+21.A
+Step 1: Ta x e s owed from tax deduction= ($80,000 - $8,000) x 0.25 = $18,000
+Step 2: Equivalent tax credit = ($80,000 x 0.25) - $18,000 / $2,000
+22. A
+Mutual fund turnover rate = Gross proceeds from sale of securities / NAV
+182
+Practice Exam 5
+23.B
+Higher inflation = higher interest rates = lower bond values
+24. C
+If a wash sale occurs, no loss deduction is allowed, and the amount of the disallowed loss
+is added to the cost basis of the newly acquired shares.
+25.D
+Regardless of income, participating in a 457 plan does not affect the deductibility of Lisa's
+IRA contribution. Participating in a 401(k) or 403(b) would eliminate Lisa's ability to de
+duct her IRA contribution because her income is over the threshold.
+26.C
+6 quarters - 3 quarters = 3 quarters
+An economic depression is defined as a decline in real GDP for 6 or more consecutive
+quarters.
+27. B
+A. Chinese wall is the ethical barrier that is required between different divisions of a fi
+nancial institution to avoid conflicts of interest.
+28. D
+Preferred stock that does not have to pay missed dividends is considered noncumula
+tive.
+29.A
+Securities Act Rule 145 addresses the registration and resale requirements for securities
+issued in a merger, consolidation, acquisition of assets, or reclassification of securities.
+30.C
+The "cooling-off period," which transpires between the filing of a new issue's prospectus
+and the actual offering of the issue, must be a minimum of 20 days.
+31. C
+Brady bonds are typically issued by Latin American countries.
+32. B
+Expansionary policy is characterized by decreasing taxes, increasing public spending,
+and increasing government borrowing.
+33. D
+In order to maintain a SIMPLE plan, an employer may not have more than 100 employees.
+34. C
+An investment-grade bond is one that is rated BBB- or higher by the Standard & Poor's
+bond rating service. A high-yield bond is rated BB+ or lower by Standard & Poor's.
+35. B
+A planned amortization class (PAC) bond has the most stable cash flows and the lowest
+prepayment risk of any class ofCMO (collateralized mortgage obligation).
+183
+Practice Exam 5
+36. D
+Blue sky laws are classified as state-based laws.
+37.D
+IRS Form 1120 is used by U.S. corporations (specifically, C Corps) to report their in
+come, gains, losses, deductions, and credits, and to determine their tax liability.
+38.D
+Pink sheets are to unlisted stocks as yellow sheets are to bonds.
+39.C
+The National Securities Market Improvement Act of 1996 promotes efficiency and capital
+formation in the financial markets, and provides for more effective and less burdensome
+regulation between states and the Federal Government. It also declared that any offering
+of a "covered security" (as defined within the Act) is exempt from state registration and
+review.
+40. B
+Surrender value= $87,500 + $50,000 / $137,500
+41.D
+Death benefit= $250,000 + $75,000 = $325,000
+42. B
+The call option is out-of-the-money because the strike price ($37.00) exceeds the market
+price ($36.00). Therefore, the value of the option is $0.
+43.A
+The moving average is a graphical representation of a security's average price over a pe
+riod of time.
+44. B
+A generation skipping transfer may occur during the transferor's lifetime or at the trans
+feror's death. The gift tax annual exclusion may only be used to offset a lifetime genera
+tion skipping transfer.
+45. A
+The FASB (Financial Accounting Standards Board) is a private, non-profit organization
+whose primary purpose is to establish and improve generally accepted accounting prin
+ciples within the U.S.
+46.B
+Gross Domestic Product (GDP) = C + I + G + E
+C = Personal consumption
+I = Gross private domestic investment
+G = Government spending
+E = Net exports
+184
+Practice Exam 5
+47. A
+To conduct bottom-up investment analysis, first examine a specific company, then ex
+amine a specific industry, then examine a specific economy, then examine the global
+economy.
+48. D
+All of the groups listed may be excluded from participating in an employee stock purchase
+plan (ESPP). These include employees working less than 20 hours per week, employees
+with less than 2 years of service, and officers of the employer.
+49.C
+Financial risk is the risk associated with a company's decision to use debt as part of its
+capital structure.
+50. E
+Credit risk is the possibility that a bond issuer will default.
+51. A
+Business risk is the risk inherent in company operations.
+52. C
+The two government agencies responsible for monitoring qualified retirement plan
+rules and eligibility are the IRS and the Department of Labor.
+53.A
+If a person dies testate or intestate, his or her property will be subject to probate.
+54. B
+In a defined benefit plan, employer contributions can vary but participant benefits are
+fixed. The employer assumes the investment risk, and they tend to favor older employees.
+55.D
+Non-systematic risk is the risk associated with a particular security or company. It in
+cludes risks such as tax risk and financial risk. An investor who owns five growth stocks
+can reduce non-systematic risk by adding a value stock to her portfolio.
+56. D
+Money in a Coverdell Education Savings Account (ESA) must be used by the time the
+beneficiary is 30 years of age.
+57.B
+The capital asset pricing model (CAPM) calculates the required rate of return for a stock
+based on its beta and the stock market's overall rate of return. That rate of return can then
+be used in the dividend growth model to value common stock.
+58.A
+Total assets = Liabilities at year-end + Contributed capital at year-end + Beginning
+retained earnings + Revenues - Expenses - Dividends
+Total assets= $500,000 + $100,000 + $150,000 + 300,000 - $200,000 - $50,000
+Total assets = $800,000
+185
+Practice Exam 5
+59.B
+Ml= Coins and currency in circulation+ Money held in checking accounts
+60. D
+A refundable tax credit can reduce a taxpayer's income tax liability below zero. A non
+refundable tax credit cannot reduce a taxpayer's income tax liability below zero.
+61. D
+The Securities Investor Protection Act of 1970 regulates brokerage firms.
+62. C
+The Investment Company Act of 1940 regulates mutual funds.
+63.A
+The Securities Act of 1933 regulates new securities.
+64.B
+The Securities Exchange Act of 1934 regulates existing securities.
+65.C
+Treasury notes, Treasury bonds, and TIPS, whose interest and principal portions have
+been separated so they may be sold individually, are referred to as Treasury STRIPS.
+66. A
+Open-end mutual funds issue new shares and redeem existing shares from shareholders.
+The price an investor pays when buying shares of an open-end mutual fund is based on
+the fund's net asset value (NA V).
+67.B
+Regulation A permits unregistered public offerings of up to $5 million of securities in any
+12-month period.
+68.C
+Employer contributions to a SEP require immediate vesting. A 401(k) plan and money
+purchase plan may use alternate vesting schedules for employer contributions.
+69. C
+NAV= (Total value of investment - Liabilities) +Shares outstanding
+70.C
+According to the anomaly known as the small-firm effect, small cap companies have been
+shown to outperform large cap companies on a risk-adjusted basis over a period of many
+years.
+71. B
+Interest earned on private activity bonds is a tax preference item for alternative mini
+mum tax (AMT).
+72. B
+According to the Uniform Securities Act, if the Administrator issues a subpoena and the
+affected party fails to respond, it is referred to as contumacy.
+186
+Practice Exam 5
+73.C
+GDP = C + I + G + (X-M)
+GDP = $11.4 + $6.2 + $3.3 + ($1.8 - $2.9) = $19.8 billion
+74. D
+A corporate insider is defined as a director or senior officer of a company, as well as any
+person or entity that beneficially owns more than 10% of a company's voting shares.
+75.C
+Only Government National Mortgage Association certificates (Ginnie Maes) are backed
+by the full faith and credit of the U.S. government.
+76. A
+Series EE bonds provide tax-exempt interest if the proceeds are used to pay for qualify
+ing education expenses.
+77. C
+The value of publicly traded stocks and bonds is the mean between the highest and lowest
+quoted selling price on the date of disposition for gift and estate tax purposes.
+78. C
+An order book official (OBO) is an exchange employee who is in charge of keeping a
+book of public limit orders on exchanges utilizing the "market-maker" system.
+79.A
+Employer contributions to a defined contribution plan must use either the 3-year cliff
+vesting or 6-year graded vesting schedules.
+80. A
+A bond anticipation note (BAN) is a short-term obligation that is issued for temporary
+financing needs by a municipality.
+81.A
+A buy stop order is an order to buy a stock at a price above the current market price.
+82.B
+A variable life insurance policy will pay benefits that vary according to the value of the
+underlying investments.
+83. C
+Regarding IAR registration, all individual registrations are administered at the state level,
+regardless of whether the RIA firm is registered at the SEC or state level.
+84. B
+Wills do not avoid probate. Planning for incapacity is addressed through powers of attor
+ney, not through the will. The will is often read after the decedent's funeral, therefore
+burial wishes should not be included. A will can be used to establish a testamentary trust
+187
+Practice Exam 5
+85. D
+An indenture agreement describes the terms and conditions of a bond, including call
+provisions, description of collateral, and how coupon payments are determined.
+86.D
+Form 10-Q must be filed for each of the first three fiscal quarters of a company's fiscal
+year. It includes unaudited financial statements and provides a continuing view of the
+company's financial position during the year.
+87. C
+Money purchase plans are easy to explain to employees because contributions are based
+on a flat percentage of compensation. Money purchase plans tend to favor younger em
+ployees, and forfeitures can be reallocated to remaining employees. Contributions cannot
+be omitted in certain years. The "substantial and recurring" rule only applies to profit
+sharing plans.
+88.B
+A trade surplus results from a country exporting more than it imports.
+89. D
+Eurodollars are U.S. dollar denominated deposits in banks located outside the U.S. They
+do not involve deposits at only European banks.
+90.A
+Confirmation bias describes an investor's tendency to look for information that supports
+his or her previously established decision, even if that decision was imprudent It may
+explain why investors are slow to sell an underperforming stock.
+91. C
+The lnstinet is a computerized subscriber service that serves as a vehicle for the fourth
+market by permitting subscribers to display bids and offers and execute trades electron
+ically.
+92. D
+An unqualified legal opinion means that the bond counsel has no reservations regarding
+the bond issue, and it is considered the most desirable for investors.
+93.C
+Certificates of deposit (CDs) are known as "time deposits." They are deposits made with
+a bank for a specified period of time.
+94.A
+In any single life private annuity transaction, if the seller outlives his or her actuarial life
+expectancy, the purchaser will have paid too much for the property. If the seller does not
+outlive his or her actuarial life expectancy, the purchaser will have made a good financial
+deal.
+95.C
+The annual report on Form 10-K provides a comprehensive overview of a company's
+business and financial condition and includes audited financial statements.
+188
+Practice Exam 5
+96.B
+$85,000 - $67,000 = $18,000.
+Accounts receivable (an asset) increases by $85,000. The balance in inventory (an asset)
+decreases by $67,000. The net increase in assets is $18,000.
+97.C
+Cyclical stocks tend to prosper in growing and expanding economies, and do poorly dur
+ing down business cycles.
+98.A
+The Bank Secrecy Act of 1970, also known as the Currency and Foreign Transactions Re
+porting Act, requires financial institutions to assist U.S. government agencies in detecting
+and preventing money laundering.
+99.A
+A. SEP requires immediate vesting. A money purchase plan, 401(k) plan, and 403(b)
+plan may use alternate vesting schedules.
+100.A
+REITs are publicly traded closed-end investment companies that can sell at a premium
+or discount to its NAV. A mortgage REIT is a specific type of REIT.
+101.C
+The typical limit on the term of a loan from a qualified retirement plan is 5 years.
+102. C
+A bond swap refers to taking a loss on a bond and replacing it with a substantially differ
+ent bond to avoid triggering the wash sale rule.
+103. D
+For the 15% capital gains rate to apply, Steve must be in a marginal tax bracket of 25% or
+higher. To qualify for long-term capital gains, assets must be held for more than one year.
+104. D
+Taking more or less risk will move the investor's position along the efficient frontier, but
+will not shift it The same is true of changing the proportion of securities already invested
+in the portfolio. However, by selecting investments with lower coefficients of correlation,
+the risk will be reduced and the efficient frontier will shift upward and to the left.
+105.C
+Rehypothecation refers to a broker using securities in his or her possession, but owned
+by a customer, as collateral to raise a loan to cover a short position.
+106.B
+The maximum prison sentence for an insider trading violation is 20 years.
+107.C
+An S Corp must be a domestic corporation and may have up to 100 shareholders. All
+shareholders must be U.S. citizens or residents. Only one class of stock is permitted with
+an S Corp.
+189
+Practice Exam 5
+108.D
+All of the items listed are permitted investments in an IRA. These include a mutual fund
+that invests exclusively in a silver mining stock, gold coins minted in the U.S., and a real
+estate investment trust (REIT).
+109.C
+(Current assets - Inventory) + Current liabilities = Quick ratio
+110.A
+To calculate core inflation, food and energy prices are excluded from the calculation.
+111.A
+Investment advisers that have custody of client assets or require prepayment of advisory
+fees 6 months or more in advance, and in excess of $1200 for each client, must file an
+audited balance sheet with the SEC as of the end of the investment adviser's fiscal year.
+112.C
+Class C mutual fund shares charge a level load.
+113.C
+Investment risk is the chance that an investment's actual return will be less than its ex
+pected return.
+114. D
+Sole proprietorships are the simplest form of business entity, and they have no formal
+legal requirements. They have a lack of continuity of business life and provide unlimited
+liability to owners.
+115. A
+A bear spread seeks to maximize an investor's profit when the price of an underlying se
+curity decreases in value.
+116.A
+The Maloney Act of 1938 allowed for the establishment of the National Association of
+Securities Dealers (NASD) and the U.S. domestic over-the-counter markets in securities.
+117.A
+Lower-coupon bonds are more affected by interest rate changes than higher-coupon
+bonds. Lower-coupon bonds have more price volatility.
+118.B
+The shorter a bond's term to maturity, the less its potential for relative price fluctuation.
+Long-term bonds have more price volatility.
+119.A
+Long-term bonds are more affected by interest rate changes than short-term bonds.
+Long-term bonds have more price volatility.
+190
+Practice Exam 5
+120. C
+Qualified personal residence trusts (QPRTs) are commonly used for vacation homes,
+and homes valued over $1,000,000. The grantor will have a taxable gift upon the crea
+tion of a QPRT.
+121.B
+Rule 72(t) of the tax code allows individuals to make withdrawals before age 59 % from
+certain retirement accounts without penalty, as long as the SEPP (substantially equal pe
+riodic payment) regulation is met.
+122. D
+Because Dawn contributed to a qualified retirement plan, the entire amount that she with
+draws will be taxed as ordinary income.
+123. A
+To open a health savings account (HSA), an individual must have a high-deductible health
+plan (HDHP).
+124. D
+Te n a n c y by entirety is a form of joint tenancy allowed for married couples. It is severable
+only by both spouses, and the property automatically passes to the surviving spouse when
+the first spouse dies.
+125.B
+ROE = NI + Average BVE,
+ROE; = $950,000 / $3,260,000 = 0.2914 = 29.14%
+126. B
+A spread is the simultaneous purchase of one option and the sale of another option on the
+same side or position within the market. For example, purchasing a call option and selling
+a call option on the same stock at the same time is a spread.
+127. A
+A collar is a technique used to protect an investor's gain in a long position of stock. Spe
+cifically, an investor purchases a put option to protect against a decline in the value of an
+underlying stock, and sells a call option to generate premium income to cover the cost of
+the put option premium.
+128. D
+In a protective put, an investor purchases a put option while holding shares of an under
+lying stock from a previous purchase.
+129. C
+A straddle is the simultaneous purchase of a call option and a put option on the same
+stock at the same time.
+130. A
+EMMA (Electronic Municipal Market Access System) is the official repository for infor
+mation on virtually all municipal bonds, and provides free access to official disclosures,
+trade data, and other information about the municipal securities market.
+191

@@ -1,0 +1,278 @@
+# Supabase Schema and Migrations for Series 65 Training App/Game
+
+---
+
+## 00_init_schema.sql
+
+```sql
+-- Create users table
+create table if not exists users (
+  id uuid primary key default uuid_generate_v4(),
+  email text unique not null,
+  password_hash text not null,
+  created_at timestamptz default now()
+);
+
+-- Create courses table
+create table if not exists courses (
+  id uuid primary key default uuid_generate_v4(),
+  title text not null,
+  description text,
+  created_at timestamptz default now()
+);
+
+-- Create modules table
+create table if not exists modules (
+  id uuid primary key default uuid_generate_v4(),
+  course_id uuid references courses(id) on delete cascade,
+  title text not null,
+  position int not null,
+  created_at timestamptz default now()
+);
+
+-- Create questions table
+create table if not exists questions (
+  id uuid primary key default uuid_generate_v4(),
+  module_id uuid references modules(id) on delete cascade,
+  question_text text not null,
+  question_type text not null check (question_type in ('multiple_choice', 'true_false', 'fill_in_blank')),
+  position int not null,
+  created_at timestamptz default now()
+);
+
+-- Create answers table
+create table if not exists answers (
+  id uuid primary key default uuid_generate_v4(),
+  question_id uuid references questions(id) on delete cascade,
+  answer_text text not null,
+  is_correct boolean default false,
+  position int not null,
+  created_at timestamptz default now()
+);
+
+-- Create user_progress table
+create table if not exists user_progress (
+  id uuid primary key default uuid_generate_v4(),
+  user_id uuid references users(id) on delete cascade,
+  question_id uuid references questions(id) on delete cascade,
+  is_correct boolean,
+  answered_at timestamptz default now(),
+  unique(user_id, question_id)
+);
+
+-- Create user_scores table
+create table if not exists user_scores (
+  id uuid primary key default uuid_generate_v4(),
+  user_id uuid references users(id) on delete cascade,
+  course_id uuid references courses(id) on delete cascade,
+  score int default 0,
+  updated_at timestamptz default now(),
+  unique(user_id, course_id)
+);
+```
+
+---
+
+## 01_rls_policies.sql
+
+```sql
+-- Enable Row Level Security
+alter table users enable row level security;
+alter table courses enable row level security;
+alter table modules enable row level security;
+alter table questions enable row level security;
+alter table answers enable row level security;
+alter table user_progress enable row level security;
+alter table user_scores enable row level security;
+
+-- Users can only see their own user record
+create policy "Users can view their own data" on users
+  for select using (auth.uid() = id);
+
+-- Users can update their own user record
+create policy "Users can update their own data" on users
+  for update using (auth.uid() = id);
+
+-- Courses are public read
+create policy "Public can select courses" on courses
+  for select using (true);
+
+-- Modules are public read
+create policy "Public can select modules" on modules
+  for select using (true);
+
+-- Questions are public read
+create policy "Public can select questions" on questions
+  for select using (true);
+
+-- Answers are public read
+create policy "Public can select answers" on answers
+  for select using (true);
+
+-- Users can insert and select their own user_progress
+create policy "Users can insert own progress" on user_progress
+  for insert with check (auth.uid() = user_id);
+
+create policy "Users can select own progress" on user_progress
+  for select using (auth.uid() = user_id);
+
+create policy "Users can update own progress" on user_progress
+  for update using (auth.uid() = user_id);
+
+-- Users can insert and select their own user_scores
+create policy "Users can insert own scores" on user_scores
+  for insert with check (auth.uid() = user_id);
+
+create policy "Users can select own scores" on user_scores
+  for select using (auth.uid() = user_id);
+
+create policy "Users can update own scores" on user_scores
+  for update using (auth.uid() = user_id);
+```
+
+---
+
+## 02_helpers.sql
+
+```sql
+-- Function to get user score percentage for a course
+create or replace function get_user_score_percentage(p_user_id uuid, p_course_id uuid)
+returns numeric language sql stable as $$
+  select coalesce( (score * 100.0) / (select count(*) from questions q join modules m on q.module_id = m.id where m.course_id = p_course_id), 0)
+  from user_scores
+  where user_id = p_user_id and course_id = p_course_id
+$$;
+
+-- Function to get next question for a user in a course
+create or replace function get_next_question(p_user_id uuid, p_course_id uuid)
+returns setof questions language plpgsql stable as $$
+begin
+  return query
+  select q.*
+  from questions q
+  join modules m on q.module_id = m.id
+  where m.course_id = p_course_id
+  and q.id not in (
+    select question_id from user_progress where user_id = p_user_id
+  )
+  order by m.position, q.position
+  limit 1;
+end;
+$$;
+```
+
+---
+
+## 03_indexes.sql
+
+```sql
+create index if not exists idx_modules_course_id on modules(course_id);
+create index if not exists idx_questions_module_id on questions(module_id);
+create index if not exists idx_answers_question_id on answers(question_id);
+create index if not exists idx_user_progress_user_question on user_progress(user_id, question_id);
+create index if not exists idx_user_scores_user_course on user_scores(user_id, course_id);
+```
+
+---
+
+## 04_seeds.sql
+
+```sql
+-- Seed courses
+insert into courses (id, title, description) values
+  ('11111111-1111-1111-1111-111111111111', 'Series 65 Training', 'Comprehensive training for Series 65 exam');
+
+-- Seed modules
+insert into modules (id, course_id, title, position) values
+  ('22222222-2222-2222-2222-222222222222', '11111111-1111-1111-1111-111111111111', 'Module 1: Introduction', 1),
+  ('33333333-3333-3333-3333-333333333333', '11111111-1111-1111-1111-111111111111', 'Module 2: Investment Vehicles', 2);
+
+-- Seed questions
+insert into questions (id, module_id, question_text, question_type, position) values
+  ('44444444-4444-4444-4444-444444444444', '22222222-2222-2222-2222-222222222222', 'What is the primary purpose of the Series 65 exam?', 'multiple_choice', 1),
+  ('55555555-5555-5555-5555-555555555555', '22222222-2222-2222-2222-222222222222', 'True or False: The Series 65 license allows you to act as an investment advisor.', 'true_false', 2);
+
+-- Seed answers
+insert into answers (id, question_id, answer_text, is_correct, position) values
+  ('66666666-6666-6666-6666-666666666666', '44444444-4444-4444-4444-444444444444', 'To qualify individuals as investment advisor representatives', true, 1),
+  ('77777777-7777-7777-7777-777777777777', '44444444-4444-4444-4444-444444444444', 'To license stockbrokers', false, 2),
+  ('88888888-8888-8888-8888-888888888888', '55555555-5555-5555-5555-555555555555', 'True', true, 1),
+  ('99999999-9999-9999-9999-999999999999', '55555555-5555-5555-5555-555555555555', 'False', false, 2);
+```
+
+---
+
+## 05_security.sql
+
+```sql
+-- Revoke all on public schema from public role
+revoke all on schema public from public;
+
+-- Grant usage on public schema to authenticated users
+grant usage on schema public to authenticated;
+
+-- Grant select on tables to authenticated users as per policies
+grant select on courses, modules, questions, answers to authenticated;
+grant insert, select, update on user_progress, user_scores to authenticated;
+grant select, update on users to authenticated;
+```
+
+---
+
+## Environment Variables
+
+```
+NEXT_PUBLIC_SUPABASE_URL=your-supabase-url
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your-supabase-anon-key
+SUPABASE_SERVICE_ROLE_KEY=your-supabase-service-role-key
+```
+
+---
+
+## Next.js Scaffolding
+
+- Use `create-next-app` with TypeScript.
+- Install `@supabase/supabase-js` for client integration.
+- Setup API routes for authentication and user progress.
+- Use SWR or React Query for data fetching and caching.
+- Implement context provider for Supabase client.
+
+---
+
+## Content Authoring Format
+
+- Content is structured in courses, modules, questions, and answers.
+- Questions support multiple choice, true/false, and fill-in-the-blank types.
+- Use JSON or Markdown for authoring question content externally.
+- Provide metadata fields such as position for ordering.
+- Support rich text and media links in question_text and answer_text fields.
+
+---
+
+## Admin and Content Ops
+
+- Admin interface to create/edit courses, modules, questions, and answers.
+- Role-based access control to restrict content editing to admins.
+- Batch import/export of content via CSV or JSON.
+- Audit logs for content changes.
+- User management interface for admins.
+
+---
+
+## Test Plan
+
+- Unit tests for database functions and triggers.
+- Integration tests for API routes.
+- End-to-end tests for user flows: registration, taking quizzes, viewing scores.
+- Security tests for RLS policies.
+- Load tests for performance under concurrent users.
+
+---
+
+## Open Items
+
+- Define detailed user roles beyond basic user and admin.
+- Add support for multimedia content in questions.
+- Implement analytics dashboard for user performance.
+- Setup automated backup and restore processes.
+- Define localization strategy for multi-language support.

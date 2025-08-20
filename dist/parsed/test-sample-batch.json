@@ -1,0 +1,166 @@
+[
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following is a notice made in the financial press that formally announces a particular transaction, such as an IPO or stock placement?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Omitting prospectus"
+      },
+      {
+        "id": "B",
+        "text": "Preliminary prospectus"
+      },
+      {
+        "id": "C",
+        "text": "Red herring"
+      },
+      {
+        "id": "D",
+        "text": "Tombstone ad"
+      }
+    ],
+    "correct": [
+      "D"
+    ],
+    "rationale": "A tombstone ad is a type of advertisement that announces a financial transaction, such as an IPO, in the financial press.",
+    "difficulty": 2,
+    "tags": [
+      "IPO",
+      "advertisement",
+      "financial press",
+      "transactions"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following is/are correct regarding stock splits and reverse stock splits?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "(1) only"
+      },
+      {
+        "id": "B",
+        "text": "(2) only"
+      },
+      {
+        "id": "C",
+        "text": "Both (1) and (2) are correct"
+      },
+      {
+        "id": "D",
+        "text": "Neither (1) or (2) are correct"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "A 3-for-1 stock split decreases the market price per share, while a reverse stock split is intended to increase the market price per share.",
+    "difficulty": 2,
+    "tags": [
+      "stock splits",
+      "reverse stock splits",
+      "market price",
+      "investment vehicles"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following is the minimum denomination of Treasury notes that can be purchased by an investor?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "$50"
+      },
+      {
+        "id": "B",
+        "text": "$100"
+      },
+      {
+        "id": "C",
+        "text": "$1,000"
+      },
+      {
+        "id": "D",
+        "text": "$10,000"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "The minimum denomination of Treasury notes that can be purchased by an investor is $1,000.",
+    "difficulty": 2,
+    "tags": [
+      "Treasury Notes",
+      "Investment Vehicles",
+      "Minimum Denomination"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "The statement of cash flows is separated into all but which of the following categories?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Cash flow from financing activities"
+      },
+      {
+        "id": "B",
+        "text": "Cash flow from income activities"
+      },
+      {
+        "id": "C",
+        "text": "Cash flow from investing activities"
+      },
+      {
+        "id": "D",
+        "text": "Cash flow from operating activities"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "rationale": "The statement of cash flows is categorized into cash flow from operating, investing, and financing activities. There is no category for cash flow from income activities.",
+    "difficulty": 2,
+    "tags": [
+      "cash flows",
+      "financial statements",
+      "accounting",
+      "investment vehicles"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following are permitted investments in an IRA?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "(3) and (4) only"
+      },
+      {
+        "id": "B",
+        "text": "(1), (2), and (3) only"
+      },
+      {
+        "id": "C",
+        "text": "(2), (3), and (4) only"
+      },
+      {
+        "id": "D",
+        "text": "All of the above are correct"
+      }
+    ],
+    "correct": [
+      "D"
+    ],
+    "rationale": "All listed options (real estate, money market funds, common stock, and bond funds) are permitted investments in an IRA.",
+    "difficulty": 2,
+    "tags": [
+      "IRA",
+      "investments",
+      "financial planning",
+      "retirement"
+    ]
+  }
+]

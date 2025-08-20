@@ -1,0 +1,306 @@
+[
+	{
+		"module_code": "EFBI",
+		"stem": "Which of the following best describes the primary role of the Securities and Exchange Commission (SEC)?",
+		"choices": [
+			{
+				"id": "A",
+				"text": "To enforce federal securities laws and regulate the securities industry."
+			},
+			{ "id": "B", "text": "To provide insurance for bank deposits." },
+			{ "id": "C", "text": "To set interest rates for commercial banks." },
+			{ "id": "D", "text": "To guarantee returns on municipal bonds." }
+		],
+		"correct": ["A"],
+		"rationale": "The SEC enforces securities laws and regulates the industry; other agencies handle banking and insurance.",
+		"difficulty": 2,
+		"tags": ["regulation", "SEC", "basics"]
+	},
+	{
+		"module_code": "EFBI",
+		"stem": "A broker-dealer must register with which of the following organizations to conduct securities transactions with the public?",
+		"choices": [
+			{ "id": "A", "text": "Federal Reserve" },
+			{ "id": "B", "text": "FINRA" },
+			{ "id": "C", "text": "FDIC" },
+			{ "id": "D", "text": "OCC" }
+		],
+		"correct": ["B"],
+		"rationale": "FINRA is the primary self-regulatory organization for broker-dealers.",
+		"difficulty": 2,
+		"tags": ["registration", "broker-dealer", "FINRA"]
+	},
+	{
+		"module_code": "EFBI",
+		"stem": "Which of the following is NOT considered a security under federal law?",
+		"choices": [
+			{ "id": "A", "text": "Common stock" },
+			{ "id": "B", "text": "Municipal bond" },
+			{ "id": "C", "text": "Fixed annuity" },
+			{ "id": "D", "text": "Investment contract" }
+		],
+		"correct": ["C"],
+		"rationale": "Fixed annuities are insurance products, not securities.",
+		"difficulty": 3,
+		"tags": ["security definition", "annuity"]
+	},
+	{
+		"module_code": "EFBI",
+		"stem": "An investment adviser representative (IAR) is required to register in which of the following situations?",
+		"choices": [
+			{
+				"id": "A",
+				"text": "When advising only institutional clients in their home state"
+			},
+			{
+				"id": "B",
+				"text": "When soliciting five or fewer retail clients in another state"
+			},
+			{ "id": "C", "text": "When they have a place of business in the state" },
+			{
+				"id": "D",
+				"text": "When only providing advice on U.S. government securities"
+			}
+		],
+		"correct": ["C"],
+		"rationale": "Registration is required if the IAR has a place of business in the state.",
+		"difficulty": 3,
+		"tags": ["registration", "IAR"]
+	},
+	{
+		"module_code": "EFBI",
+		"stem": "Which of the following best describes a 'broker' under the Uniform Securities Act?",
+		"choices": [
+			{
+				"id": "A",
+				"text": "A person who effects securities transactions for their own account"
+			},
+			{
+				"id": "B",
+				"text": "A person who effects securities transactions for the accounts of others"
+			},
+			{ "id": "C", "text": "A person who manages investment portfolios" },
+			{ "id": "D", "text": "A person who guarantees investment returns" }
+		],
+		"correct": ["B"],
+		"rationale": "A broker effects transactions for others; for their own account is a dealer.",
+		"difficulty": 2,
+		"tags": ["definitions", "broker"]
+	},
+	{
+		"module_code": "IVC",
+		"stem": "Which of the following investments is most suitable for an investor seeking regular income with low risk?",
+		"choices": [
+			{ "id": "A", "text": "Growth stocks" },
+			{ "id": "B", "text": "High-yield bonds" },
+			{ "id": "C", "text": "U.S. Treasury notes" },
+			{ "id": "D", "text": "International equity funds" }
+		],
+		"correct": ["C"],
+		"rationale": "U.S. Treasury notes offer regular income and are low risk.",
+		"difficulty": 2,
+		"tags": ["suitability", "fixed income"]
+	},
+	{
+		"module_code": "IVC",
+		"stem": "A client in a high tax bracket is most likely to benefit from investing in which of the following?",
+		"choices": [
+			{ "id": "A", "text": "Municipal bonds" },
+			{ "id": "B", "text": "Corporate bonds" },
+			{ "id": "C", "text": "Money market funds" },
+			{ "id": "D", "text": "Preferred stock" }
+		],
+		"correct": ["A"],
+		"rationale": "Municipal bond interest is generally exempt from federal income tax.",
+		"difficulty": 2,
+		"tags": ["taxation", "municipal bonds", "suitability"]
+	},
+	{
+		"module_code": "IVC",
+		"stem": "Which of the following best characterizes a closed-end investment company?",
+		"choices": [
+			{ "id": "A", "text": "Issues redeemable shares at NAV" },
+			{ "id": "B", "text": "Shares trade on secondary markets" },
+			{ "id": "C", "text": "Continuously offers new shares" },
+			{ "id": "D", "text": "Only invests in government securities" }
+		],
+		"correct": ["B"],
+		"rationale": "Closed-end funds trade on exchanges like stocks.",
+		"difficulty": 3,
+		"tags": ["investment companies", "closed-end funds"]
+	},
+	{
+		"module_code": "IVC",
+		"stem": "A 35-year-old investor wants to maximize long-term growth for retirement. Which portfolio allocation is MOST appropriate?",
+		"choices": [
+			{ "id": "A", "text": "80% equities, 20% bonds" },
+			{ "id": "B", "text": "20% equities, 80% bonds" },
+			{ "id": "C", "text": "100% money market funds" },
+			{ "id": "D", "text": "50% equities, 50% cash" }
+		],
+		"correct": ["A"],
+		"rationale": "Younger investors can take more risk for higher growth potential.",
+		"difficulty": 2,
+		"tags": ["asset allocation", "retirement", "suitability"]
+	},
+	{
+		"module_code": "IVC",
+		"stem": "Which of the following is a primary risk associated with investing in preferred stock?",
+		"choices": [
+			{ "id": "A", "text": "Credit risk" },
+			{ "id": "B", "text": "Interest rate risk" },
+			{ "id": "C", "text": "Liquidity risk" },
+			{ "id": "D", "text": "Currency risk" }
+		],
+		"correct": ["B"],
+		"rationale": "Preferred stock prices are sensitive to changes in interest rates.",
+		"difficulty": 3,
+		"tags": ["preferred stock", "risk"]
+	},
+	{
+		"module_code": "CIRS",
+		"stem": "An adviser recommends a security without disclosing a material conflict of interest. This is a violation of which fiduciary duty?",
+		"choices": [
+			{ "id": "A", "text": "Duty of loyalty" },
+			{ "id": "B", "text": "Duty of care" },
+			{ "id": "C", "text": "Duty to diversify" },
+			{ "id": "D", "text": "Duty to supervise" }
+		],
+		"correct": ["A"],
+		"rationale": "Advisers must disclose conflicts to fulfill their duty of loyalty.",
+		"difficulty": 3,
+		"tags": ["fiduciary", "conflict of interest"]
+	},
+	{
+		"module_code": "CIRS",
+		"stem": "Which of the following is considered an unethical business practice for an investment adviser?",
+		"choices": [
+			{ "id": "A", "text": "Charging a reasonable fee" },
+			{ "id": "B", "text": "Borrowing money from a client" },
+			{ "id": "C", "text": "Disclosing conflicts of interest" },
+			{ "id": "D", "text": "Recommending diversified portfolios" }
+		],
+		"correct": ["B"],
+		"rationale": "Borrowing from clients is generally prohibited as unethical.",
+		"difficulty": 2,
+		"tags": ["ethics", "unethical practices"]
+	},
+	{
+		"module_code": "CIRS",
+		"stem": "A client asks an adviser to guarantee a minimum investment return. The adviser should:",
+		"choices": [
+			{ "id": "A", "text": "Guarantee the return if the client insists" },
+			{ "id": "B", "text": "Explain that guarantees are prohibited" },
+			{ "id": "C", "text": "Guarantee the return in writing" },
+			{ "id": "D", "text": "Refer the client to another adviser" }
+		],
+		"correct": ["B"],
+		"rationale": "Guaranteeing returns is prohibited; the adviser should explain this.",
+		"difficulty": 2,
+		"tags": ["ethics", "guarantees"]
+	},
+	{
+		"module_code": "CIRS",
+		"stem": "An adviser receives nonpublic information about a company. Trading on this information is known as:",
+		"choices": [
+			{ "id": "A", "text": "Front-running" },
+			{ "id": "B", "text": "Insider trading" },
+			{ "id": "C", "text": "Churning" },
+			{ "id": "D", "text": "Selling away" }
+		],
+		"correct": ["B"],
+		"rationale": "Trading on material nonpublic information is insider trading.",
+		"difficulty": 3,
+		"tags": ["insider trading", "ethics"]
+	},
+	{
+		"module_code": "CIRS",
+		"stem": "Which of the following actions may result in disciplinary action against an investment adviser representative?",
+		"choices": [
+			{ "id": "A", "text": "Failing to update Form ADV promptly" },
+			{ "id": "B", "text": "Recommending suitable investments" },
+			{ "id": "C", "text": "Disclosing all fees to clients" },
+			{ "id": "D", "text": "Maintaining client confidentiality" }
+		],
+		"correct": ["A"],
+		"rationale": "Form ADV must be updated promptly; failure may result in discipline.",
+		"difficulty": 4,
+		"tags": ["compliance", "Form ADV"]
+	},
+	{
+		"module_code": "LRG",
+		"stem": "Under the Uniform Securities Act, which of the following is NOT a security?",
+		"choices": [
+			{ "id": "A", "text": "Stock options" },
+			{ "id": "B", "text": "Variable annuity" },
+			{ "id": "C", "text": "Whole life insurance policy" },
+			{ "id": "D", "text": "Debenture" }
+		],
+		"correct": ["C"],
+		"rationale": "Whole life insurance is not a security; variable annuities and the others are.",
+		"difficulty": 2,
+		"tags": ["security definition", "insurance"]
+	},
+	{
+		"module_code": "LRG",
+		"stem": "Which of the following is NOT exempt from registration under the Securities Act of 1933?",
+		"choices": [
+			{ "id": "A", "text": "U.S. government securities" },
+			{ "id": "B", "text": "Municipal bonds" },
+			{ "id": "C", "text": "Publicly traded common stock" },
+			{ "id": "D", "text": "Commercial paper maturing in 270 days" }
+		],
+		"correct": ["C"],
+		"rationale": "Publicly traded stock must be registered; the others are exempt.",
+		"difficulty": 3,
+		"tags": ["registration", "exempt securities"]
+	},
+	{
+		"module_code": "LRG",
+		"stem": "A state securities administrator may deny registration of a security for all of the following reasons EXCEPT:",
+		"choices": [
+			{ "id": "A", "text": "The offering is fraudulent" },
+			{ "id": "B", "text": "The issuer's business plan is unreasonably risky" },
+			{ "id": "C", "text": "The issuer fails to pay filing fees" },
+			{ "id": "D", "text": "The security is blue-chip stock" }
+		],
+		"correct": ["D"],
+		"rationale": "Blue-chip stocks are not grounds for denial; the others are valid reasons.",
+		"difficulty": 4,
+		"tags": ["state registration", "denial"]
+	},
+	{
+		"module_code": "LRG",
+		"stem": "Which of the following statements about federal covered securities is TRUE?",
+		"choices": [
+			{ "id": "A", "text": "They are regulated exclusively by the states." },
+			{
+				"id": "B",
+				"text": "States may require notice filings but not registration."
+			},
+			{
+				"id": "C",
+				"text": "They must be registered in every state where sold."
+			},
+			{ "id": "D", "text": "They are not subject to any regulation." }
+		],
+		"correct": ["B"],
+		"rationale": "States can require notice filings for federal covered securities, but not registration.",
+		"difficulty": 3,
+		"tags": ["federal covered securities", "state regulation"]
+	},
+	{
+		"module_code": "LRG",
+		"stem": "An agent sells unregistered, non-exempt securities to a client. What is the likely consequence?",
+		"choices": [
+			{ "id": "A", "text": "The client may sue for rescission" },
+			{ "id": "B", "text": "The agent receives a commission" },
+			{ "id": "C", "text": "The sale is valid with written disclosure" },
+			{ "id": "D", "text": "The securities become exempt" }
+		],
+		"correct": ["A"],
+		"rationale": "Clients may sue for rescission if sold unregistered, non-exempt securities.",
+		"difficulty": 4,
+		"tags": ["registration", "liability"]
+	}
+]

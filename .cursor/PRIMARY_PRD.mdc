@@ -1,0 +1,248 @@
+---
+alwaysApply: true
+---
+
+# Series 65 Training App/Game PRD
+
+## Overview
+The Series 65 Training App/Game is designed to help users prepare for the Series 65 exam through an engaging, interactive learning experience. The app combines educational content with gamification elements to enhance retention and motivation.
+
+## Objectives
+- Provide comprehensive coverage of Series 65 exam topics.
+- Deliver content in an interactive, game-like format.
+- Track user progress and adapt difficulty dynamically.
+- Enable content authors to easily update and expand question banks.
+- Support both web and mobile platforms.
+
+## Core Features
+- **Question Bank:** Extensive database of Series 65 questions categorized by topic.
+- **Interactive Quizzes:** Timed quizzes with instant feedback.
+- **Progress Tracking:** User profiles with detailed progress analytics.
+- **Adaptive Learning:** Difficulty adjusts based on user performance.
+- **Gamification:** Points, badges, leaderboards, and streaks.
+- **Content Management:** Admin interface for question and content updates.
+- **Multi-platform Support:** Responsive design for web and mobile.
+
+## Technical Architecture
+- **Frontend:** Next.js with React for UI, Tailwind CSS for styling.
+- **Backend:** Supabase for database, authentication, and real-time features.
+- **Deployment:** Vercel for frontend hosting, Supabase managed backend.
+- **APIs:** RESTful or GraphQL endpoints for content delivery and user data.
+- **State Management:** React Query or SWR for data fetching and caching.
+
+## User Flow
+1. User signs up or logs in.
+2. Completes a diagnostic quiz to assess baseline knowledge.
+3. Engages with topic-based quizzes and learning modules.
+4. Earns points and badges for correct answers and streaks.
+5. Views progress dashboard and leaderboard.
+6. Revisits weak topics with adaptive question selection.
+
+## Gamification Mechanics
+- Points awarded per correct answer.
+- Bonus points for streaks and timed completions.
+- Badges for milestones (e.g., 100 questions answered).
+- Leaderboards to foster competition.
+- Unlockable content and levels.
+
+## Roadmap
+- **MVP:** Core quiz functionality, user auth, progress tracking.
+- **Phase 2:** Gamification elements, adaptive learning algorithms.
+- **Phase 3:** Content authoring tools, admin dashboard.
+- **Phase 4:** Mobile app launch and push notifications.
+- **Phase 5:** Analytics and personalized recommendations.
+
+## Success Metrics
+- User retention rate.
+- Average quiz completion rate.
+- Improvement in quiz scores over time.
+- Number of active users and content contributors.
+- User satisfaction and feedback ratings.
+
+## Next Steps
+- Finalize question bank and categorize content.
+- Develop frontend components and backend schema.
+- Implement authentication and user profile features.
+- Build initial quiz engine and feedback system.
+- Set up Supabase project and database migrations.
+- Design gamification system and UI elements.
+
+## Supabase Schema and Migrations
+- Tables:
+  - `users`: id, email, hashed_password, profile_data
+  - `questions`: id, topic_id, question_text, options (json), correct_option
+  - `topics`: id, name, description
+  - `quizzes`: id, user_id, started_at, completed_at, score
+  - `quiz_questions`: id, quiz_id, question_id, user_answer, is_correct
+  - `badges`: id, name, description, criteria
+  - `user_badges`: id, user_id, badge_id, awarded_at
+- Migrations:
+  - Initial schema creation with constraints and indexes.
+  - Add triggers for updating user progress and badges.
+
+## Next.js Scaffolding
+- Pages:
+  - `/login`, `/signup`
+  - `/dashboard`
+  - `/quiz/[quizId]`
+  - `/topics`
+  - `/admin` (protected)
+- Components:
+  - `QuestionCard`
+  - `QuizTimer`
+  - `ProgressBar`
+  - `Leaderboard`
+  - `BadgeDisplay`
+- Hooks:
+  - `useAuth`
+  - `useQuiz`
+  - `useUserProgress`
+
+## Content Authoring Format
+- Markdown files or JSON for questions and explanations.
+- Metadata for categorization and difficulty level.
+- Version control for content updates.
+- Preview mode in admin interface.
+
+## Admin and Content Ops
+- Role-based access control.
+- Interfaces for adding/editing/deleting questions and topics.
+- Analytics dashboard for content performance.
+- User management and support tools.
+
+## Test Plan
+- Unit tests for components and hooks.
+- Integration tests for user flows.
+- End-to-end tests with Cypress or Playwright.
+- Load testing for backend APIs.
+- Usability testing with target users.
+
+## Open Items
+- Define detailed adaptive learning algorithm.
+- Finalize gamification reward thresholds.
+- Plan marketing and user acquisition strategies.
+- Explore additional content formats (video, flashcards).
+- Localization and accessibility considerations.
+
+# Series 65 Training App/Game PRD
+
+## Overview
+The Series 65 Training App/Game is designed to help users prepare for the Series 65 exam through an engaging, interactive learning experience. The app combines educational content with gamification elements to enhance retention and motivation.
+
+## Objectives
+- Provide comprehensive coverage of Series 65 exam topics.
+- Deliver content in an interactive, game-like format.
+- Track user progress and adapt difficulty dynamically.
+- Enable content authors to easily update and expand question banks.
+- Support both web and mobile platforms.
+
+## Core Features
+- **Question Bank:** Extensive database of Series 65 questions categorized by topic.
+- **Interactive Quizzes:** Timed quizzes with instant feedback.
+- **Progress Tracking:** User profiles with detailed progress analytics.
+- **Adaptive Learning:** Difficulty adjusts based on user performance.
+- **Gamification:** Points, badges, leaderboards, and streaks.
+- **Content Management:** Admin interface for question and content updates.
+- **Multi-platform Support:** Responsive design for web and mobile.
+
+## Technical Architecture
+- **Frontend:** Next.js with React for UI, Tailwind CSS for styling.
+- **Backend:** Supabase for database, authentication, and real-time features.
+- **Deployment:** Vercel for frontend hosting, Supabase managed backend.
+- **APIs:** RESTful or GraphQL endpoints for content delivery and user data.
+- **State Management:** React Query or SWR for data fetching and caching.
+
+## User Flow
+1. User signs up or logs in.
+2. Completes a diagnostic quiz to assess baseline knowledge.
+3. Engages with topic-based quizzes and learning modules.
+4. Earns points and badges for correct answers and streaks.
+5. Views progress dashboard and leaderboard.
+6. Revisits weak topics with adaptive question selection.
+
+## Gamification Mechanics
+- Points awarded per correct answer.
+- Bonus points for streaks and timed completions.
+- Badges for milestones (e.g., 100 questions answered).
+- Leaderboards to foster competition.
+- Unlockable content and levels.
+
+## Roadmap
+- **MVP:** Core quiz functionality, user auth, progress tracking.
+- **Phase 2:** Gamification elements, adaptive learning algorithms.
+- **Phase 3:** Content authoring tools, admin dashboard.
+- **Phase 4:** Mobile app launch and push notifications.
+- **Phase 5:** Analytics and personalized recommendations.
+
+## Success Metrics
+- User retention rate.
+- Average quiz completion rate.
+- Improvement in quiz scores over time.
+- Number of active users and content contributors.
+- User satisfaction and feedback ratings.
+
+## Next Steps
+- Finalize question bank and categorize content.
+- Develop frontend components and backend schema.
+- Implement authentication and user profile features.
+- Build initial quiz engine and feedback system.
+- Set up Supabase project and database migrations.
+- Design gamification system and UI elements.
+
+## Supabase Schema and Migrations
+- Tables:
+  - `users`: id, email, hashed_password, profile_data
+  - `questions`: id, topic_id, question_text, options (json), correct_option
+  - `topics`: id, name, description
+  - `quizzes`: id, user_id, started_at, completed_at, score
+  - `quiz_questions`: id, quiz_id, question_id, user_answer, is_correct
+  - `badges`: id, name, description, criteria
+  - `user_badges`: id, user_id, badge_id, awarded_at
+- Migrations:
+  - Initial schema creation with constraints and indexes.
+  - Add triggers for updating user progress and badges.
+
+## Next.js Scaffolding
+- Pages:
+  - `/login`, `/signup`
+  - `/dashboard`
+  - `/quiz/[quizId]`
+  - `/topics`
+  - `/admin` (protected)
+- Components:
+  - `QuestionCard`
+  - `QuizTimer`
+  - `ProgressBar`
+  - `Leaderboard`
+  - `BadgeDisplay`
+- Hooks:
+  - `useAuth`
+  - `useQuiz`
+  - `useUserProgress`
+
+## Content Authoring Format
+- Markdown files or JSON for questions and explanations.
+- Metadata for categorization and difficulty level.
+- Version control for content updates.
+- Preview mode in admin interface.
+
+## Admin and Content Ops
+- Role-based access control.
+- Interfaces for adding/editing/deleting questions and topics.
+- Analytics dashboard for content performance.
+- User management and support tools.
+
+## Test Plan
+- Unit tests for components and hooks.
+- Integration tests for user flows.
+- End-to-end tests with Cypress or Playwright.
+- Load testing for backend APIs.
+- Usability testing with target users.
+
+## Open Items
+- Define detailed adaptive learning algorithm.
+- Finalize gamification reward thresholds.
+- Plan marketing and user acquisition strategies.
+- Explore additional content formats (video, flashcards).
+- Localization and accessibility considerations.
+

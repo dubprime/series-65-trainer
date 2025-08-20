@@ -1,0 +1,25 @@
+import ProtectedRoute from "@/components/ProtectedRoute"
+import UserSettings from "@/components/UserSettings"
+
+export default function SettingsPage() {
+	return (
+		<ProtectedRoute>
+			<div className="min-h-screen bg-[#E8F4F8] p-6">
+				<div className="max-w-4xl mx-auto">
+					{/* Header */}
+					<div className="bg-white rounded-lg shadow-sm border border-[#E8F4F8] p-6 mb-6">
+						<h1 className="text-3xl font-bold text-[#000022] mb-2">
+							⚙️ Settings
+						</h1>
+						<p className="text-[#005E7C]">
+							Customize your study experience and manage your preferences
+						</p>
+					</div>
+
+					{/* Settings Content */}
+					<UserSettings />
+				</div>
+			</div>
+		</ProtectedRoute>
+	)
+}

@@ -1,0 +1,1786 @@
+PRACTICE
+EXAM
+6
+QUESTIONS
+1. Colin would like to offer a retirement plan to the employees at his small retail store.
+He's considering either a SIMPLE or a SEP. Which of the following is a possible disad
+vantage to Colin if he selects a SEP?
+A. A SEP must provide for a qualified preretirement survivor annuity (QPSA).
+B. Loans from a SEP are only permitted under limited circumstances.
+C. Employer contributions to a SEP are subject to FICA/FUT A withholding.
+D. An employee age 21 or older, earning $8.00 per hour, who works as few as two hours
+per week and who has done so for three years is eligible to participate in a SEP.
+2. Which of the following is/are correct regarding dividends paid by growth stocks and
+value stocks?
+(1) Because they are growing and expanding, growth stocks typically do not pay large
+dividends.
+(2) Most of the earnings generated from value stocks are reinvested back into the
+company.
+A. (1) only
+B. (2) only
+C. Both (1) and (2) are correct
+D. Neither (1) or (2) are correct.
+3. Edward purchased 100 shares of Theta stock for $55 per share. At the end of two years,
+he sold the shares for $60 per share. In the first year, the stock did not pay a dividend.
+In the second year, the stock paid a $4 dividend. What was the holding period return of
+Edward's investment?
+A. 10.09%
+B. 13.21%
+C. 16.36%
+D. 19.18%
+4. All but which of the following are correct regarding the process of underwriting an in
+surance policy?
+A. Underwriting refers to the process of selecting, classifying, and pricing applicants
+for insurance.
+B. The underwriter is the individual who decides to accept or reject an application,
+and under what conditions the policy may be issued.
+C. One of the objectives of underwriting is to generate revenue while at the same time
+limiting the insurance company's assumed risk.
+D. Restrictive underwriting typically results in higher overall claims made by policy
+holders.
+195
+Practice Exam 6
+5. According to modern portfolio theory, an investor's optimal portfolio is located at the
+point of tangency of the investor's�and the / of available investment
+assets.
+A. indifference curve, efficient frontier
+B. marginal utility curve, efficient frontier
+C. marginal utility curve, indifference curve
+D. optimal portfolio, efficient frontier
+6. Which of the following is more beneficial to a taxpayer in a 28% tax bracket, a $4,000
+deduction or a $1,000 credit?
+A. The credit will benefit the taxpayer by an additional $120.
+B. The deduction will benefit the taxpayer by an additional $120.
+C. The deduction will benefit the taxpayer by an additional $300.
+D. The deduction and credit will benefit the taxpayer by the same amount.
+7. Which of the following allow investors to aggregate their own holdings as well as the
+holdings of certain related parties, such as spouses and children, toward achieving the
+investment thresholds at which breakpoint discounts become available?
+A. Rights of accumulation
+B. Rights of conversion
+C. Rights of deferment
+D. Rights of indenture
+B. A currency transaction report (CTR) must be filed by U.S. financial institutions for each
+deposit, withdrawal, exchange of currency, or other payment to the institution which
+involves a transaction in currency of more than:
+A. $5,000.
+B. $10,000.
+C. $25,000.
+D. $50,000.
+9. Which of the following is/are correct regarding simple and complex trusts?
+(1) A simple trust is required to pay out all of its income annually to trust beneficiar
+ies and cannot distribute trust principal.
+(2) A complex trust may accumulate income or make distributions from trust
+principal.
+A. (1) only
+B. (2) only
+C. Both (1) and (2) are correct.
+D. Neither (1) or (2) are correct.
+196
+Practice Exam 6
+For questions 10 - 15, match the type of risk with the description that follows. Use only
+one answer per blank. Answers may be used more than once or not at all.
+A. Systematic risk
+B. Unsystematic risk
+10. _ Purchasing power risk
+11. _ Business risk
+12. _ Market risk
+13. _ Financial risk
+14. _ Interest rate risk
+15. _ Exchange rate risk
+16. Which of the following is the maximum criminal fine for an individual who commits
+an insider trading violation?
+A. $1 million
+B. $5 million
+C. $10 million
+D. $15 million
+17. If $1 is deposited in an interest-bearing account earning 8.5% annually, and the in
+terest is not withdrawn, the account value at the end of 3 years will be:
+A. $1.18.
+B. $1.28.
+C. $1.39.
+D. $1.50.
+18. Buying a and selling a are both bullish strategies.
+A. call, call
+B. call, put
+C. put, call
+D. put, put
+19. According to the Uniform Securities Act, which of the following are classified as
+securities?
+A. Collectibles
+B. Fixed annuities
+C. Warrants
+D. Whole life insurance policies
+197
+Practice Exam 6
+20. Which of the following is a weighted index of prices measured at the wholesale
+level?
+A. CPI
+B. GNP
+C. NNI
+D. PPI
+21. Distributions from a 401(k) plan following separation from service after age
+___ are not subject to the / premature distribution penalty.
+A. so, 10%
+B. 50, 15%
+C. 55, 10%
+D. 55, 15%
+22. All but which of the following are characteristics of defined benefit plans?
+A. Actuarial calculations are required.
+B. The employee assumes the investment risk.
+C. They favor older employees.
+D. None of the above are correct
+23. Which of the following are short-term, fixed-income securities that may be bought or
+sold in the open market at a market-determined price?
+A. ADRs
+B. Call options
+C. Eurodollars
+D. Negotiable CDs
+24. Epsilon Inc. provides the following information in its annual report (in millions):
+Shareholders' equity$57,500
+Fixed assets$48,200
+Total debt$44,100
+Revenue$66,900
+Expenses$53,800
+What is Epsilon Inc.'s debt-to-capital ratio?
+A. 43.4%
+B. 57.3%
+C. 65.9%
+D. 70.8%
+198
+Practice Exam 6
+25. ERISA Section 404(c) offers a/an for retirement plan fiduciaries to not be
+liable for investment losses suffered by plan participants who self-direct their invest
+ments.
+A. excise tax
+B. penalty
+C. safe harbor
+D. tax shelter
+26. Viatical payments to a terminally ill insured are / if he or she has a life expec
+tancy of �
+A. non-taxable, two years or less
+B. non-taxable, three years or more
+C. taxable, two years or less
+D. taxable, three years or more
+27. The U.S. government conducts policy through government spending and
+taxation.
+A. fiscal
+B. fiscal and monetary
+C. open market
+D. monetary
+28. A health savings account (HSA) can be used to pay for which of the following medi
+cal expenses incurred by the account owner?
+A. Deductibles
+B. Copayments
+C. Coinsurance
+D. All of the above
+29. Which of the following are indexed to the rate of inflation as measured by the CPI?
+A. REITs
+B. REMICs
+C. TIPS
+D. UITs
+30. All but which of the following are typically included in ADV Part 1?
+A. Affiliations
+B. Company ownership
+C. Disciplinary history
+D. Fee schedule
+199
+Practice Exam 6
+31. Which of the following is/are correct regarding the regulation of insurance compa
+nies and broker-dealers?
+(1) Insurance company regulation occurs primarily at the state level.
+(2) Broker-dealer regulation occurs primarily at the state level.
+A. (1) only
+B. (2) only
+C. Both (1) and (2) are correct
+D. Neither (1) or (2) are correct
+32. Which of the following is correct regarding the taxation of Tre a s u r y STRIPS?
+A. Tax must be paid on accrued interest each year even though no interest is re
+ceived by the investor.
+B. Tax is not paid on accrued interest each year because no interest is received by
+the investor.
+C. Tax must be paid at maturity only.
+D. Treasury STRIPS are not taxed.
+33. Prices for goods and services will / when their demand exceeds their supply.
+A. deflate
+B. inflate
+C. stagflate
+D. remain unchanged
+34. All but which of the following are permitted to establish a 403(b) plan for its em
+ployees?
+A. Federal government
+B. Private school
+C. Public school
+D. State government
+35. All but which of the following are types of REITs?
+A. Equity REIT
+B. Hybrid REIT
+C. Mortgage REIT
+D. All of the above are correct
+36. A "penny stock" is an equity security that trades below:
+A. $0.05.
+B. $0.50.
+C. $1.00.
+D. $5.00.
+200
+Practice Exam 6
+37. What is the maximum contribution a donor can make in a single year to a 529 plan if
+the gift tax annual exclusion is $18,000? Assume the donor has not made previous
+contributions to a 529 plan.
+A. $18,000
+B. $36,000
+C. $90,000
+D. $100,000
+38. Pete, an elderly business owner, is interested in establishing a retirement plan that
+will provide the greatest retirement benefit to himself. Which of the following plans
+should Pete select?
+A. Defined benefit plan
+B. Defined contribution plan
+C. Money purchase plan
+D. 401(k) plan
+39. Which of the following is/are correct regarding open-end mutual funds?
+(1) Open-end mutual funds sell at their net asset value (NA V).
+(2) Open-end mutual funds have a fixed capital structure.
+A. (1) only
+B. (2) only
+C. Both (1) and (2) are correct
+D. Neither (1) or (2) are correct.
+40. According to Rule 206(4)-5 adopted by the SEC under the Investment Advisers Act of
+1940, investment advisers are prohibited from providing advisory services for com-
+pensation to a government entity client for after the adviser has made a con-
+tribution to certain elected officials or candidates.
+A. 1 year
+B. 2 years
+C. 3 years
+D. 5 years
+41. Which of the following is not considered a skip person for generation-skipping
+transfer tax (GSTT) purposes?
+(1) The transferor's spouse or former spouse, regardless ofage.
+(2) A grandchild of the transferor, if the transferor's child is deceased at the time of
+transfer.
+A. (1) only
+B. (2) only
+C. Both (1) and (2) are correct
+D. Neither (1) or (2) are correct.
+201
+Practice Exam 6
+For questions 42 / 46, match each security description with the term that follows. Use
+only one answer per blank. Answers may be used more than once or not at all.
+A. Freely traded in the secondary markets; yield and term are determined at the time
+of purchase.
+B. Pay a fixed rate of interest every six months until maturity; issued in terms of ten
+years or more.
+C. Can be redeemed at any time without penalty; objective is to earn interest for
+shareholders.
+D. Unsecured promissory note issued by corporations with a fixed maturity of up to
+270 days.
+E. Intended to be held until maturity, but can be redeemed prior to maturity for a
+penalty.
+F. Dividends are declared in local currencies and paid in U.S. dollars.
+42. / Money market funds
+43. / Certificate of deposit
+44. / Commercial paper
+45. / Tre a s u r y bonds
+46. / American Depository Receipts
+47. Which of the following is the first prospectus released for a new issue, and is intended
+to solicit indications of interest? It does not contain the new issue's price, and it is
+subject to change.
+A. Pink sheet
+B. Red herring
+C. Shelf registration
+D. Tombstone ad
+48. Which of the following is/are correct regarding the early withdrawal penalty from a
+SIMPLE 401(k)?
+(1) Early withdrawals are subject to a 25% penalty if the withdrawals are made dur
+ing the first two years of plan participation.
+(2) After the initial two-year period, early withdrawals from a SIMPLE 401(k) are
+subject to a 15% penalty.
+A. (1) only
+B. (2) only
+C. Both (1) and (2) are correct
+D. Neither (1) or (2) are correct
+202
+Practice Exam 6
+49. Which of the following is a measure of the timing of cash flows (i.e., the interest pay
+ments and the principal repayment) to be received from a fixed income security? It's
+used to assess price volatility for changes in interest rates and the reinvestment risk
+associated with a portfolio.
+A. Convexity
+B. Duration
+C. Term
+D. Yield
+50. During a recent recession, your client, Charles, purchased high-yield corporate bonds
+that now face minimal default risk However, he's now concerned that the various cor
+porations may decide to call their bonds. You tell Charles that corporations are likely
+to call their bonds when:
+A. interest rates are expected to drop.
+B. the bonds are selling at a significant premium.
+C. inflation is expected to rise.
+D. interest rates have declined.
+51. If an investor's brokerage firm goes out of business and is a member of the SIPC, then
+the investor's cash and securities held by the firm may be protected up to _
+including a limit for cash.
+A. $500,000, $250,000
+B. $500,000, $500,000
+C. $1,000,000, $250,000
+D. $1,000,000, $500,000
+52. Which of the following is/are correct regarding a flat yield curve?
+(1) It generally indicates an economic slowdown.
+(2) It occurs when there is little difference between short-term and long-term yields
+for debt instruments of the same credit quality.
+A. (1) only
+B. (2) only
+C. Both (1) and (2) are correct.
+D. Neither (1) or (2) are correct.
+53. Which of the following refers to the inverse relationship between bond prices and an
+investor's required rate of return?
+A. Credit risk
+B. Interest rate risk
+C. Liquidity risk
+D. Reinvestment risk
+203
+Practice Exam 6
+54. Which of the following is the maximum criminal fine for a non-natural person (such
+as an entity whose securities are publicly traded) who commits an insider trading
+violation?
+A. $5 million
+B. $10 million
+C. $25 million
+D. $50 million
+55. Which of the following regulations sets out certain requirements for lenders, other
+than securities brokers and dealers, who extend credit secured by margin stock?
+A. Regulation S
+B. Regulation T
+C. Regulation U
+D. Regulation W
+56. According to the anomaly known as the P/E effect, P/E stocks appear to
+outperform P/E stocks over annual periods after being adjusted for risk
+and size.
+A. average, low
+B. high, average
+C. high,low
+D. low, high
+57. Which of the following calculates the required amount of an employer's annual con
+tribution to a defined benefit plan to ensure that current and future plan benefits are
+available to the participants?
+A. Administrator
+B. Actuary
+C. Broker
+D. Enrolled agent
+58. Which of the following are liquidity ratios?
+(1) Current ratio
+(2) Debt-to-equity ratio
+(3) Quick ratio
+(4) Fixed asset turnover ratio
+A. (1) and (2) only
+B. (1) and (3) only
+C. (1), (2), and (4) only
+D. (2), (3), and ( 4) only
+204
+Practice Exam 6
+59. Which of the following acts created the SEC and empowered it with broad authority
+over all aspects of the securities industry?
+A. Securities Act of 193 3
+B. Securities Exchange Act of 1934
+C. Investment Advisers Act of 1940
+D. Investment Company Act of 1940
+60. Earnings before interest and taxes (EBIT) + �
+Annual sales=
+A. Average collection period
+B. Net profit margin
+C. Operating profit margin
+D. Quick ratio
+61. When a person dies leaving a will, he or she is said to die ___When a person
+dies without leaving a will, he or she dies ..
+A. testate, intestate
+B. intestate,testate
+C. testate, nuncupative
+D. intestate, nuncupative
+62. All but which of the following are potential benefits of a bond swap?
+A. It can reduce an investor's tax liability.
+B. It can provide a higher rate of return.
+C. It can provide investment diversification.
+D. All of the above are correct.
+63. If a corporation is required to pay unpaid dividends from prior years before paying a
+dividend to common stockholders, the stock is considered to be:
+A. accumulated preferred stock.
+B. convertible stock.
+C. cumulative preferred stock.
+D. preferred stock.
+64. To be considered an accredited investor, earned income must exceed�(
+�or
+ together with a spouse) in each of the prior two years, and must be reason
+ably expected to occur for the current year.
+A. $200,000, $300,000
+B. $300,000, $400,000
+C. $400,000, $500,000
+D. $500,000, $600,000
+205
+Practice Exam 6
+65. Assume that an investor's portfolio has a return of 15%, a standard deviation of 7%,
+and a beta of 2.0. If the risk-free rate of return is 4%, what is the portfolio's Sharpe
+ratio?
+A. 0.06
+8.1.57
+C. 1.85
+D. 2.14
+66. Profit sharing plans have which of the following characteristics?
+A. They favor older employees.
+B. They can be invested entirely in company stock.
+C. They are a type of defined contribution pension plan.
+D. The minimum funding standard requires the employer to make an annual contri
+bution.
+67. Which of the following acts provides the tools required to intercept and obstruct ter
+rorism? Title III of this act is intended to facilitate the prevention, detection, and pros
+ecution of international money laundering and the financing of terrorism.
+A. Insider Trading and Securities Fraud Enforcement Act of 1988
+B. Patriot Act of 2001
+C. Sarbanes-Oxley Act of 2002
+D. Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010
+68. Tom and Lynn Smith have lived in a community property state all their married lives.
+They own a house that is registered only in Lynn's name. If she dies, what will happen
+to the house?
+A. The house will pass automatically to Tom.
+B. The house will pass automatically to Lynn's closest family member.
+C. The house will pass through Lynn's will, and the entire house will go to Tom.
+D. Lynn's half of the house will pass by will. Tom already owns half under commu
+nity property laws.
+69. Nicholas, age 85, is tax sensitive and wants to pay the least amount of estate taxes at
+death. Which of the following techniques can he potentially use to reduce his gross
+estate, and therefore, reduce his estate taxes?
+(1) Living trust
+(2) Family limited partnership
+(3) QPRT
+(4) Totten trust
+A. (1) and (2) only
+B. (2) and (3) only
+C. (2) and (4) only
+D. (1), (3), and (4) only
+206
+Practice Exam 6
+70. Which of the following describes the difference between a 401(k) plan and a 457
+plan?
+A. A 401(k) plan is a qualified plan, and a 457 plan is not a qualified plan.
+B. A 457 plan is a qualified plan, and a 401(k) plan is not a qualified plan.
+C. A 401(k) plan allows loans, and a 457 plan does not allow loans.
+D. A 501(c)(3) organization may establish a 457 plan but cannot establish a 401(k)
+plan.
+71. A retirement plan is if more than 60% of total plan benefits are in favor of
+key employees.
+A. ERISA certified
+B. discriminatory
+C. illegal
+D. top heavy
+72. Which of the following entities will protect owners from liability beyond the amount
+they personally invested?
+(1) C Corp
+(2) Limited partnership
+(3) LLC
+(4) S Corp
+A. (1) and ( 4) only
+B. (2) and (3) only
+C. (1), (2), and (3) only
+D. (1), (3), and (4) only
+73. Which of the following is a free tool from FINRA that is intended to help consumers
+research the professional backgrounds of brokers and brokerage firms, as well as in
+vestment adviser firms and advisers?
+A. BrokerCheck
+B. FirmCheck
+C. InvestorCheck
+D. None of the above are correct.
+74. All but which of the following are characteristics of an LLC?
+A. It provides limited liability to all members.
+B. It dissolves upon the death, retirement, or resignation of a member unless the re
+maining members elect by majority to continue.
+C. An operating agreement is not required.
+D. Majority approval is required to transfer management or management rights.
+207
+Practice Exam 6
+For questions 75 - 77, match the form of the efficient market hypothesis with the de
+scription that follows. Use only one answer per blank. Answers may be used more than
+once or not at all.
+A. Strong form
+B. Semi-strong form
+C. Weak form
+75. _ Historical price data is already reflected in the current stock price and there is no
+value in predicting future price changes. However, fundamental analysis may
+generate superior performance. Technical analysis will not produce superior re
+sults.
+76. _ All historical information and industry conditions are already reflected in stock
+prices. Neither technical nor fundamental analysis can produce superior results
+over time on a risk-adjusted basis. Possessing insider information may lead to
+achieving returns in excess of the market
+77. _ All public and private information is already reflected in stock prices. Neither
+technical nor fundamental analysis can improve the efficiency of the market to
+determine prices. Possessing insider information is not a factor in outperforming
+the overall market
+78. Which of the following is the tangent line to the efficient frontier that passes through
+the risk-free rate on the expected return axis?
+A. Capital market line
+B. Security market line
+C. Support line
+D. Trendline
+79. If $1 is deposited each year in an interest-bearing account earning 8.5% annually,
+and the interest is not withdrawn, the account value at the end of 3 years will be:
+A. $3.12.
+B. $3.18.
+C. $3.26.
+D. $3.44.
+80. Puts are an option to a specified number of shares of stock during a specified
+period at a specified price. A buyer of a put option expects the price of the underlying
+stock to �
+A. buy, fall
+B. buy, rise
+C. sell, fall
+D. sell, rise
+208
+Practice Exam 6
+81. Which of the following is an electronic quotation listing of the bid and asked prices of
+OTC stocks that do not meet the requirements to be listed on the NASDAQ stock-list
+ing system?
+A. ECN
+B. lnstinet
+C. OTC Bulletin Board
+D. OTC Quotation System
+82. Which of the following is a tax imposed in such a manner that the tax rate increases
+as the amount subject to taxation decreases?
+A. Flat tax
+B. Progressive tax
+C. Regressive tax
+D. Value added tax
+83. According to FINRA Rule 2210, "correspondence" ls defined as any written (including
+electronic) communication that is distributed or made available to or fewer
+retail investors within any calendar-day period.
+A. 25, 30
+B. 25, 60
+C. SO, 30
+D. 50, 60
+84. Carrie believes the share price of Zeta stock will decrease in the short term. She has
+decided to sell short 500 shares at the current market price of $89. If the initial margin
+requirement is 35%, what amount must Carrie contribute as margin?
+A. $15,575
+B. $17,250
+C. $19,925
+D. $21,485
+85. Which of the following is correct regarding convertible bonds?
+A. They typically offer lower coupon rates than non-convertible bonds issued for the
+same term by the same issuer.
+B. They typically offer higher coupon rates than non-convertible bonds issued for
+the same term by the same issuer.
+C. They typically offer the same coupon rates as non-convertible bonds issued for the
+same term by the same issuer.
+D. They are zero-coupon bonds issued at a discount to par.
+209
+Practice Exam 6
+86. Form ADV is filed electronically through which of the following systems?
+A. BrokerCheck
+B. CRD
+C. IARD
+D. lnstinet
+87. Which of the following are necessary parties to a trust?
+A. Executor, decedent, beneficiary
+B. Tr u s t e e , beneficiary, administrator
+C. Tr u s t o r, trustee, beneficiary
+D. Tr u s t o r, decedent, administrator
+88. Which of the following is correct regarding the SEC's guidance on the "testimonial
+rule" and social media?
+A. Te s t i m o n i a l s were originally addressed in Rule 206(4)-1(a)(1) of the Investment
+Advisers Act of 1940.
+B. Advisers are allowed to select favorable testimonials to include on their websites
+only if client names are kept confidential.
+C. Advisers are allowed to select favorable testimonials to include on their websites
+only if they receive permission from the clients, and they post each client's full
+name.
+D. None of the above are correct
+For questions 89 - 91, match the cost recovery term with the description that follows.
+Use only one answer per blank. Answers may be used more than once or not at all.
+A. Amortization
+B. Depreciation
+C. Depletion
+89. _ The process by which the tax basis of natural resources is recovered.
+90. / The process by which the tax basis of intangible assets is recovered.
+91. _ The process by which the tax basts of tangible assets is recovered.
+92. Seth owns a 12-year-old property that is worth $339,500. If the property has depre
+ciated at a rate of 2.5% per year, what was its original value?
+A. $480,000
+B. $485,000
+C. $490,000
+D. $495,000
+210
+Practice Exam 6
+93. An option that can be exercised at any time up to and including its expiration date is
+a/an / style option.
+A. American
+B. Asian
+C. Australian
+D. European
+94. Which of the following forms is the "Uniform Application for Securities Industry Reg
+istration or Transfer," which representatives of broker-dealers, investment advisers,
+or issuers of securities must fill out in order to become registered in the appropriate
+jurisdictions?
+A. Form U4
+B. Form US
+C. Form U6
+D. Form U7
+95. Craig recently adopted a profit sharing plan for his business and he's unsure about the
+contribution rules. He'd like to know if he, as the employer, can contribute more than
+25% to an employee's account in 2024. Which of the following should Craig be ad
+vised?
+A. Yes, the limit is the lesser of 100% or $69,000.
+B. No, the limit is 25%.
+C. Yes, but the total company contributions cannot exceed 25% of total plan compen
+sation.
+D. Both A and Care correct.
+96. Which of the following allows a firm to file one registration statement covering several
+issues of the same security? The securities can then be sold over a period of several
+years.
+A. Deferred registration
+B. Omitting registration
+C. Shelf registration
+D. Statutory registration
+97. All qualified retirement plans must satisfy the reporting and disclosure requirements
+as specified by ..
+A. ERISA
+B. the IRS
+C. the PBGC
+D. the SEC
+211
+Practice Exam 6
+98. If an insured borrows a portion of the cash value from her whole life insurance policy,
+which of the following is true?
+(1) The loan can be for an amount up to 100% of the face value of the policy.
+(2) The loan must be repaid within five years.
+(3) The loan will not charge interest
+(4) Any outstanding loans must be deducted from the face amount of the policy be-
+fore death benefits are paid.
+A. (4) only
+B. (1) and (2) only
+C. (1), (2), and (4) only
+D. All of the above are correct
+99. Which of the following is a type of preferred stock that gives the investor the right to
+receive dividends equal to the normally specified rate, as well as an additional divi
+dend based on a specific predetermined condition?
+A. Accumulating preferred stock
+B. Dividend preferred stock
+C. Non-participating preferred stock
+D. Participating preferred stock
+100. A diversified mutual fund cannot own more than of the shares of a given
+company or more than of fund assets in a given investment.
+A. 5%, 5%
+B. 10%,5%
+C. 20%, 10%
+D. 20%,20%
+101. Which of the following refers to the trading of exchange-listed securities in the over
+the-counter market? These trades allow institutional investors to trade blocks of se
+curities directly, rather than through an exchange, providing liquidity and anonym
+ity to buyers.
+A. First market
+B. Second market
+C. Third market
+D. Fourth market
+102. The Dow Jones Transportation Average is an index comprised of / trans
+portation stocks.
+A. 20
+8.30
+C. 50
+D. 100
+212
+Practice Exam 6
+The following information relates to questions 103 - 104.
+Alpha Corporation is investing $900,000 in a new production facility. The present value
+of the future after-tax cash flows is estimated to be $950,000. Alpha Corporation currently
+has 80,000 outstanding shares of stock with a current market price of $14.00 per share.
+103. What will be the value of Alpha Corporation after the investment?
+A. $1,120,000
+B. $1,170,000
+C. $1,190,000
+D. $1,204,000
+104. What will be the value of Alpha Corporation's share price after the investment?
+A. $14.63
+B. $15.26
+C. $15.89
+D. $16.12
+105. All but which of the following are considered quantitative data?
+A. Cash flow statement
+B. Insurance coverage
+C. Investment portfolio
+D. Lifestyle and priorities
+106. Which of the following may cause a will to be considered invalid?
+(1) The testator was influenced by another person.
+(2) The testator did not have adequate mental capacity to execute a will.
+A. (1) only
+B. (2) only
+C. Both (1) and (2) are correct
+D. Neither (1) or (2) are correct.
+107. If an individual contributes more to an IRA than is permitted, the excess contribu
+tion is subject to which of the following taxes?
+A. 5% excise tax
+B. 6% excise tax
+C. 10% excise tax
+D. 15% excise tax
+213
+Practice Exam 6
+The following information relates to questions 108 - 110.
+An analyst provides the following information for Epsilon Corporation's fiscal year:
+Revenue$550,000
+Cost of sales$325,000
+Gross profit$225,000
+Marketing costs$55,000
+Operating income$170,000
+Interest and other expenses, net$20,000
+Earnings before taxes$150,000
+108. What is Epsilon Corporation's gross profit margin?
+A. 27.3%
+B. 33.4%
+C. 40.9%
+D. 63.7%
+109. What is Epsilon Corporation's operating profit margin?
+A. 27.3%
+B. 30.9%
+C. 51.2%
+D. 75.6%
+110. What is Epsilon Corporation's pretax margin?
+A. 27.3%
+B. 40.9%
+C. 53.5%
+D. 66.7%
+111. The "conduit theory," which states that qualifying investment firms, such as REITs,
+should not be taxed like regular companies because interest, dividends, and capital
+gains are passed directly to shareholders who are then taxed on the income, is
+found in which of the following sections of the Internal Revenue Code?
+A. Subchapter J
+B. Subchapter K
+C. Subchapter M
+D. Subchapter S
+112. Which of the following is a formal contract between a bond issuer and a bondholder?
+A. Debenture agreement
+B. Indenture agreement
+C. Prospectus agreement
+D. To m b s t o n e agreement
+214
+Practice Exam 6
+113. Which of the following imposed an obligation on the SEC to consider the impacts
+that any new regulation would have on competition, and empowered the SEC to es
+tablish a national market system and a system for nationwide clearing and settle
+ment of securities transactions?
+A. Uniform Securities Act of 1956
+B. Securities Act Amendments of 1975
+C. Uniform Prudent Investors Act of 1994
+D. National Securities Market Improvement Act of 1996
+114. All but which of the following are characteristics of REITs?
+A. Losses cannot be passed through to investors to deduct personally.
+B. REIT shareholders are subject to double taxation.
+C. REITs can be purchased in small denominations.
+D. All of the above are correct.
+115. Which of the following will typically require an RIA firm to register or notice file in
+a state?
+A. The RIA firm has a physical presence in the state.
+B. The RIA firm has more than 5 clients who are located in the state.
+C. The RIA firm is actively soliciting in the state.
+D. All of the above are correct
+116. Which of the following are prohibited investments in an IRA?
+(1) U.S. minted gold coins
+(2) Antiques
+(3) U.S. stamps
+(4) Art work
+A. (1) only
+B. (1), (2), and (4) only
+C. (2), (3), and (4) only
+D. All of the above are correct
+117. All but which of the following are correct regarding the correlation coefficient?
+A. Two securities that have a correlation coefficient of+ 1 are perfectly positively
+correlated. The two securities will move in the exact same direction.
+B. Two securities that have a correlation coefficient of -1 are perfectly negatively
+correlated. The two securities will move exactly opposite each other.
+C. If two securities have a correlation coefficient of zero, there is no correlation be
+tween the price changes of the two securities.
+D. Risk is eliminated when the correlation coefficient between two securities is zero
+because the portfolio standard deviation will also be zero.
+215
+Practice Exam 6
+118. Which of the following is the rate of return that causes the net present value of all
+cash flows received from an investment to equal zero?
+A. CAPM
+B. IRR
+C. NPV
+D. TEY
+119. Which of the following SEC regulations requires firms to have policies and proce
+dures addressing the protection of customer information and records? This regula
+tion also requires firms to provide initial and annual privacy notices to customers
+describing information sharing policies.
+A. Regulation FD
+B. Regulation MA-W
+C. Regulation N-Q
+D. Regulation S-P
+120. All but which of the following are correct regarding a futures contract?
+A. It is an agreement to buy or sell a specific quantity of a commodity or financial
+currency at a predetermined price on a specific future date.
+B. The holder of a futures contract cannot purchase an offsetting contract that can
+cels the original position, rather than receiving delivery of the commodity.
+C. Commodities such as grains, metals, and natural gas have tradable futures con
+tracts.
+D. All of the above are correct.
+For questions 121 - 128, match the type of retirement plan with the description that fol
+lows. Use only one answer per blank. Answers may be used more than once or not at all.
+A. Profit sharing plan
+B. Pension plan
+121. / 401(k) plan
+122. / Money purchase plan
+123. / Stock bonus plan
+124. / ESOP
+125. / Ta r g e t benefit plan
+126. / Thrift savings plan
+127. / Cash balance plan
+128. / SEP
+216
+Practice Exam 6
+129. Last year, an investor allocated her portfolio in the following asset classes:
+Asset ClassAsset Allocation (%)Asset Class Return (%)
+Domestic equities40.0+10.0
+International equities20.0-4.0
+Corporate bonds30.0+6.0
+Money market funds10.0+2.0
+What was the portfolio's weighted average return for the year?
+A. 4.8%
+B. 5.2%
+C. 5.6%
+D. 5.8%
+130. Alex, age 70, has contributed $20,000 to a Roth IRA throughout his career. The ac
+count value is now $30,000. If Alex withdraws the entire amount, how much tax
+will he owe if he's in the 28% tax bracket?
+A. $0
+B. $1,500
+C. $4,500
+D. $8,400
+217
+ANSWER KEY
+1.D
+All employees, age 21 or older, who performed services during the current year and
+earned at least $750 in three out of the past five years, must be eligible to participate in a
+SEP. Employer contributions to a SEP are not subject to FICA/FUTA withholding. A SEP
+does not need to provide for a qualified preretirement survivor annuity (QPSA), and loans
+from a SEP are not permitted.
+2.A
+Because they are growing and expanding, growth stocks typically do not pay large divi
+dends. Most of the earnings generated from growth stocks are reinvested back into the
+company.
+3.C
+HPR = [($6,000 + $400) - $5,500] + $5,500 = 0.1636 = 16.36%
+4. D
+Underwriting refers to the process of selecting, classifying, and pricing applicants for in
+surance. The underwriter is the individual who decides to accept or reject an application,
+and under what conditions the policy may be issued. One of the objectives ofunderwriting
+is to generate revenue while at the same time limiting the insurance company's assumed
+risk. Restrictive underwriting typically results in lower overall claims made by policy
+holders.
+5.A
+According to modern portfolio theory, a client's optimal portfolio is located at the point
+of tangency of the investor's indifference curve and the efficient frontier of available in
+vestment assets.
+6.B
+($4,000 x 0.28) - $1,000 / $120
+The deduction is more beneficial because it creates the equivalent of a $1,120 credit,
+which is $120 more than the $1,000 credit.
+7. A
+Rights of accumulation allow investors to aggregate their own holdings as well as the
+holdings of certain related parties, such as spouses and children, toward achieving the
+investment thresholds at which breakpoint discounts become available.
+B. B
+A currency transaction report (CTR) must be filed by U.S. financial institutions for each
+deposit, withdrawal, exchange of currency, or other payment to the institution which in
+volves a transaction in currency of more than $10,000.
+9. C
+A simple trust is required to pay out all of its income annually to trust beneficiaries and
+cannot distribute trust principal. A complex trust may accumulate income or make distri
+butions from trust principal.
+219
+Practice Exam 6
+10.A
+Purchasing power risk is a type of systematic risk.
+11. B
+Business risk is a type of unsystematic risk.
+12. A
+Market risk is a type of systematic risk.
+13. B
+Financial risk is a type of unsystematic risk.
+14.A
+Interest rate risk is a type of systematic risk.
+15.A
+Exchange rate risk is a type of systematic risk.
+16. B
+The maximum criminal fine for an individual who commits an insider trading violation
+is $5 million.
+17. B
+S = (1 + i)"
+S" = (1.085) / = $1.28
+18.B
+Buying a call and selling a put are both bullish strategies.
+19.C
+According to the Uniform Securities Act, warrants are classified as securities. Collecti
+bles, fixed annuities, and whole life insurance policies are not classified as securities.
+20.D
+The PPI (Producer Price Index) is a weighted index of prices measured at the wholesale
+level.
+21.C
+Distributions from a 401(k) plan following separation from service after age 55 are not
+subject to the 10% premature distribution penalty.
+22. B
+Defined benefit plans favor older employees, and actuarial calculations are required. The
+employer assumes the investment risk in a defined benefit plan.
+23.D
+Negotiable CDs are short-term, fixed-income securities that may be bought or sold in the
+open market at a market-determined price.
+220
+Practice Exam 6
+24.A
+Debt-to-capital ratio = Total debt+ (Total debt+ Shareholders' equity)
+Debt-to-capital ratio = $44,100 + ($44,100 + $57,500) = 0.434 = 43.4%
+25.C
+ERISA Section 404(c) offers a safe harbor for retirement plan fiduciaries to not be liable
+for investment losses suffered by plan participants who self-direct their investments.
+26.A
+Viatical payments to a terminally ill insured are non-taxable if he or she has a life expec
+tancy of two years or less.
+27. A
+The U.S. government conducts fiscal policy through government spending and taxation.
+28.D
+A health savings account (HSA) can be used to pay for the account owner's deductibles,
+copayments, and coinsurance.
+29.C
+TIPS (Treasury inflation-protected securities) are indexed to the rate of inflation as
+measured by the CPI.
+30.D
+ADV Part 1 typically includes affiliations, company ownership, and disciplinary history.
+It does not include a fee schedule.
+31.A
+Insurance company regulation occurs primarily at the state level. Broker-dealers are
+regulated at the federal level.
+32. A
+For Treasury STRIPS, tax must be paid on accrued interest each year even though no in
+terest is received by the investor.
+33. B
+Prices for goods and services will inflate when their demand exceeds their supply.
+34. A
+A. 403(b) plan may be adopted by an employer that is a state, agency of a state, nonprofit
+organization, public university, or private university.
+35.D
+The three main types of REITs are equity REITs, mortgage REITs, and hybrid REITs.
+36. D
+A "penny stock" is an equity security that trades below $5.
+221
+Practice Exam 6
+37.C
+5 x $18,000 / $90,000
+A donor may contribute a total of five gift tax annual exclusion amounts on a one-time
+basis every five years to a 529 plan.
+38.A
+A defined benefit plan favors older owner /employees and would provide the greatest
+retirement benefit to Pete.
+39. A
+Open-end mutual funds sell at their net asset value (NAV) and do not have a fixed capital
+structure.
+40. B
+According to Rule 206(4)-5 adopted by the SEC under the Investment Advisers Act of
+1940, investment advisers are prohibited from providing advisory services for compen
+sation to a government entity client for 2 years after the adviser has made a contribution
+to certain elected officials or candidates.
+41.C
+A transferor's spouse or former spouse, regardless of age, is not a skip person for GSTT
+purposes. A grandchild of a transferor is not a skip person if the transferor's child is de
+ceased at the time of transfer.
+42. C
+Money market funds can be redeemed at any time without penalty. Their objective is to
+earn interest for shareholders.
+43. E
+A certificate of deposit is intended to be held until maturity, but can be redeemed prior to
+maturity for a penalty.
+44. D
+Commercial paper is an unsecured promissory note issued by a corporation with a fixed
+maturity of up to 270 days.
+45. B
+Treasury bonds pay a fixed rate of interest every six months until maturity. They are is
+sued in terms often years or more.
+46.F
+American Depository Receipt dividends are declared in local currencies and paid in U.S.
+dollars.
+47. B
+A red herring is the first prospectus released for a new issue and is intended to solicit
+indications of interest It does not contain the new issue's price, and it is subject to change.
+222
+Practice Exam 6
+48.D
+The 25% penalty for early withdrawals does not apply to SIMPLE 401(k) plans. It only
+applies to SIMPLE IRAs. For a SIMPLE 401(k) plan, the early withdrawal penalty is al
+ways 10%.
+49. B
+Duration is a measure of the timing of cash flows (i.e., the interest payments and the
+principal repayment) to be received from a fixed income security. It's used to assess
+price volatility for changes in interest rates and the reinvestment risk associated with a
+portfolio.
+50. B
+If corporate bonds are selling at a significant premium, then newly issued bonds are sell
+ing with lower coupons. The corporations are likely to call their bonds and replace them
+with lower coupon bonds.
+51.A
+If an investor's brokerage firm goes out of business and is a member of the SIPC, then the
+investor's cash and securities held by the firm may be protected up to $500,000, including
+a $250,000 limit for cash.
+52. €
+A flat yield curve generally indicates an economic slowdown. It occurs when there is little
+difference between short-term and long-term yields for debt instruments of the same
+credit quality.
+53. B
+Interest rate risk is the risk that, as interest rates rise, bond prices will fall. Interest rate
+risk is measured by a bond's duration.
+54. C
+The maximum criminal fine for a non-natural person (such as an entity whose securities
+are publicly traded) who commits an insider trading violation is $25 million.
+55.C
+Regulation U sets out certain requirements for lenders, other than securities brokers
+and dealers, who extend credit secured by margin stock.
+56. D
+According to the anomaly known as the P/E effect, low P/E stocks appear to outperform
+high P/E stocks over annual periods after being adjusted for risk and size.
+57. B
+An actuary calculates the required amount of an employer's annual contribution to a de
+fined benefit plan to ensure that current and future plan benefits are available to the par
+ticipants.
+58. B
+The liquidity ratios are the current ratio and quick ratio.
+223
+Practice Exam 6
+59.B
+The Securities Exchange Act of 1934 created the SEC and empowered it with broad au
+thority over all aspects of the securities industry.
+60.C
+Earnings before interest and taxes (EBIT) + Annual sales = Operating profit margin
+61.A
+When a person dies leaving a will, he or she is said to die testate. When a person dies
+without leaving a will, he or she dies intestate.
+62.D
+A bond swap can potentially reduce an investor's tax liability, provide a higher rate of
+return, and provide investment diversification.
+63.C
+If a corporation is required to pay unpaid dividends from prior years before paying a div
+idend to common stockholders, the stock is considered to be cumulative preferred stock.
+64. A
+To be considered an accredited investor, earned income must exceed $200,000 (or
+$300,000 together with a spouse) in each of the prior two years, and must be reasonably
+expected to occur for the current year.
+65.B
+Sharpe ratio = (R - R) + S
+Sharpe ratio= (0.15 - 0.04) / 0.07 = 1.57
+66.B
+Profit sharing plans tend to favor younger employees, and they are not limited in their
+investment of company stock. Profit sharing plans are a type of defined contribution plan
+other than a pension plan. Their contributions must be substantial and recurring, but are
+not required annually.
+67. B
+The Patriot Act of 2001 provides the tools required to intercept and obstruct terrorism.
+Title III of this act is intended to facilitate the prevention, detection, and prosecution of
+international money laundering and the financing of terrorism.
+68.D
+Unless the house was bought by Lynn with money earned prior to marriage, or with gift
+or inheritance money, the house is community property. The question does not provide
+this information, and it cannot be assumed. Therefore, Lynn's half of the house will pass
+by will. Tom already owns half of the house under community property laws.
+69.B
+The family limited partnership and QPRT (qualified personal residence trust) can poten
+tially reduce Nicholas's gross estate. The living trust and Totten trust will reduce the pro
+bate estate, but not the gross estate.
+224
+Practice Exam 6
+70. A
+A. 401(k) plan is a qualified plan, and a 457 plan is not a qualified plan.
+71. D
+A retirement plan is top heavy if more than 60% of total plan benefits are in favor of key
+employees. Certain rules and conditions apply to top-heavy plans.
+72. D
+The LLC, C Corp, and S Corp will protect investors from liability beyond the amount they
+personally invested. In a limited partnership, the general partner has unlimited liability.
+73. A
+BrokerCheck is a free tool from FINRA that is intended to help consumers research the
+professional backgrounds of brokers and brokerage firms, as well as investment adviser
+firms and advisers.
+74. C
+An LLC provides limited liability to all members, and it dissolves upon the death, retire
+ment, or resignation of a member unless the remaining members elect by majority to con
+tinue. Majority approval is required to transfer management or management rights, and
+an operating agreement is required to determine the management structure of an LLC.
+75.C
+According to the weak form of the efficient market hypothesis, historical price data is al
+ready reflected in the current stock price and there is no value in predicting future price
+changes. However, fundamental analysis may generate superior performance. Technical
+analysis will not produce superior results.
+76.B
+According to the semi-strong form of the efficient market hypothesis, all historical infor
+mation and industry conditions are already reflected in stock prices. Neither technical nor
+fundamental analysis can produce superior results over time on a risk-adjusted basis.
+Possessing insider information may lead to achieving returns in excess of the market.
+77. A
+According to the strong form of the efficient market hypothesis, all public and private in
+formation is already reflected in stock prices. Neither technical nor fundamental analysis
+can improve the efficiency of the market to determine prices. Possessing insider infor
+mation is not a factor in outperforming the overall market.
+78.A
+The capital market line is the tangent line to the efficient frontier that passes through
+the risk-free rate on the expected return axis.
+79.C
+s = [(1 + i)" - 1] + i
+S = [(1.085) / - 1] + 0.085 = $3.26
+225
+Practice Exam 6
+80.C
+Puts are an option to sell a specified number of shares of stock during a specified period
+at a specified price. A buyer of a put option expects the price of the underlying stock to
+fall.
+81. C
+The OTC Bulletin Board is an electronic quotation listing of the bid and asked prices of
+OTC stocks that do not meet the requirements to be listed on the NASDAQ stock-listing
+system.
+82. C
+A regressive tax is imposed in such a manner that the tax rate increases as the amount
+subject to taxation decreases.
+83. A
+According to FINRA Rule 2210, "correspondence" is defined as any written (including
+electronic) communication that is distributed or made available to 25 or fewer retail in
+vestors within any 30 calendar-day period.
+84. A
+500 shares x $89 per share x 0.35 = $15,575
+85.A
+Because of their flexibility, convertible bonds typically offer lower coupon rates than
+non-convertible bonds issued for the same term by the same issuer.
+86.C
+Form ADV is filed electronically through the JARD (Investment Adviser Registration De
+pository).
+87. C
+The necessary parties to a trust are the trustor, trustee, and beneficiary.
+88.A
+Te s t i m o n i a l s were originally addressed in Rule 206(4)-1(a)(1) of the Investment Advis
+ers Act of 1940. In general, client testimonials are not permitted to be included on adviser
+websites and social media.
+89.C
+Depletion is the process by which the tax basis of natural resources is recovered.
+90.A
+Amortization is the process by which the tax basis of intangible assets is recovered.
+91.B
+Depreciation is the process by which the tax basis of tangible assets is recovered.
+92. B
+Step 1: Accumulated depreciation= 12 years x 0.025 per year= 0.3
+Step 2: Original value = $339,500 / (1 - 0.3) = $485,000
+226
+Practice Exam 6
+93.A
+An option that can be exercised at any time up to and including its expiration date is an
+American style option.
+94.A
+Form U4 is the "Uniform Application for Securities Industry Registration or Tr a n s f e r, "
+which representatives of broker-dealers, investment advisers, or issuers of securities
+must fill out in order to become registered in the appropriate jurisdictions.
+95.D
+Craig can contribute more than 25% to an individual employee's account, but the contri
+butions must remain under the IRC Section 415 limit. The total company contributions
+cannot exceed 25% of total plan compensation.
+96.C
+Shelf registrations allows a firm to file one registration statement covering several is
+sues of the same security. The securities can then be sold over a period of several years.
+97.A
+All qualified retirement plans must satisfy the reporting and disclosure requirements as
+specified by ERISA.
+98.A
+Any outstanding policy loans must be deducted from the face amount of a life insurance
+policy before death benefits are paid. Insureds can typically borrow an amount up to the
+cash value of the policy, not the face value.
+99.D
+Participating preferred stock gives the investor the right to receive dividends equal to the
+normally specified rate, as well as an additional dividend based on a specific predeter
+mined condition.
+100.B
+A diversified mutual fund cannot own more than 10% of the shares of a given company
+or more than 5% of fund assets in a given investment.
+101. €
+Third market refers to the trading of exchange-listed securities in the over-the-counter
+market. These trades allow institutional investors to trade blocks of securities directly,
+rather than through an exchange, providing liquidity and anonymity to buyers.
+102. A
+The Dow Jones Tr a n s p o r t a t i o n Average is an index comprised of 20 transportation
+stocks.
+103. B
+($14.00 per share x 80,000 shares) + ($950,000 - $900,000) = $1,170,000
+227
+Practice Exam 6
+104.A
+Step 1: ($950,000 - $900,000) / 80,000 shares = $0.63
+Step 2: $14.00 / $0.63 = $14.63
+105.D
+Insurance coverage, a cash flow statement, and an investment portfolio are considered
+quantitative data. Lifestyle and priorities are qualitative data.
+106.B
+A will may be considered invalid if the testator did not act of his or her own free will, or if
+the testator did not have adequate mental capacity to execute a will. Simply being influ
+enced by another person does not cause a will to be considered invalid.
+107.B
+If an individual contributes more to an IRA than is permitted, the excess contribution is
+subject to a 6% excise tax.
+108.C
+Gross profit margin = Gross profit+ Revenue
+Gross profit margin= $225,000 + $550,000 = 0.409 = 40.9%
+109.B
+Operating profit margin = Operating income / Revenue
+Operating profit margin = $170,000 / $550,000 = 0.309 = 30.9%
+110.A
+Pretax margin = Earnings before taxes + Revenue
+Pretax margin= $150,000 + $550,000 = 0.273 = 27.3%
+111.C
+The "conduit theory," which states that qualifying investment firms, such as REITs, should
+not be taxed like regular companies because interest, dividends, and capital gains are
+passed directly to shareholders who are then taxed on the income, is found in Subchapter
+M of the Internal Revenue Code.
+112. B
+An indenture agreement is a formal contract between a bond issuer and a bondholder.
+113.B
+The Securities Act Amendments of 1975 imposed an obligation on the SEC to consider the
+impacts that any new regulation would have on competition, and empowered the SEC to
+establish a national market system and a system for nationwide clearing and settlement
+of securities transactions.
+114.B
+RElTs can be purchased in small denominations, and losses cannot be passed through to
+investors to deduct personally. REIT shareholders are not subject to double taxation.
+228
+Practice Exam 6
+115.D
+An RIA firm will be required to register or notice file in a state if the RIA firm has a physical
+presence in the state, or if it has more than 5 clients who are located in the state, or if the
+firm is actively soliciting in the state.
+116. C
+Collectibles that are prohibited investments in IRAs include antiques, stamps, art work,
+rugs, metals, gems, stamps, and coins. There is an exception for U.S. minted gold coins.
+117. D
+Risk is eliminated when the correlation coefficient between two securities is -1. If two
+securities have a correlation coefficient of zero, there is no correlation between the price
+changes of the two securities.
+118. B
+The internal rate of return (IRR) is the rate of return that causes the net present value of
+all cash flows received from an investment to equal zero.
+119.D
+Regulation S-P requires firms to have policies and procedures addressing the protection
+of customer information and records. This regulation also requires firms to provide initial
+and annual privacy notices to customers describing information sharing policies.
+120. B
+A futures contract is an agreement to buy or sell a specific quantity of a commodity or
+financial currency at a predetermined price on a specific future date. The holder of a fu
+tures contract may purchase an offsetting contract that cancels the original position, ra
+ther than receiving delivery of the commodity. Commodities such as grains, metals, and
+natural gas all have tradable futures contracts.
+121.A
+A. 401(k) plan is a type of profit sharing plan.
+122. B
+A money purchase plan is a type of pension plan.
+123. A
+A stock bonus plan is a type of profit sharing plan.
+124. A
+An ESOP is a type of profit sharing plan.
+125. B
+A target benefit plan is a type of pension plan.
+126. A
+A thrift savings plan is a type of profit sharing plan.
+127.B
+A cash balance plan is a type of pension plan.
+229
+Practice Exam 6
+128.B
+A. SEP is a type of pension plan.
+129. B
+R» = wiRi + w2R2 + W3R3 + w4Ra
+R = (0.40 x 0.10) + (0.20 x -0.04) + (0.30 x 0.06) + (0.10 x 0.02)
+R» = 0.04 - 0.008 + 0.018 + 0.002 = 0.052 = 5.2%
+130.A
+Roth IRA contributions are made with after-tax dollars and grow tax-free. Alex will not
+owe truces when he takes the distribution.
+230
+INDEX
+ABank Secrecy Act of 1970, 16, 35, 65, 174,
+189
+Accounting fraud, 49, 70Bankruptcy, 54, 73
+Accounts payable, 59, 75, 135, 151Bear spread, 177, 190
+Accounts receivable, 12, 33, 59, 75, 189Bearer bond, 98, 114, 122, 125, 144
+Accredited investor, 21, 37, 62, 76, 137, 152,Bearish strategy, 34, 47, 68
+205,224Behavioral finance, 22, 173
+Accrual basis accounting, 53Beta coefficient, 17, 35
+Accumulated depreciation, 226Block trading, 54, 72
+Active participant, 53, 72, 161, 181Blotters, 103, 116
+Activity ratio, 141, 154Blue chip stocks, 82, 92, 105, 110
+Actuary/actuarial calculation, 174, 188,Blue sky laws, 25, 39, 163, 184
+198, 204, 220, 223Board of Governors, 54, 72, 89
+Adjusted basis, 169, 186, 208, 225Bond anticipation note (BAN), 171, 187
+Adjusted gross income (AGI), 161, 181Bond duration, 15, 24, 35, 48, 62, 69, 76, 88,
+ADV Part 1, 19, 199, 221102, 108, 115-116, 124, 130, 145, 148,
+ADY Part 2, 19, 37203, 223
+Advertising. 26, 40, 127, 132, 147, 149Bond fund, 3, 129
+After-tax return, 61, 76, 131Bond immunization, 124, 145
+Age-based profit sharing plan, 101, 115Bond swap, 175, 189, 205, 224
+Alimony, 53, 72Book value, 23, 38, 140, 153, 179
+Alternate physical location, 98, 114Bottom-up investment analysis, 165, 185
+Alternative minimum tax (AMT), 169, 186Brady bond, 57, 60, 74, 98, 125, 162, 183
+Alternative trading system (ATS), 97, 113,Breakpoint discount, 133, 150, 196, 219
+136Brochure rule, 58, 74, 123, 145
+American depository receipt (ADR), 12, 33,BrokerCheck, 207, 210, 225
+57,74,83,96,106,113,198,202,222Business continuity plan, 49, 70, 98, 114
+American Municipal Bond Assurance CorpoBusiness cycle, 47, 54, 68-69, 72, 130, 148,
+ration (AMBAC), 27, 40189
+American Stock Exchange (AMEX), 120,Business risk, 166, 185, 197, 220
+136,151Buy limit order, 26, 40, 171
+American style option, 211,227Buy stop order, 26, 171, 187
+Antifraud, 10, 32
+Arbitrage, 14, 48, 133, 159, 182C
+Assets under management, 4, 29, 45, 68
+Automated Client Account Tr a n s f e r ServiceC Corp, 15, 20, 58, 74, 132, 134, 149-150,
+(ACATS), 137, 139, 152163, 184, 207, 225
+Automated Confirmation Tr a n s a c t i o n SerCall Joan rate, 95, 112
+vice (ACT), 53, 72Call option, 21, 38, 58, 75, 164, 180, 184,
+Average collection period, 52, 141, 154, 205191, 198
+Capital asset pricing model (CAPM), 21, 38,
+B51, 100, 167, 185, 216
+Capital gains tax, 16, 35, 57, 74, 126, 132,
+Balance sheet, 10, 32, 46, 68, 81, 105, 124,146, 149, 179
+145,177,182,190Capital loss, 8-9, 31, 51, 71, 84, 106
+Bank draft, 123, 145Capital market line, 81, 131, 208, 225
+231
+Index
+Capping, 7, 48, 56, 99, 114, 119Consumer Price Index (CPI), 13, 34, 47, 69,
+Carryoverofbasis, 122, 14494, 111, 139, 152, 198-199, 221
+Cash balance plan, 7, 11, 30, 32, 120, 125,Consumer sentiment, 13, 33
+134, 143, 150, 216, 229Contraction stage of business cycle, 47, 68,
+Cash flow from financing activities, 3, 29130,148
+Cash flow from investing activities, 3, 29Contractionary policy, 85, 107, 133, 135,
+Cash flow from operating activities, 3, 29150-151
+Cash flow statement, 213, 228Contributed capital, 51, 71, 167, 185
+Cash paid to suppliers, 135, 151Contumacy, 169,186
+Cash ratio, 64, 77Conversion premium, 140, 153
+Central banking system, 50, 70Convertible bond, 93, 111, 131, 149, 209,
+Central Registration Depository (CRD), 12,226
+33, 83, 96, 101, 119, 141, 143, 210Cooling-off period, 135, 151, 162, 183
+Charitable lead trust, 10, 32, 71Core inflation, 177, 190
+Charitable remainder annuity trust (CRAT),Corporate bond, 13, 20, 22, 24, 37-39, 45,
+11,33,52,71,12568, 131, 149, 203, 217, 223
+Charitable remainder unitrust (CRUT), 11,Corporate governance, 26, 40
+33, 52, 71, 125, 146Corporate insider, 170, 187
+Charity, 10, 23, 32, 39, 52, 71, 125Correlation coefficient, 17, 35, 215, 229
+Chicago Board Options Exchange (CBOE),Cost of goods sold, 53, 88, 108, 135, 151
+120,143Counter-cyclical stock, 130, 148
+Chinese wall, 65, 78, 162, 183Coverdell Education Savings Account (ESA),
+Churning, 119, 14314, 34, 44, 67, 98, 113, 167, 185
+Civil penalty, 46, 68Credit quality, 56, 73, 138, 152, 203, 223
+Class A shares, 7, 31, 127, 177Credit report, 99, 114
+Class B shares, 7, 127, 147, 177Credit risk, 166, 185, 203
+Class C shares, 7, 127, 177, 190Credit score, 99, 114
+Cliff vesting, 171, 187Cross-testing, 76, 147
+Closed-end mutual fund, 18, 36, 91, 110,Currency and Foreign Tr a n s a c t i o n s Report
+189ing Act, 174,189
+Coinsurance, 199, 221Currency Tr a n s a c t i o n Report (CTR), 20,
+Collar (hedging technique), 19, 177, 180,123, 145, 196, 219
+191Current ratio, 7, 93, 110, 126, 176, 204, 223
+Collateralized mortgage obligation (CMO),Current yield, 128,147
+50, 70, 101, 115, 163, 183Custody of assets, 12, 33, 124, 145, 177, 190
+Collectibles, 52, 71, 197, 220, 229Customer Identification Program (CIP), 139,
+Commercial paper, 13, 33, 119, 143, 173,153
+202,222Cyber security, 123, 157, 181
+Commodity Futures Tr a d i n g CommissionCyclical stock, 5, 141, 154, 174, 189
+(CFTC), 50, 70, 86, 107
+Common stock, 3, 13, 33, 44-45, 57, 68, 87,D
+91-92, 110, 131, 135, 149, 151, 167,
+185Dark pools, 54, 72, 97, 113, 158
+Community property, 89, 94, 111, 206, 224Data backup, 98, 114
+Complex trust, 6, 30, 196, 219Date of declaration, 18, 36
+Conduit theory, 25, 40, 136, 151, 214, 228Date of record, 18, 36
+Confirmation bias, 173, 188Death benefit, 9, 31, 99, 109, 113-114, 164,
+Conflict of interest, 96, 112, 137, 151, 162,184, 212, 227
+183Debenture, SO, 60, 63-64, 77, 88, 108, 126,
+Consolidated Quotation System (CQS), 136,146, 170, 214
+151Debt-to-capital ratio, 87, 108, 198, 221
+Consolidated tape, 63, 77Default risk, 13, 45, 65, 68, 78, 87, 108, 126,
+Constant dividend growth model, 100, 114146, 203
+Constructive dividend, 126, 146Defensive stock, 5, 30, 88, 108, 141, 154
+232
+Index
+Deflation, 20, 37Excise tax, 53, 72, 199, 213, 228
+Department of Labor (DOL), 166, 185Ex-dividend date, 18, 36
+Depletion, 210, 226Expansion stage of business cycle, 47, 69
+Depreciation, 59, 75, 210, 226Expansionary policy, 85, 107, 162, 183
+Depression, 161, 183
+Diluted earnings per share, 135, 151F
+Disallowed loss, 60, 75, 161, 183
+Discount rate, 59, 75, 95, 112Face-amount certificate (FAC), 25, 40
+Diversifiable risk, 53, 72, 126Fair and Accurate Credit Tr a n s a c t i o n s Act
+Diversification, 16, 35, 45, 67, 205, 224(FACT Act), 26, 43, 46, 68, 99, 114
+Dodd-Frank Wall Street Reform and Con-Family limited partnership, 8, 31, 206, 224
+sumer Protection Act of 2010, 26, 40,Fannie Mae (FNMA), 24, 92, 110, 170
+49, 86, 99, 107, 206Fed funds rate, 95, 112
+Dollar cost averaging, 99, 114Federal Deposit Insurance Corporation
+Double taxation, 58, 60, 74-75, 134, 150,(FDIC), 26-27, 40, 81, 94, 101, 115, 165
+215, 228Federal open market committee (FOMC),
+Dow Jones Industrial Average, 82, 96, 105,43, 50, 67
+121, 144Federal Tr a d e Commission, 138, 152
+Dow Jones Tr a n s p o r t a t i o n Average, 212,Fidelity bond, 57, 60, 75, 98, 125
+227Fiduciary, 4, 29, 56, 58, 74, 119, 143, 199,
+Dow Jones Utility Average, 51, 71221
+Duration of a bond, 15, 24, 35, 48, 62, 69, 76,Financial Accounting Standards Board
+88, 102, 108, 115-116, 124, 130, 145,(FASB), 165, 184
+148, 203, 223Financial Crimes Enforcement Network
+(FinCEN), 123, 145
+EFinancial risk, 166-167, 185, 197, 220
+FINRA Rule 2210, 9, 31, 121, 144, 209, 226
+EDGAR, 63, 83, 101, 115FINRA Rule 3240, 9, 15, 35
+EE bond, 6, 30, 86, 107, 170, 187First-time home purchase, 86, 138, 152
+Efficient frontier, 61, 176, 189, 196, 208,Fiscal policy, 199, 221
+219, 225529 plan, 62, 76, 131, 149, 201, 222
+Efficient market hypothesis, 23, 38, 56, 74,Fixed asset turnover ratio, 141, 154, 204
+208, 225Fixed income security, 20, 37, 65, 78, 203,
+Electronic Communication Network (ECN),223
+97, 113, 137, 140, 153, 173, 209Flat tax, 5, 29, 209
+Electronic Municipal Market Access SystemFlat yield curve, 56, 91, 109, 138, 203, 223
+(EMMA), 173, 180, 191Flexible death benefit, 9, 99, 114
+Emergency preparedness rule, 49, 70Flexible premium, 9, 99, 114
+Emerging markets, 57, 74Foreign tax credit, 57, 74
+Employee stock ownership plan (ESOP),Forfeitures, 91, 109, 172, 188
+216, 229401(k) plan, 50, 53, 70, 72, 90, 101, 109,
+Employee stock purchase plan (ESPP), 92,115, 152, 158, 161, 169, 175, 183, 186,
+110, 166, 185189, 198, 201-202, 207, 216, 220, 223,
+Equity REIT, 63, 77, 138, 152, 200, 221225, 229
+ERISA, 24, 39-40, 58, 74, 86, 107, 122, 144,403(b) plan, 44, 62, 67, 76, 94, 111, 127,
+166, 199, 207, 211, 221, 227129, 147-148, 161, 175, 183, 189, 200,
+Escheat, 125, 146207, 221, 225
+Estate tax, 8, 31, 52, 160, 171, 187, 206457 plan, 53, 72, 161, 183
+Eurodollar, 173, 188, 198Fourth market, 65, 78, 173, 188, 212
+European style option, 9, 32Front running, 7, 48, 56, 69, 99, 119
+Excess contribution, 213, 228Front-end load, 7, 31
+Exchange rate risk, 65, 78, 83, 106, 197, 220Fundamental analysis, 208, 225
+Exchange-traded fund (ETF), 15, 35, 54, 72,Future interest gift, 19, 37, 136
+96, 113, 175Futures, 50, 70, 216, 229
+233
+Index
+GIncome statement, 159, 182
+Indifference curve, 196, 219
+General obligation bond, 8, 31, 50, 55, 73,Inferior good, 63, 77
+121, 163, 169Initial margin, 130, 148, 209
+General power of appointment, 86,107,160Initial public offering (IPO), 3, 6, 29-30, 57,
+Generally accepted accounting principles87, 108
+(GAAP), 55, 73, 165, 184Insider trading, 10, 32, 46, 68, 176, 189,
+Generation-skipping transfer tax (GSTT),197, 204, 220, 223
+127, 147, 201, 222Insider Tr a d i n g and Securities Fraud En
+Gift splitting, 19, 37, 89, 108forcement Act of 1988, 65, 78, 86, 99,
+Gift tax annual exclusion, 19, 37, 44, 136,120, 143, 164, 174, 206
+151, 165, 184, 201, 222Insolvency, 63, 77
+Gift tax return, 19, 37Insurance industry rating services, 87, 107
+Ginnie Mae (GNMA), 24, 110, 170, 187Intangible asset, 140,153,210,226
+Global fund, 48, 69, 92, 110, 121, 144Interest rate risk, 22, 38, 54, 73, 88, 108,
+Gold coins, 176, 190, 215, 229124, 145, 197, 203, 220, 223
+Good faith deposit, 65, 78Internal rate of return (IRR), 47, 69, 216,
+Government borrowing, 85, 107, 133, 150,229
+183Intestate, 166, 185, 205, 224
+Grace period, 97, 113Inventory turnover ratio, 141, 154, 176
+Gross domestic product (GDP), 21, 47, 57,Inverted yield curve, 56, 91, 138, 152
+63, 69, 74, 77, 161, 165, 170, 183-184,Investment Adviser Registration Depository
+187(IARD), 83, 96, 101, 106, 119, 141, 143,
+Gross national product (GNP), 21, 37, 57,210,226
+74, 139, 198Investment Advisers Act of 1940, 5, 30, 201,
+Gross profit, 88, 108, 214, 228205, 210, 222, 226
+Growth stock, 92, 110, 167, 185, 195, 219Investment Company Act of 1940, 5-6, 64,
+Guaranteed cash value, 9, 99, 114137, 151, 168, 178, 186, 205
+Guaranteed investment contract (GIC), 20,Investment contract, 6, 30, 59, 75, 171
+101, 171
+J-L
+H
+Joint tenancy, 34, 129, 148, 191
+Hardship withdrawal, 138, 152Key advisory personnel, 96, 112
+Health savings account (HSA), 14, 34, 100,"Know your customer" rule, 51, 71
+114,179,191,199,221Lagging economic indicator, 13, 34
+Hedge fund, 135, 151Latin America, 57, 74, 162, 183
+High-deductible health plan (HDHP), 179,Leading economic indicator, 13, 33-34
+191Letter of intent (LOI), 133, 150
+High-yield bond, 52, 72, 163, 183LIBOR, 95, 112
+Holding period return, 46, 68, 132, 149, 195,Life expectancy, 18, 36, 174, 188, 199, 221
+219Life insurance, 4, 9, 17, 29, 31, 36, 55, 73, 88,
+Housing starts, 13, 3497, 99, 108, 113-114, 129, 148, 164,
+Howey test, 6, 30, 75171, 187, 197, 212, 220, 227
+Hybrid REIT, 63, 77, 200, 221Limit not held, 10, 32
+Hypothecate, 49, 70Limited partnership, 8, 24, 31, 39, 132, 149,
+206-207, 224-225
+ILiquidating dividend, 126, 146
+Liquidation, 63, 77, 82, 105
+1 bond, 94,111Liquidity ratio, 204, 223
+Identity theft prevention program, 138, 140,Liquidity risk, 65, 78, 203
+152-153Living trust, 8, 130, 148, 206, 224
+Incentive stock option (ISO), 25, 59, 75, 84,Loss deduction, 60, 75, 161, 183
+106Lump sum distribution, 21, 37, 179
+234
+Index
+MNet profit margin, 7, 19, 37, 52, 71, 126, 205
+Netrevenue,53,72
+Ml of money supply, 167, 186Net worth statement, 46, 68
+M2 of money supply, 124, 145New York Stock Exchange (NYSE), 90-91,
+M3 of money supply, 44, 67100, 109, 115, 120, 136, 151
+Management fee, 54, 72Nominal return, 119, 143, 159, 182
+Marginal tax rate, 85, 106Noncumulative preferred stock, 162, 183
+Marital deduction, 49, 70, 160, 182Nonqualified stock option (NQSO), 25, 84,
+Marital trust, 49, 83, 86, 107106
+Market not held, 10, 32North American Securities Administrators
+Marketability, 71, 120, 143Association (NASAA), 10, 12, 32-33, 50,
+Markowitz, 61, 17691, 102, 116, 119, 143
+Mean, 139, 153Notice filing, 7, 31, 82, 105, 215, 229
+Median, 139, 153
+Mode, 139, 1530
+Modern portfolio theory, 14, 23, 34, 50, 70,
+159, 196, 219Omitting prospectus, 3, 132, 149, 158
+Monetary policy, 43, 59, 67, 75, 81, 105,Open market operations, 59, 75, 157, 181
+124, 145, 157, 181, 199Open-end mutual fund, 110, 168, 186, 201,
+Money laundering, 16, 35, 56, 95, 112, 174,222
+189, 206, 224Operating profit margin, 7, 19, 37, 52, 205,
+Money market funds, 3, 119, 143, 173, 202,214, 224, 228
+217, 222Opportunity cost, 44, 67
+Money supply, 13, 34, 44, 81, 105, 124, 135,Options Clearing Corporation (OCC), 140,
+151, 167153
+Mortgage REIT, 63, 77, 138, 152, 175, 189,Order book official (080), 171, 187
+200, 221OTC Bulletin Board, 209, 226
+Mortgage-backed security, 157, 181
+Moving average, 51, 71, 165, 184p
+Municipal bond, 15, 20, 27, 40, 55, 65, 73,
+78, 122, 144, 180, 191P/E effect, 204, 223
+Municipal Securities Rulemaking BoardPainting the tape, 7, 30, 48, 56, 99, 119
+(MSRB), 24, 39, 43, 56, 73, 124, 145,Patriot Act of 2001, 26, 49, 86, 139, 206, 224
+165, 180Peak stage of business cycle, 47, 69
+Pegging, 7, 48, 56, 73, 99
+NPenny stock, 200, 221
+Pension Benefit Guaranty Corporation
+Naked call, 19, 60, 75, 158, 181(PBGC), 24, 27, 101, 122, 166, 211
+Naked short selling, 12, 33Pension plan, 11, 32, 62, 76, 134, 141, 150,
+NASDAQ, 53, 58, 72, 74, 120, 140, 209, 226154, 206, 216, 224, 229-230
+National Adjudicatory Council (NAC), 89,Performance advertising, 127, 147
+91, 109Personal Service Corporation (PSC), 134,
+National Association of Insurance Commis150
+sioners (NAIC), 10, 87, 102, 107, 123Phishing, 123, 144
+National Association of Securities DealersPink sheets, 22, 163, 184
+(NASD), 10, 12, 33, 43, 91, 101-102,Pipeline theory, 136, 151
+109, 123, 178, 190Plan sponsor, 24, 39, 119, 143
+National Securities Clearing CorporationPlanned amortization class (PAC), 50, 163,
+(NSCC), 10, 96, 101, 113, 140, 165, 173183
+Negotiable CD, 119, 143, 198, 220Ponzi scheme, 11, 33
+Net asset value (NA V), 20, 37, 91, 99, 110,Pooled income fund, 10, 23, 39, 54
+161, 169, 175, 182, 186, 189, 201, 222Power of appointment, 86, 107, 160
+Net income, 12, 23, 57, 59, 74-75, 88, 108,Precious metals, 88, 108
+179Pre-emptive right, 63, 77
+235
+Index
+Preferred stock, 13, 20, 33, 37, 54-55, 73,R
+91, 127, 147, 162, 183, 205, 212, 224,
+227Random walk pattern, 38
+Preliminary prospectus, 3, 132, 158, 181Real estate, 3, 20, 24, 29, 37, 39, 45, 68, 138,
+Premature distribution, 61-62, 76, 90, 96,152, 176, 181, 190
+109, 112, 130, 148, 198, 220Real estate mortgage investment conduit
+Pre-retirement inflation, 18, 36, 121, 144(REMIC), 20, 37, 138, 152, 157, 181,
+Present value, 5, 30, 213, 216, 229199
+Pretax margin, 214,228Real return, 45, 68, 119, 143, 159, 182
+Price-weighted index, 58, 82, 105, 131, 149Recession, 5, 30, 47, 63, 68, 77, 203
+Prime rate, 13, 34, 95, 112Recordkeeping,9,31
+Private activity bond, 55, 73, 121, 169, 186Recourse loan, 102, 115
+Private annuity, 102, 174, 188Red Flags Rule, 86, 107, 138, 152
+Private placement, 21, 37, 45, 54, 57, 60, 62,Red herring, 3, 22, 158, 181, 202, 222
+68, 74, 76, 157Refundable tax credit, 168, 186
+Probate, 31, 83, 97, 106, 113, 166, 172, 185,Registration by coordination, 48, 69
+187, 224Registration by notification, 48, 69
+Producer Price Index (PPI), 47, 198, 220Registration by qualification, 48, 69
+Profit sharing plan, 11, 32, 61-62, 76, 101,Registration statement, 22, 38, 101, 115,
+115, 128, 134, 141, 147, 150, 154, 188,135, 151, 211, 227
+206, 211, 216, 224, 229Regressive tax, 23, 39, 209
+Profitability ratio, 19, 37Regulation A, 45, 124, 145, 169, 186
+Progressive tax, 23, 109, 209, 226Regulation D, 8, 21, 37, 45, 68
+Promissory note, 123, 145, 202, 222Regulation FD, 95, 111, 140, 216
+Prospecttheory,22,38,44Regulation SHO, 12, 33
+Prospectus, 3, 22, 38, 50, 57, 74, 132-133,Regulation S-ID, 140, 153
+135, 140, 149, 153, 158, 162, 181, 183,Regulation S-P, 216, 229
+202, 214, 222Regulation T, 8, 31, 45, 124, 130, 148, 204
+Protective put, 180, 191Regulation U, 8, 45, 124, 204, 223
+Public Company Accounting OversightRehypothecation, 176, 189
+Board, 49, 56, 70Reinvestment risk, 15, 26, 35, 40, 65, 78, 87,
+Public offering price (POP), 20, 37108, 203, 223
+Public spending, 85, 107, 133, 150, 162, 183Retained earnings, 44, 51, 71, 87, 126, 146,
+Purchasing power risk, 65, 78, 197, 220167,185
+Put option, 14, 19, 34, 36, 47, 58, 68, 75, 82,Retirement plan administrator, 119, 143
+105, 127-128, 130, 147, 180, 191, 197,Return on equity, 7, 19, 30, 37, 126, 179
+208, 220, 226Revenue bond, 8, 55, 73, 121, 144, 169
+Reverse stock split, 3, 29
+QReversionary trust, 10, 32
+Revocable living trust, 130, 148
+Qualified dividend, 57, 74, 126, 146Rights and warrants, 90, 109, 197, 220
+Qualified domestic trust (QDOT), 160, 182Rights of accumulation, 196, 219
+Qualified legal opinion, 83, 106Risk-free rate, 6, 21, 25, 38, 96, 99, 206, 208,
+Qualified personal residence trust (QPRT),225
+90, 109, 178, 191, 206, 224Rollover, 21, 37
+Qualified preretirement survivor annuityRule 72(t), 178, 191
+(QPSA), 195, 219Rule of 72,129,148
+Qualified purchaser, 102, 115Russell 2000, 13, 33, 58, 74, 96
+Qualified terminable interest property
+(QTlP) trust, 49, 70, 86s
+Qualitative data, 121, 144, 228
+Quantitative data, 144, 213, 228S Corp, 15, 58, 132, 149, 176, 189, 207, 225
+Quick ratio, 52, 64, 77, 93, 176, 190, 204-S&P 500, 6, 9, 31, 58, 74, 128, 147
+205, 223Safe harbor, 199, 221
+236
+Index
+
+t  f assets and
+liabilities,46,68
+     Statemen o   3  29. 46
+Sarbanes-Oxley Act of2002,26,49,65,70,Statementof cashflows,,�  159
+Statement Of financial performance,'
+86,
+120,164,174,206  32. 36-37, 52,
+Secondary market, 10, 18,20,,182 'ti 46
+71,
+94, 102, 111, 116,202 68, 159,
+Statementof financial
+posion,� �
+Sector rotation, 54, 72182
+      2
+Secured bond, 63,77,126,146 82Statement of profit orloss,159,18
+Securities Act
+Amendments0f1975,43,,
+Stockbonusplan,216.�
+99, 120, 124, 145, 215, 228  /  186 204, 223
+Stock market anomaly,1,�
+Securities Act of 1933, 5-6, 22, 30, 32, 38,
+124, 145, 168, 186, 205Stock split,3,29 36 177
+Straddle (hedging
+technique),19,� �
+Securities Act Rule 144, 17, 35, 51
+Securities Act Rule 145, 162, 183180,191   h)
+Strongform (efficient markethypotesis,
+Securities Act Rule 405, 17, 51, 71, 162
+208, 225
+Securities and Exchange Commission v. W. J.Subchapter M, 214, 228
+Howey Co., 30, 59, 75
+Securities Exchange Act of 1934, 5, 10, 19,Subscription privilege, 63, 77
+32, 36, 137, 168, 186, 205, 224Subscription right, 63, 77
+Securities Investor Protection CorporationSubstantially equal periodic payments
+Act of 1970, 82, 105(SEPP), 61, 76,
+96, 112, 148, 178,191
+Security market line, 81, 105, 131, 208Super display book system, 100, 115
+Self-regulatory organization (SRO), 43, 67,Supply and demand, 18, 36, 168
+90-91, 109Support and resistance levels, 51, 71, 132
+Sell limit order, 100, 115, 157Surety bond, 57, 60, 98, 125, 146
+Sell stop order, 157, 181Surrender value, 4, 164, 184
+Semi-strong form ( efficient market hypothSyndicate, 87, 108
+esis), 208, 225
+SEP, 11, 62, 76, 84, 106, 127, 147, 169, 175,T
+186, 189, 195, 216, 219, 230� / {
+Separation from service, 109, 198, 220T+2, 19, 36
+Series EE bond, 6, 30, 86, 107, 170, 187T+3, 19, 36
+Series I bond, 94, 111Ta n g i b l e asset, 52, 140, 210, 226I
+Settlement Cycle Rule, 19, 36Ta r g e t benefit plan, 7, 11, 30, 32, 120, 125,
+134, 143, 146, 150, 216, 229--
+Shareholders' equity, 108, 198, 221
+Sharpe ratio, 60, 62, 75-76, 206, 224Ta r g e t e d amortization class (TAC), 50, 70,
+Shelf registration, 132, 158, 202, 211, 227163
+Short sale/short selling, 12, 33, 45, 54, 72Ta x policy, 124, 145
+Significant business disruption, 49, 70, 98,Ta x a b l e account, 4, 92, 110
+114Ta x a b l e distribution, 43, 67
+SIMPLE 401(k) plan, 101, 115, 202, 223Ta x a b l e equivalent yield, 15, 34, 85, 106
+SIMPLE IRA, 55, 73, 101, 115, 223Ta x a b l e gift, 90, 109, 178, 191
+Simple trust, 30, 196, 219Ta x - e x e m p t interest, 170, 187
+Skip person, 43, 67, 127, 147, 201, 222Te c h n i c a l analysis, 208, 225
+Small-cap stocks, 13, 33Te l e m a r k e t i n g , 48, 69
+Small-firm effect, 169, 186Te l e p h o n e Consumer Protection Act, 4
+Social media, 26, 40, 210, 22692, 110
+Soft-dollar compensation, 122, 1441035 exchange, 55, 73
+Sole proprietorship, 132, 149, 177, 190Te n a n c y by entirety, 15, 34, 94, 111
+Solicitor, 64, 77, 87, 92, 110191
+Sovereign debt, 89, 108Te s t a m e n t a r y trust, 172, 187
+Spread (hedging technique), 19, 124, 175,Te s t a t e , 166, 185, 205, 224
+177, 180, 190-191Te s t i m o n i a l rule, 210
+Stagflation, 20, 61, 76Te s t i m o n i a l s , 127, 147, 210, 22
+Standard deviation, 16-17, 35, 56, 60, 98,Third market, 65, 136, 151, 21°
+113, 206, 215
+Third-party administrator, 11
+237
+Index
+
+Thriftsavings plan, 216, 229
+
+Timedeposit,44,67,124.�
+188 145.,,, 167 173
+
+Uniform
+Times interest earned ratio 18. 3670 PrudentInvestor Act of 1994.,, 50
+��
+*one aa3,22,29, 50. 132, 158, 2o2Uniform Securities Act, 43, 48, 50,
+p-down 65 69
+ investment
+ analysis. 81 10588,108,137,139,
+197, 215, 220,,,153, 169. 178 18s
+To t t e ntrust,8,83, 92, 106,
+ 206. 224
+
+Tr a d e Reporting
+  Compliance Engine
+ UniformTe r m i n a t i o nNotice for Securities
+TIndustry Registration, 52, 71
+rade(TRACE), surplus, 20,172,37, 18863,  96, 137, 139 �180Unit benefit plan, 11, 32
+Tr a d i n g restrictions, 26, 40
+Unitinvestment trust (UIT), 102, 116
+Tr a d i t i o n a l IRA, 8, 31, 50Universallife insurance, 99, 114
+ Unlisted stock, 97, 163, 184
+Tr a n s a c t i o ncost,
+  21, 38, 45, 130, 164
+
+
+TreasuryUnqualified188legal opinion, 55, 73, 83, 173,
+ bill,13,24,39, 44, 67, 90-91, 109
+119,129, 143, 170, 173 �
+
+ Unsystematicrisk,16, 35, 53, 72, 87, 95,
+Treasurybond,44,67, 91, 109,
+170, 186, 202, 222119, 168,108, 112, 123, 197, 220
+Utility stocks, 51, 71
+Treasury inflation-protected securities
+   V
+(TIPS),25,39,47, 69,
+186, 199, 221103, 116, 168,
+
+Treasury109, 168,note, 1863, 29, 44, 67, 81, 91, 105,Value-weighted
+ index, 58, 74, 96, 112
+ Variablelife
+187insurance, 9, 31, 88, 108, 171,
+TreasurySTRIPS, 24, 39, 97, 113, 134, 150,
+168, 186, 200, 221Vesting schedule, 171, 186-187, 189
+Tr e n d l i n e , 51, 71, 81, 131, 149, 208Viatical settlement, 159, 182, 199, 221
+Tr e y n o r ratio, 62, 76, 99, 114VIX, 84, 106
+Tr o u g h
+stageof business cycle, 47, 69Volatility, 45, 67, 84, 106, 190, 203, 223
+
+Tr u s tIndentureAct 0f 1939, Voluntary contributions, 53, 72
+152, 17864, 77, 137,
+Voting shares, 170, 187
+Tr u s t e e - t o - t r u s t e e transfer, 21, 37
+ W-z
+Tr u t hin Lending Act of 1968, 43, 67
+12b-1 fee, 98, 113, 122
+Tw o - s t e p verification process, 157, 181Warrants and rights, 90, 109, 197, 220
+uWash sale, 60, 75, 106, 161, 175, 183, 189
+
+Weak208,form
+ 225(efficient market hypothesis),
+U4, 52, 96, 211, 227
+Wholelife
+.W5, 52, 71, 211220insurance, 4, 29, 164, 197, 212,
+Wilshire 5000, 58, 74, 96, 112
+*Underwriter/underwriting, 65, 78, 87, 108,
+195, 219Yellow sheets, 22, 38, 163, 184
+Unemployment, 13, 34, 61, 76Yield curve, 56, 73, 91, 109, 138, 152, 158,
+UGMA/UTMA, 62, 76181, 203, 223
+
+Uniform Application for Securities IndustryYieldto maturity (YTM), 47, 69, 86, 102,
+116, 125, 145
+Registration or Tr a n s f e r, 211, 227
+Zero-coupon bond, 15, 35, 39, 48, 50, 69, 92,
+110, 131, 163, 209
+238

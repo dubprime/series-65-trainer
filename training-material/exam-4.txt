@@ -1,0 +1,1329 @@
+PRACTICE
+EXAM 4
+QUESTIONS
+1. Which of the following are considered fiduciaries?
+(1) A retirement plan administrator, including any third-party administrator that is
+used by the employer.
+(2) A retirement plan sponsor/employer, including its officers and/or directors.
+(3) An investment adviser that renders advice to a retirement plan for a fee or other
+compensation.
+(4) A retirement plan trustee.
+A. (1) and (2) only
+B. (2) and ( 4) only
+C. (1), (2), and (3) only
+D. All of the above are correct.
+2. Which of the following typically invest in high-quality, short-term investments, such
+as Tre a s u r y bills, commercial paper, and negotiable CDs? The underlying investments
+have an average maturity of 30 to 90 days.
+A. CDs
+B. Commercial paper
+C. Money market funds
+D. Treasury bonds
+3. Which of the following is the formula to calculate an investment's real return?
+A. Real return= Nominal return - Inflation
+B. Real return= Nominal return+ Inflation
+C. Real return= Nominal return+ Inflation
+D. Real return = Inflation / Nominal return
+4. All but which of the following are correct regarding the JARD?
+A. It was developed according to the requirements of its sponsors, the SEC and
+NASAA.
+B. Its database helps promote uniformity through the use of common forms, and effi
+ciency through a paperless environment.
+C. It is to investment advisers what the CRD is to broker-dealers.
+D. All of the above are correct.
+5. Which of the following describes the illegal practice of excessive buying and selling of
+securities in a customer's account without considering the customer's investment
+goals? Its primary goal is to generate commissions that benefit the broker.
+A. Capping
+B. Churning
+C. Front running
+D. Painting the tape
+119
+Practice Exam 4
+6. Which of the following is/are correct regarding liquidity and marketability?
+(1) Liquidity is the ability to sell or redeem an investment quickly and at a known
+price without incurring a significant loss of principal.
+(2) Marketability is the speed and ease with which an investment may be bought or
+sold.
+A. (1) only
+B. (2) only
+C. Both (1) and (2) are correct.
+D. Neither (1) or (2) are correct.
+7. Which of the following are among the economic goals of the Federal Reserve and the
+U.S. Treasury?
+(1) Full employment
+(2) Stable prices
+(3) Economic growth
+(4) Decrease government spending
+A. (1) and (4) only
+B. (3) and (4) only
+C. (1), (2), and (3) only
+D. All of the above are correct.
+B. Which of the following retirement plans would be most suitable to retain young em
+ployees?
+A. Cash balance plan
+B. Defined benefit plan
+C. Money purchase plan
+D. Ta r g e t benefit plan
+9. Which of the following is the largest options exchange in the U.S., and focuses on op
+tions contracts for individual equities and indexes?
+A. AMEX
+B. CBOE
+C. NASDAQ
+D. NYSE
+10. Which of the following acts is designed to provide greater deterrence and punishment
+for people trading on material non-public information, and to improve detection of
+other perceived market abuses?
+A. Securities Act Amendments of 1975
+B. Insider Tr a d i n g and Securities Fraud Enforcement Act of 1988
+C. National Securities Market Improvement Act of 1996
+D. Sarbanes-Oxley Act of 2002
+120
+Practice Exam 4
+11. The Dow Jones Industrial Average is an index comprised of / industrial com
+Panies.
+A. 20
+B. 30
+C. 40
+D. 50
+12. Which of the following is a type of mutual fund that invests only in the equity securi
+ties of companies located outside the U.S.?
+A. Aggressive growth fund
+B. Balanced fund
+C. Global fund
+D. International fund
+13. All but which of the following are characteristics of defined contribution plans?
+A. Employer contributions are defined.
+B. The employee assumes the risk of investment performance.
+C. The employer assumes the risk of pre-retirement inflation.
+D. Benefits cannot be provided for past service.
+14. All but which of the following are among the three categories of firm communica
+tions that are defined and regulated by FINRA Rule 2210?
+A. Correspondence
+B. Institutional communication
+C. Marketing communication
+D. Retail communication
+15. All but which of the following are considered qualitative data?
+A. Account balances
+B. Goals
+C. Lifestyle
+D. Needs
+16. A is issued by a governmental body to finance a specific project It is not
+backed by the full faith and credit of the issuing body.
+A. general obligation bond
+B. multi-purpose bond
+C. private activity bond
+D. revenue bond
+121
+Practice Exam 4
+17. Which of the following is defined as the benefit provided to an asset manager by a
+broker-dealer as a result of commissions generated from financial transactions exe
+cuted by the broker-dealer?
+A. 12b-1 compensation
+B. Administrative compensation
+C. Hard-dollar compensation
+D. Soft-dollar compensation
+18. Which of the following is/are correct regarding registered bonds and bearer bonds?
+(1) A registered bond is registered with the corporation or organization that issued
+the bond, and coupon payments are made to the owner of record.
+(2) A bearer bond can be transferred like cash, and coupon payments are made to
+the person who holds the bond.
+A. (1) only
+B. (2) only
+C. Both (1) and (2) are correct.
+D. Neither (1) or (2) are correct.
+19. Gifts made during a donor's lifetime receive a of basis, and gifts made at
+death receive a of basis.
+A. carryover, carryover
+B. carryover, step-up
+C. step-up, carryover
+D. step-up, step-up
+20. Which of the following impose the reporting and disclosure requirements for de
+fined benefit plans?
+A. ERISA
+B. IRS
+C. PBGC
+D. SEC
+21. Which of the following is/are correct regarding interest paid from municipal bonds?
+(1) Interest paid from municipal bonds is not taxed by the federal government
+(2) Interest paid from municipal bonds is never taxable at the state level.
+A. (1) only
+B. (2) only
+C. Both (1) and (2) are correct.
+D. Neither (1) or (2) are correct.
+122
+Practice Exam 4
+22. To promote and enhance cyber security, an RIA's Chief Compliance Officer should
+educate firm employees about which of the following fraudulent activities that in
+volves obtaining financial or other confidential information from internet users, usu
+ally by sending an email that looks as though it has been sent by a legitimate organi
+zation? The email usually contains a link to a fake website that looks authentic.
+A. Phishing
+B. Spamming
+C. Spoofing
+D. Worming
+23. Which of the following is an unconditional promise to pay a sum of money to a
+payee, either at a fixed or determinable future time, under specific terms?
+A. Bank draft
+B. IOU
+C. Promissory note
+D. None of the above are correct.
+24. According to the "brochure rule," if there have been material changes in the brochure
+since the adviser's last annual updating amendment, the adviser must deliver either
+a current brochure or a summary of the material changes to each client within
+___ of the end of the adviser's fiscal year.
+A. 30 days
+B. 60 days
+C. 90 days
+D. 120 days
+25. A currency transaction report (CTR) is a report that U.S. financial institutions are re
+quired to file with which of the following?
+A. FinCEN
+B. FINRA
+C. NAIC
+D. NASD
+26. Which of the following is/are correct regarding beta?
+(1) It is used to measure the amount of unsystematic risk in an investor's portfolio.
+(2) A portfolio's beta can be positive or equal to zero, but cannot be negative.
+A. (1) only
+B. (2) only
+C. Both (1) and (2) are correct.
+D. Neither (1) or (2) are correct.
+123
+Practice Exam 4
+27. Which of the following regulations contains rules providing exemptions from the reg
+istration requirements under the Securities Act of 1933?
+A. Regulation A
+B. Regulation G
+C. Regulation T
+D. Regulation U
+28. Regarding the money supply, which of the following is the formula for M2?
+A. M2 = M1 + Savings accounts+ Short-term time deposits
+B. M2 = M1 + Coins and currency in circulation+ Money held in checking accounts
+C. M2 = Ml + Long-term time deposits
+D. M2 = M1 + Money held in checking accounts
+29. An investment adviser that has custody of client assets must file an audited balance
+sheet with the SEC within how many days of the investment adviser's fiscal year end?
+A. 30 days
+B. 60 days
+C. 90 days
+D. 120 days
+30. Which of the following acts is credited with forming the Municipal Securities Rule
+making Board (MSRB)?
+A. Securities Investor Protection Act of 1970
+B. Securities Act Amendments of 1975
+C. Uniform Prudent Investors Act of 1994
+D. National Securities Market Improvement Act of 1996
+31. Which of the following describes a strategy used to minimize the interest rate risk of
+bond investments by adjusting the portfolio duration to match the investment time
+horizon?
+A. Bond hedging
+B. Bond immunization
+C. Bond laddering
+D. Bond spread
+32. The Federal Reserve Board performs which of the following actions?
+A. It sets monetary policy, but does not set tax policy.
+B. It sets tax policy, but does not set monetary policy.
+C. It sets monetary policy and tax policy.
+D. None of the above are correct.
+124
+Practice Exam4
+33. When a bond is selling at a premium to par, the yield to maturity (YTM) will always
+be the bond's coupon rate. If a bond is selling at a discount to par, the YTM
+will always be the bond's coupon rate.
+A. greater than, equal to
+B. greater than, less than
+C. less than, equal to
+D. less than, greater than
+34. When an individual dies without a will and without family, the decedent's property
+will to the state where he or she resided at the date of death.
+A. abate
+B. escheat
+C. estop
+D. reform
+35. Which of the following bonds guarantees that the principal will act in accordance with
+certain laws, and if the principal fails to perform in this manner, the bond will cover
+resulting damages or losses?
+A. Bearer bond
+B. Brady bond
+C. Fidelity bond
+D. Surety bond
+36. Emily creates an irrevocable trust to which she contributes income producing prop
+erty. The trust will pay her income for life equal to 6% of the value of the trust reval
+ued annually. At Emily's death, the trust corpus will be paid to a public charity. Which
+type of trust did Emma create?
+A. Charitable remainder annuity trust
+B. Charitable remainder unitrust
+C. Charitable lead unitrust
+D. Charitable lead annuity trust
+37. In which of the following qualified retirement plans are the employees responsible
+for the investment risk?
+(1) Money purchase plans
+(2) Target benefit plans
+(3) Defined benefit plans
+(4) Cash balance plans
+A. (1) and (3) only
+B. (1) and (2) only
+C. (2) and (3) only
+D. (3) and (4) only
+125
+Practice Exam4
+For questions 38 - 41, match the form of dividend with the description that follows. Use
+only one answer per blank. Answers may be used more than once or not at all.
+A. Stock dividend
+B. Credit dividend
+C. Ordinary dividend
+D. Qualified dividend
+E. Constructive dividend
+F. Liquidating dividend
+G. Ta x dividend
+38. _ A distribution made by a corporation that is paid as additional shares of stock
+rather than cash.
+39. _ A type of dividend to which capital gains tax rates are applied.
+40. / Normally a disguised dividend, such as a below-market shareholder loan.
+41. _ A payment to shareholders that exceeds the company's retained earnings; pay
+ment is made from capital rather than earnings.
+42. An annual interest rate of 4.7% is equivalent to:
+A. 0.392% monthly or 1.175% quarterly.
+B. 0.392% monthly or 1.573% quarterly.
+C. 1.175% quarterly or 0.412% monthly.
+D. 2.352% quarterly or 0.783% monthly.
+43. Which of the following is a characteristic of a debenture bond?
+A. Debenture bonds are secured bonds.
+B. Debenture bondholders have the same rights as general creditors.
+C. To account for the lower default risk, debenture bonds will have lower yields to
+maturity than secured bonds issued for the same term by the same issuer.
+D. All of the above are correct
+44. Earnings after taxes / Total assets = _
+A. Current ratio
+B. Net profit margin
+C. Return on assets
+D. Return on equity
+45. If a portfolio has a beta of 1.0, what type of risk does the portfolio have?
+A. Diversifiable risk
+B. Non-systematic risk
+C. Systematic risk
+D. Both non-systematic and diversifiable risk
+126
+Practice Exam 4
+46. An investor who owns 5% cumulative preferred stock will receive a semiannual div
+idend of:
+A. $0.25 per share.
+B. $0.50 per share.
+C. $2.50 per share.
+D. $5.00 per share.
+47. A skip person for generation-skipping transfer tax (GSTT) purposes is a related indi-
+vidual below that of the transferor.
+A. one or more generations
+B. two or more generations
+C. 21 years
+D. 27.5 years
+48. If an employer maintains a SIMPLE plan, which of the following plans can it also
+have in operation at the same time?
+A. 403(b) plan
+B. SEP
+C. Qualified plan
+D. None of the above are correct
+49. All but which of the following are correct regarding advertising activities engaged in
+by an RIA?
+A. Securities laws and rules prohibit performance advertising.
+B. Advertisements may not use or refer to testimonials.
+C. A testimonial refers to any statement of a client's experience or endorsement.
+D. All of the above are correct
+50. Which of the following mutual fund share classes will charge investors a back-end
+load?
+A. Class A shares
+B. Class B shares
+C. Class C shares
+D. Class D shares
+51. Which of the following options will put an investor at the greatest risk?
+A. Buying a put while not owning the stock.
+B. Buying a put while owning the stock.
+C. Selling a stock short while not owning the stock.
+D. Selling a stock short while owning the stock.
+127
+Practice Exam 4
+52. If an investor expects a large decrease in the stock market 60 days from today, she
+can take advantage of the change by doing which of the following?
+(1) Buying S&P 500 index calls
+(2) Buying S&P 500 index puts
+(3) Selling S&P 500 index calls
+(4) Selling S&P 500 index puts
+A. (1) and (3) only
+B. (1) and (4) only
+C. (2) and (3) only
+D. (2) and (4) only
+53. An investor purchased a 5-year bond that pays a 3.5% semiannual coupon payment
+The bond is priced at $97 per $100 of par value. What is the bond's current yield?
+A. 3.50%
+B. 3.61%
+C. 7.22%
+D. 7.65%
+The following information relates to questions 54 - 55.
+Beta Corporation, a broker-dealer, would like to withdraw their state registration.
+54. Which of the following forms must Beta Corporation submit to withdraw registration?
+A. Form ADV-W
+B. Form BOW
+C. Form BR
+D. FormW
+55. The withdrawal will become effective following the SEC's receipt of the form,
+unless the division notifies Beta Corporation otherwise.
+A. 30 days
+B. 60 days
+C. 90 days
+D. 120 days
+56. Which of the following is correct regarding profit sharing plan allocation formulas?
+A. A11ocation formulas may discriminate in favor of highly compensated employees
+without penalty.
+B. Contributions may not be skewed to favor older employees.
+C. Allocation formulas must be definite and predetermined.
+D. Employee contributions must be allocated on a pro-rata basis.
+128
+Practice Exam 4
+57. As a base country's currency strengthens relative to other countries, which of the
+following will result?
+A. The base country's exports will become less attractive to foreign consumers be
+cause the base country's goods are considered to be expensive.
+B. The base country's exports will become less attractive to foreign consumers be
+cause the base country's goods are considered to be cheap.
+C. The base country's exports will become more attractive to foreign consumers be
+cause the base country's goods are considered to be expensive.
+D. The base country's exports will remain unchanged because the strength or weak
+ness of a country's currency does not affect exports.
+58. In a joint tenancy between non-spouses,�of the property will be included in
+the gross estate of the decedent unless the survivor shows consideration furnished.
+A. 0%
+B. 25%
+C. 50%
+D. 100%
+59. According to the Rule of 72, how many years will it take for an investment to double
+if the rate of return is 8% per year?
+A. 8 years
+B. 9 years
+C. 10 years
+D. 12 years
+60. Rob owns 200 shares of Epsilon stock, which recently announced that it will pay a 4%
+stock dividend How many shares will Rob have after the dividend has been paid?
+A. 192 shares
+B. 200 shares
+C. 204 shares
+D. 208 shares
+61. Which of the following are permitted investments in a 403(b) plan?
+(1) Mutual funds
+(2) Bond funds
+(3) Tre a s u r y bills
+(4)  Life insurance that is incidental to an annuity contract
+A. (1) and (4) only
+B. (2) and (3) only
+C. (1), (2), and (4) only
+D. All of the above are correct.
+129
+Practice Exam 4
+62. The initial margin percentage is currently as established by Regulation T of
+the Federal Reserve Board.
+A. 25%
+8.30%
+C. 50%
+D. 75%
+63. All but which of the following are correct regarding counter-cyclical stocks?
+A. They perform better during economic downturns.
+B. They are negatively correlated to the overall state of the economy.
+C. Examples of counter-cyclical stocks include airlines and hotels.
+D. They outperform during the contraction phase of the business cycle.
+64. Which of the following is the minimum age requirement to use the substantially
+equal period payment (SEPP) exception to the 10% premature distribution penalty
+from an IRA?
+A. Age 21
+B. Age 59 �
+C. Age 65
+D. There is no minimum age requirement
+6S. An investor purchases two puts. The first is a September Theta put at $35, underlying
+currently selling at $37. The second is a November Delta put at $28, underlying cur
+rently selling at $25. Ignoring transaction costs, what is the value of the options?
+A. Theta: -$2; Delta: $3
+B. Theta: $0; Delta: -$3
+C. Theta: $0; Delta: $3
+D. Theta: $2; Delta: $3
+66. The duration of a bond is least affected by its:
+A. coupon.
+B. interest rate.
+C. quality.
+D. time to maturity.
+67. Jessica would like to set up a revocable living trust but is concerned about potential
+adverse tax consequences. If she sets up a revocable living trust and places all of her
+income producing assets into the trust, how will the income from the trust be taxed?
+A. The income will pass through to the Jessica, who will pay it personally.
+B. The income will be taxed at trust tax rates.
+C. The income will accumulate tax-free within the trust.
+D. Part of the income will pass through to Jessica, who will pay it personally, and part
+of the income will accumulate tax-free within the trust.
+130
+Practice Exam 4
+68. An analyst provides the following information for an index comprised of 4 securities:
+SecurityBeginning ofEnd of
+Period Price ($)Period Price ($)
+Security A$38.00$46.00
+Security B$29.00$33.00
+Security C$50.00$53.00
+Security D$80.00$86.00
+If the securities are part of a price-weighted index, what ls the return of the index?
+A. 10.66%
+B. 12.09%
+C. 13.63%
+D. 14.29%
+69. Which of the following will result if money distributed from a 529 Plan is not used to
+pay for qualifying education expenses?
+A. The gain is taxed at capital gains rates, and a 10% penalty is applied.
+B. The gain is taxed at capital gains rates, and a 20% penalty is applied.
+C. The gain is taxed as ordinary income, and a 10% penalty is applied.
+D. The gain is taxed as ordinary income, and a 20% penalty is applied.
+70. All but which of the following are correct regarding a convertible bond?
+A. It is a type of corporate bond that may be converted into common stock of the is
+suing corporation.
+B. It may be converted at the bondholder's discretion.
+C. It allows an investor to share in the growth of the corporation only if the bond is
+converted into common stock.
+D. It is a zero-coupon bond issued at a discount to par.
+71. John owns an investment yielding an after-tax return of 9.5%. If he is in the 15% tax
+bracket, what is the equivalent pre-tax return?
+A. 1.43%
+8.8.08%
+C. 10.93%
+D. 11.18%
+72. Which of the following lines indicates the direction and speed that a security's price
+moves over a period of time?
+A. Capital market line
+B. Security market line
+C. Support line
+D. Tr e n d l i n e
+131
+Practice Exam 4
+73. A doctor starting a new medical practice ls concerned about limiting her personal lia
+bility. She would like to have flow-through taxation and the ability to easily sell inter
+ests in her practice in the future. Which of the following entities is most suitable for
+the doctor to meet her goals?
+A. C Corp
+B. S Corp
+C. Sole proprietorship
+D. Limited partnership
+74. Which of the following is/are correct regarding support and resistance levels?
+(1) Support is the level at which demand is strong enough to prevent security prices
+from rising further.
+(2) Resistance is the level at which selling activity ls strong enough to prevent secu-
+rity prices from declining further.
+A. (1) only
+B. (2) only
+C. Both (1) and (2) are correct.
+D. Neither (1) or (2) are correct.
+75. If an investment is held for more than one year, the holding period return _
+the true investment return on an annual basis. If an investment is held for less than
+one year, the holding period return the true investment return.
+A. correctly states, overstates
+B. overstates, correctly states
+C. overstates, understates
+D. understates, overstates
+76. Which of the following is an advertisement used by a registered investment company
+that advises readers to obtain a full prospectus? It is not permitted to include an ap
+plication to invest, and it must contain specific caveats pursuant to SEC Rule 482.
+A. Omitting prospectus
+B. Preliminary prospectus
+C. Shelf registration
+D. Tombstone ad
+77. Long-term capital gains tax rates apply if an asset is held for:
+A. at least 12 months.
+B. longer than 12 months.
+C. at least 6 months using the half-year convention.
+D. longer than 6 months using the half-year convention.
+132
+Practice Exam 4
+78. Which of the following is an investment strategy entered into to reduce or offset the
+risk of adverse price movements in a security by taking an offsetting position in an
+other investment?
+A. Arbitrage
+B. Derivative
+C. Option
+D. Hedge
+79. Contractionary policy is characterized by which of the following?
+A. Increasing government borrowing
+B. Increasing public spending
+C. Increasing taxes
+D. All of the above are correct
+80. An individual who meets which of the following criteria must register as an invest
+ment adviser?
+(1) The individual provides advice or analyses concerning securities.
+(2) The individual is in the business of providing investment advice.
+(3) The individual provides investment advice for compensation.
+( 4) The individual is a CPA or attorney whose investment advice is only incidental to
+his or her other activities.
+A. (3) only
+B. (1), (2), and (3) only
+C. (1), (2), and (4) only
+D. (2), (3), and (4) only
+81. Which of the following can an investor sign which allows him or her to receive break
+point discounts based upon a commitment to buy a specified number of mutual fund
+shares over a period of time, usually 13 months?
+A. Investment advisory contract
+B. Investment memorandum
+C. Letter of intent
+D. Prospectus
+82. Bill, age 67, recently received a $650,000 inheritance from his uncle's estate. To pro
+vide sufficient income during retirement, he needs an annuity that will produce the
+highest payout for the rest of his life. Which settlement option should Bill select?
+A. Dollar certain
+B. Joint life
+C. Life with a 10-year period certain
+D. Single life
+133
+Practice Exam 4
+83. All but which of the following are characteristics of a C Corp?
+A. They are subject to double taxation.
+B. They have a perpetual life.
+C. They must have stock available for purchase on an exchange.
+D. They can potentially be classified as a personal service corporation (PSC).
+84. Which of the following is correct regarding the interest paid by Tre a s w y STRIPS?
+A. They pay interest monthly.
+B. They pay interest semiannually.
+C. They pay interest annually.
+D. They do not pay interest.
+For questions 85 - 88, match the retirement plan with the description that follows. Use
+only one answer per blank. Each answer may be used only once.
+A. Profit sharing plan
+B. Money purchase plan
+C. Cash balance plan
+D. Ta r g e t benefit plan
+85. _ A plan that requires a fixed percentage of compensation to be contributed for
+each eligible employee.
+86. _ A plan similar to a defined benefit plan because contributions are based on pro
+jected retirement benefits.
+87. _ A type of defined contribution plan that is not a pension plan.
+88. _ A defined benefit plan that defines an employee's benefit in terms that are more
+characteristic with a defined contribution plan.
+89. Which of the following measures the level of trading activity within a mutual fund?
+A. Capitalization rate
+B. Expense rate
+C. Price/earnings rate
+D. Tu r n o v e r rate
+90. If an investment pays a monthly interest rate of 0.9%, it is equivalent to:
+A. 1.8% quarterly or 5.4% annually.
+B. 2.7% quarterly or 8.1% annually.
+C. 2.7% quarterly or 10.8% annually.
+D. 5.4% quarterly or 10.8% annually.
+134
+Practice Exam 4
+91.A hedge fund is a offered fund of securities for high-net worth investors.
+The hedge fund manager is generally paid a fee.
+A. privately, flat
+B. privately, performance
+C. publicly, flat
+D. publicly, performance
+92. When a corporation files a registration with the SEC in an effort to sell shares to the
+public, the period of time between the filing of the registration statement and its ef
+fective date is referred to as the:
+A. cooling-off period.
+B. prospectus period.
+C. registration period.
+D. terminable interest period.
+93. Last year, Alpha Holding Company reported an annual cost of goods sold of $17.6 mil
+lion. Total assets increased by $12.1 million, including an increase of $1.1 million in
+inventory. Total liabilities increased by $9.9 million, including an increase of $440,000
+in accounts payable. Based on this information, how much cash was paid to suppliers?
+A. $10.34 million
+B. $16.94 million
+C. $18.26 million
+D. $18.70 million
+94. Which of the following is the measure of a company's earnings per share if all convert
+ible securities were exercised and converted to common stock?
+A. Converted earnings per share
+B. Conversion ratio per share
+C. Diluted earnings per share
+D. Price/earnings per share
+95. Which of the following describes actions taken by the Federal Reserve and their ef
+fect on the money supply?
+(1) If the Federal Reserve sells government securities, it receives money in return,
+which increases the money supply.
+(2) If the Federal Reserve sells government securities, it is considered contraction-
+ary pollcy.
+A. (1) only
+B. (2) only
+C. Both (1) and (2) are correct.
+D. Neither (1) or (2) are correct.
+135
+Practice Exam 4
+96. Which of the following is the electronic service that provides quotation information
+for stocks traded on the AMEX, NYSE, and other regional stock exchanges, and also
+includes issues traded by FINRA member firms in the third market?
+A. Alternative Tr a d i n g System
+B. Consolidated Quotation System
+C. National Service Clearing Corporation
+D. Tr a d e Reporting and Compliance Engine
+97. For a defined contribution plan, annual contributions to an employee's account are
+limited to the lesser of of compensation or / in 2024.
+A. 20%, $23,000
+B. 20%, $30,500
+C. 25%, $69,000
+D. 25%, $275,000
+98. Which of the following is another name for conduit theory, which states that an in
+vestment company that passes all of its capital gains, interest, and dividends through
+to shareholders shouldn't be taxed at the corporate level?
+A. Corporate tax theory
+B. Passive income theory
+C. Passthrough theory
+D. Pipeline theory
+99. When an economy is experiencing inflation, an overall / in consumer prices
+leads to a of purchasing power.
+A. decrease, decrease
+8.decrease,increase
+C. increase, decrease
+D. increase, increase
+100. The gift: tax annual exclusion is permitted for:
+(1) present interest gifts only.
+(2) future interest gifts only.
+(3) present and future interest gifts.
+(4) any completed gift that does not revert back to the grantor.
+A. (1) only
+B. (3) only
+C. (3) and (4) only
+D. (1), (3), and (4) only
+136
+Practice Exam 4
+101. Which of the following acts regulates the organization of companies, including mu
+tual funds, that engage primarily in investing, reinvesting, and trading in securities?
+The act is designed to minimize conflicts of interest that arise in these complex op
+erations.
+A. Securities Exchange Act of 1934
+B. Tr u s t Indenture Act of 1939
+C. Investment Company Act of 1940
+D. Uniform Securities Act of 1956
+102. Which of the following is a system that automates and standardizes procedures for
+the transfer of assets in a customer account from one brokerage firm and/ or bank
+to another?
+A. ACATS
+B. ECN
+C. TRACE
+D. WIRE
+103. The Tr u s t Indenture Act of 1939 prohibits bond issues over from being of-
+fered for sale without a formal agreement signed by both the bond issuer and the
+bondholder that fully discloses the details of the issue.
+A. $1 million
+B. $5 million
+C. $10 million
+D. $15 million
+104. Which of the following is/are correct regarding investment risk in a qualified re
+tirement plan?
+(1) In a defined contribution plan, the employer bears the investment risk
+(2) In a defined benefit plan, the employee bears the investment risk
+A. (1) only
+B. (2) only
+C. Both (1) and (2) are correct.
+D. Neither (1) or (2) are correct.
+10S. Which of the following are among the criteria to be an "accredited investor"?
+A. Net worth exceeding $500,000, either alone or together with a spouse, excluding
+the value of the person's primary residence.
+B. Net worth exceeding $500,000, either alone or together with a spouse, including
+the value of the person's primary residence.
+C. Net worth exceeding $1,000,000, either alone or together with a spouse, exclud
+ing the value of the person's primary residence.
+D. Net worth exceeding $1,000,000, either alone or together with a spouse, includ
+ing the value of the person's primary residence.
+137
+Practice Exam 4
+106. Which of the following are among the exemptions from the 10% early withdrawal
+penalty from an IRA?
+(1) Higher education costs for the account owner's child
+(2) Hardship withdrawals.
+(3) A first-time home purchase up to $10,000.
+(4) Separation from employment service at age 55 or older.
+(5) A loan for medical expenses.
+A. (1) and (3) only
+B. (2) and (4) only
+C. (3) and (5) only
+D. (1), (3), and (4) only
+For questions 107 - 109, match the real estate investment with the description that fol
+lows. Use only one answer per blank. Answers may be used more than once or not at all.
+A. Equity REIT
+B. Mortgage REIT
+C. REMIC
+107. _ Invests in loans secured by real estate.
+108. _ Self-liquidating, flow-through entity that invests in real estate mortgages or
+mortgage-backed securities.
+109. _ Acquires ownership interests in commercial, industrial, and residential proper
+ties. Income is received from the rental of these properties.
+110. Which of the following yield curves results from short-term debt instruments hav
+ing a higher yield than long-term debt instruments of the same credit quality?
+A. Flat yield curve
+B. Inverted yield curve
+C. Normal yield curve
+D. Steep yield curve
+111. The Federal Trade Commission implemented which of the following rules that re
+quires broker-dealers and other financial institutions to create a written identity
+theft prevention program designed to detect the warning signs of identity theft in
+their day-to-day operations?
+A. CTR Rule
+B. Red Flags Rule
+C. SRO Rule
+D. Whistleblower Rule
+138
+Practice Exam 4
+112. Inflation is measured by which of the following?
+A. CPI
+B. GNI
+C. GNP
+D. NNI
+113. Which of the following is a requirement in which financial institutions need to ver
+ify the identity of individuals wishing to conduct financial transactions with them?
+A. Automated Client Account Transfer Service
+B. Customer Identification Program
+C. Trade Reporting and Compliance Engine
+D. None of the above are correct
+114. Which of the following is a model statute designed to guide each state in drafting its
+state securities laws? It was created by the National Conference of Commissioners
+on Uniform State Laws.
+A. Maloney Act
+B. Patriot Act
+C. Uniform Prudent Investors Act
+D. Uniform Securities Act
+The following information relates to questions 115 - 117.
+Kappa Fund has recorded the following investment returns for the past seven years: -3%,
++4%, +5%, -3%, +2%, +6%, -1%
+115. Which of the following is the mean return?
+A. 1.43%
+B. 1.67%
+C. 1.81%
+D. 1.98%
+116. Which of the following is the median?
+A. -3%
+B. -1%
+C. 2%
+0.6%
+117. Which of the following is the mode?
+A. -3%
+B. -1%
+C. 2%
+0.6%
+139
+Practice Exam 4
+118. Book value is calculated through which of the following formulas?
+A. Book value= Total assets - (Intangible assets+ Liabilities)
+B. Book value = Ta n g i b l e assets + Intangible assets - Liabilities
+C. Book value= Total assets - (Intangible assets - Liabilities)
+D. Book value = Ta n g i b l e assets - Intangible assets + Liabilities
+119. The difference between a bond's price and the conversion parity price is referred
+to as which of the following?
+A. Bond premium
+B. Conversion premium
+C. Discount price
+D. Option premium
+120. Which of the following SEC regulations require member firms that offer or main
+tain covered accounts to develop and implement written identity theft prevention
+programs?
+A. Regulation BB
+B. Regulation CF
+C. Regulation FD
+D. Regulation S-ID
+121. Which of the following is correct regarding Electronic Communication Networks
+(ECNs)?
+A. All registered investment advisers are permitted to become ECN subscribers.
+B. ECNs are not permitted to become members of FI NRA.
+C. An execution occurs when the price of a buy order and the price of a sell order
+intersect on the ECN.
+D. All of the above are correct
+122. The two main types of mutual fund prospectuses are the prospectus and
+the prospectus.
+A. omitting, statutory
+B. preliminary, statutory
+C. preliminary, summary
+D. statutory, summary
+123. Which of the following is the world's largest equity derivatives clearing organiza
+tion? By acting as guarantor, they ensure that the obligations of the contracts that
+they clear are fulfilled
+A. AMBAC
+B. NASDAQ
+C. NSCC
+D. OCC
+140
+Practice Exam 4
+124. Which of the following is a person who, for compensation, makes recommenda
+tions regarding securities, manages client accounts, and determines which advice
+regarding securities should be given?
+A. ADV
+B. CRD
+C. IAR
+D. IARD
+For questions 125 - 128, match the type of stock with the description that follows. Use
+only one answer per blank Answers may be used more than once or not at all.
+A. Cyclical stocks
+B. Defensive stocks
+125. / Pharmaceutical companies
+126.�Automobiles
+127. / Airlines
+128. / Railroads
+129. Which of the following are activity ratios?
+(1) Inventory turnover ratio
+(2) Average collection period
+(3) Fixed asset turnover ratio
+( 4) Debt-to-equity ratio
+A. (1) and (4) only
+B. (1), (2), and (3) only
+C. (2), (3), and (4) only
+D. All of the above are correct
+130. Which of the following is/are correct regarding profit sharing plans?
+(1) Profit sharing plans are a type of defined contribution pension plan.
+(2) The minimum funding standard requires the employer to make an annual con-
+tribution.
+A. (1) only
+B. (2) only
+C. Both (1) and (2) are correct
+D. Neither (1) or (2) are correct.
+141
+ANSWER KEY
+1. D
+A fiduciary includes a retirement plan administrator, including any third-party adminis
+trator that is used by the employer; a retirement plan sponsor/employer, including its
+officers and/or directors; an investment adviser that renders advice to a retirement plan
+for a fee or other compensation; and a retirement plan trustee.
+2. C
+Money market funds typically invest in high-quality, short-term investments, such as
+Treasury bills, commercial paper, and negotiable CDs. The underlying investments have
+an average maturity of 30 to 90 days.
+3.A
+Real return = Nominal return - Inflation
+4. D
+The IARD was developed according to the requirements of its sponsors, the SEC and
+NASAA. Its database helps promote uniformity through the use of common forms, and
+efficiency through a paperless environment. It is to investment advisers what the CRD is
+to broker-dealers.
+5.B
+Churning describes the illegal practice of excessive buying and selling of securities in a
+customer's account without considering the customer's investment goals. Its primary goal
+is to generate commissions that benefit the broker.
+6.C
+Liquidity is the ability to sell or redeem an investment quickly and at a known price with
+out incurring a significant loss of principal. Marketability is the speed and ease with which
+an investment may be bought or sold.
+7.C
+The goals of the Federal Reserve and the U.S. Treasury are full employment, stable
+prices, and economic growth.
+8.C
+The cash balance plan, defined benefit plan, and target benefit plan all favor older em
+ployees. The money purchase plan favors younger employees.
+9.B
+The CBOE (Chicago Board Options Exchange) is the largest options exchange in the U.S.
+and focuses on options contracts for individual equities and indexes.
+10.B
+The Insider Trading and Securities Fraud Enforcement Act of 1988 is designed to provide
+greater deterrence and punishment for people trading on material non-public infor
+mation, and to improve detection of other perceived market abuses.
+143
+Practice Exam 4
+11.B
+The Dow Jones Industrial Average is an index comprised of 30 industrial companies.
+12. D
+International mutual funds invest in the equity securities of companies located outside
+the U.S. Global mutual funds invest in both international and domestic companies.
+13.C
+In a defined contribution plan, employer contributions are defined, and benefits cannot
+be provided for past service. The employee assumes the risk of investment performance
+and pre-retirement inflation.
+14. C
+The three categories of firm communications that are defined and regulated by FINRA
+Rule 2210 are correspondence, institutional communication, and retail communication.
+15. A
+Goals, lifestyle, and needs are considered qualitative data. Account balances are quanti
+tative data.
+16.D
+A revenue bond is issued by a governmental body to finance a specific project. It is not
+backed by the full faith and credit of the issuing body. Instead, debts are repaid from rev
+enue generated from the project that was financed.
+17. D
+Soft-dollar compensation is defined as the benefit provided to an asset manager by a bro
+ker-dealer as a result of commissions generated from financial transactions executed by
+the broker-dealer.
+18. C
+A registered bond is registered with the corporation or organization that issued the bond,
+and coupon payments are made to the owner of record. A bearer bond can be transferred
+like cash, and coupon payments are made to the person who holds the bond.
+19.B
+Gifts made during a donor's lifetime receive a carryover of basis, and gifts made at death
+receive a step-up of basis.
+20. A
+ERISA imposes the reporting and disclosure requirements for defined benefit plans.
+21.A
+Interest paid from municipal bonds is not taxed by the federal government. The bond in
+terest may also be tax-exempt by various states if certain requirements are met.
+22. A
+Phishing is a fraudulent activity that involves obtaining financial or other confidential in
+formation from internet users, usually by sending an email that looks as though it has
+been sent by a legitimate organization. The email usually contains a link to a fake website
+that looks authentic.
+144
+Practice Exam 4
+23.C
+A promissory note is an unconditional promise to pay a sum of money to a payee, either
+at a fixed or determinable future time, under specific terms. An IOU differs from a prom
+issory note in that an IOU does not specify repayment terms such as the time of repay
+ment. A bank draft is a type of check in which the payment is guaranteed to be available
+by the issuing bank.
+24. D
+According to the "brochure rule," if there have been material changes in the brochure
+since the adviser's last annual updating amendment, the adviser must deliver either a
+current brochure or a summary of the material changes to each client within 120 days of
+the end of the adviser's fiscal year.
+25. A
+A currency transaction report (CTR) is a report that U.S. financial institutions are re
+quired to file with FinCEN (Financial Crimes Enforcement Network).
+26. D
+Beta is used to measure the amount of systematic risk in an investor's portfolio. A port
+folio's beta can be positive, negative, or equal to zero.
+27. A
+Regulation A contains rules providing exemptions from the registration requirements
+under the Securities Act of 1933.
+28.A
+M2 = M1 + Savings accounts+ Short-term time deposits
+29.D
+An investment adviser that has custody of client assets must file an audited balance
+sheet with the SEC within 120 days of the investment adviser's fiscal year end.
+30. B
+The Securities Act Amendments of 1975 created the Municipal Securities Rulemaking
+Board (MSRB).
+31.B
+Bond immunization is an investment strategy used to minimize the interest rate risk of
+bond investments by adjusting the portfolio duration to match the investment time hori
+zon.
+32.A
+The Federal Reserve Board sets monetary policy, but does not set tax policy.
+33. D
+When a bond is selling at a premium to par, the yield to maturity (YTM) will always be
+less than the bond's coupon rate. If a bond is selling at a discount to par, the YTM will
+always be greater than the bond's coupon rate.
+145
+Practice Exam 4
+34. B
+When an individual dies without a will and without family, the decedent's property will
+escheat (pass) to the state where he or she resided at the date of death.
+35.D
+A surety bond guarantees that the principal will act in accordance with certain laws, and
+if the principal fails to perform in this manner, the bond will cover resulting damages or
+losses.
+36.B
+The trust described is a charitable remainder unitrust (CRUT) because the value of the
+trust is revalued annually.
+37. B
+The employee assumes the investment risk in a defined contribution plan. Money pur
+chase plans and target benefit plans are types of defined contribution plans.
+38.A
+Stock dividends are distributions by a corporation that are paid as additional shares of
+stock rather than cash.
+39.D
+A qualified dividend is a type of dividend to which capital gains tax rates are applied.
+40. E
+A disguised dividend, such as a below-market shareholder loan, is considered to be a con
+structive dividend.
+41. F
+A payment to shareholders that exceeds the company's retained earnings is a liquidating
+dividend. The payment is made from capital rather than earnings.
+42. A
+Monthly interest rate = 4.7% / 12 months= 0.392%
+Quarterly interest rate= 4.7% + 4 quarters = 1.175%
+43. B
+Debenture bonds are unsecured bonds, and debenture bondholders have the same rights
+as general creditors. To account for the higher default risk, debenture bonds will have
+higher yields to maturities than secured bonds issued for the same term by the same is
+suer.
+44. C
+Earnings after taxes / Total assets = Return on assets
+45. C
+A portfolio with a beta of 1.0 will move in the same direction as the overall stock market.
+Therefore, the portfolio has only market risk, also known as systematic risk.
+146
+Practice Exam 4
+46.C
+An investor who owns 5% cumulative preferred stock will receive a semiannual dividend
+of $2.50 per share.
+47. B
+A skip person for GSTT purposes is a related individual two or more generations below
+that of the transferor.
+48.D
+An employer cannot maintain any other qualified plan, 403(b) plan, or SEP at the same
+time that it has a SIMPLE plan in operation.
+49. A
+Advertisements by an RIA may not use or refer to testimonials, which refers to any state
+ment of a client's experience or endorsement. Securities laws and rules do not prohibit
+performance advertising.
+50. B
+Class B mutual fund shares charge a back-end load.
+51. C
+Selling a stock short without already owning the stock would put an investor at the great
+est risk. If the stock increases in value, the investor would have to repurchase the stock
+on the open market However, if the investor already owned the stock, she would benefit
+from the shares appreciating in value.
+52. C
+If an investor expects a large decrease in the stock market 60 days from today, she can
+take advantage of the change by buying S&P 500 index puts and selling S&P 500 index
+calls.
+53. B
+Current yield = Sum of coupon payments + Market price
+Current yield= ($100 x 0.035) / $97 = 0.0361 = 3.61 %
+54. B
+Beta Corporation must submit Form BDW to withdraw their state registration.
+55.A
+The withdrawal will become effective 30 days following the SE C's receipt of the form, un
+less the division notifies Beta Corporation otherwise.
+56. C
+For a profit sharing plan, contributions may be skewed to favor older participants through
+methods such as age-weighting and cross-testing. Therefore, contributions do not need
+to be allocated on a pro-rata basis. The allocation formula cannot be discriminatory. Alt
+hough profit sharing contributions must be substantial and recurring, the allocation for
+mula must still be definite and predetermined.
+147
+Practice Exam 4
+57. A
+As a base country's currency strengthens relative to other countries, the base country's
+exports will become less attractive to foreign consumers because the base country's
+goods are considered to be expensive.
+58.D
+In a joint tenancy between non-spouses, 100% of the property will be included in the
+gross estate of the decedent unless the survivor shows consideration furnished.
+59. B
+72 / 8 = 9 years
+By dividing 72 by the annual rate of return, an investor can determine how many years it
+will take for the initial investment to double.
+60.D
+200 shares+ (200 shares x 0.04) = 208 shares
+61.C
+Mutual funds, bonds funds, and life insurance that is incidental to an annuity contract
+are permitted investments in a 403(b) plan.
+62.C
+The initial margin percentage is currently 50% as established by Regulation T of the Fed
+eral Reserve Board.
+63.C
+Counter-cyclical stocks perform better during economic downturns because they are neg
+atively correlated to the overall state of the economy. They outperform during the con
+traction phase of the business cycle. Examples of counter-cyclical stocks include debt col
+lectors, discount retailers, and alcoholic beverage manufacturers.
+64.D
+The substantially equal periodic payment (SEPP) exception to the 10% premature dis
+tribution penalty has no minimum age requirement.
+65. C
+The Theta option is out-of-the-money, therefore its value is $0. The value of the Delta op
+tion is $28 - $25 / $3.
+66.C
+The duration of a bond is least effected by its quality. There is an inverse relationship
+between interest rates, coupon payments, and duration. As interest rates and coupon pay
+ments decrease, duration increases. There is a direct relationship between time to ma
+turity and duration. The longer the time to maturity, the longer the duration.
+67.A
+In a revocable living trust, income is passed through to the individual who will pay it per
+sonally. The trust itself is tax-neutral.
+148
+Practice Exam 4
+68.A
+The price return of a price-weighted index is the percentage change in price of the index.
+Step 1: $38 + $29 + $50 + $80 = $197
+Step 2: $46 + $33 + $53+ $86 = $218
+Step 3: ($218 - $197) + $197 = 0.1066 = 10.66%
+69.C
+If money distributed from a 529 plan is not used to pay for qualifying education ex
+penses, the gain is taxed as ordinary income and a 10% penalty is applied.
+70.D
+A convertible bond is a type of corporate bond that may be converted into common stock
+of the issuing corporation at the bondholder's discretion. It allows an investor to share in
+the growth of the corporation only if the bond is converted into common stock.
+71.D
+Pre-tax return= 0.095 / (1 - 0.15) = 0.1118 = 11.18%
+72. D
+The trendline indicates the direction and speed that a security's price moves over a pe
+riod of time.
+73. B
+AC Corp would not provide flow-through taxation as the doctor requested. A sole propri
+etorship would not limit her liability. A limited partnership may be appropriate, but there
+is no mention of a general partner. The best answer is the S Corp.
+74. D
+Support is the level at which demand is strong enough to prevent security prices from
+declining further. Resistance is the level at which selling activity is strong enough to pre
+vent security prices from rising further.
+75.C
+If an investment is held for more than one year, the holding period return overstates the
+true investment return on an annual basis. If an investment is held for less than one year,
+the holding period return understates the true investment return.
+76. A
+An omitting prospectus is an advertisement used by a registered investment company
+that advises readers to obtain a full prospectus. It is not permitted to include an applica
+tion to invest, and it must contain specific caveats pursuant to SEC Rule 482.
+77. B
+Long-term capital gains tax rates apply if an asset is held for longer than 12 months (at
+least 12 months and a day).
+78. D
+A hedge is an investment strategy entered into to reduce or offset the risk of adverse price
+movements in a security by taking an offsetting position in another investment.
+149
+Practice Exam 4
+79. C
+Contractionary policy is characterized by increasing taxes, decreasing government bor
+rowing, and decreasing public spending.
+80.B
+An individual who meets the following criteria must register as an investment adviser:
+(1) The individual provides advice or analyses concerning securities.
+(2) The individual is in the business of providing investment advice.
+(3) The individual provides investment advice for compensation.
+81. C
+An investor can sign a letter of intent (LOI) which allows him or her to receive breakpoint
+discounts based upon a commitment to buy a specified number of mutual fund shares
+over a period of time, usually 13 months.
+82. D
+A single life annuity will provide the maximum payout to Bill. A single life annuity is also
+referred to as a "pure life" annuity.
+83.C
+A. C Corp is subject to double taxation, has a perpetual life, and could potentially be clas
+sified as a personal service corporation (PSC).
+84.D
+Treasury STRIPS do not pay interest prior to maturity.
+85.B
+A money purchase plan requires a fixed percentage of compensation to be contributed
+for each eligible employee.
+86.D
+A target benefit plan is similar to a defined benefit plan because contributions are based
+on projected retirement benefits.
+87. A
+A profit sharing plan is a type of defined contribution plan that is not a pension plan.
+88.C
+A cash balance plan is a defined benefit plan that defines an employee's benefit in terms
+that are more characteristic with a defined contribution plan.
+89.D
+The turnover rate measures the level of trading activity within a mutual fund.
+90.C
+Quarterly interest rate= 0.9% x 3 months= 2.7%
+Annual interest rate= 0.9% x 12 months = 10.8%
+150
+Practice Exam 4
+91.B
+A hedge fund is a privately offered fund of securities for high-net worth investors. The
+hedge fund manager is generally paid a performance fee.
+92. A
+When a corporation files a registration with the SEC in an effort to sell shares to the public,
+the period of time between the filing of the registration statement and its effective date is
+referred to as the cooling-off period.
+93. C
+Cash paid to suppliers = Cost of goods sold+ Increase in inventory - Increase in accounts
+payable
+Cash paid to suppliers= $17.6 million+ $1.1 million - $440,000 = $18.26 million
+94. C
+Diluted earnings per share is the measure of a company's earnings per share if all con
+vertible securities were exercised and converted to common stock.
+95.B
+If the Federal Reserve sells government securities, it receives money in return, which re
+duces the money supply. This is considered contractionary policy.
+96. B
+The Consolidated Quotation System (CQS) is the electronic service that provides quota
+tion information for stocks traded on the AMEX, NYSE, and other regional stock ex
+changes, and also includes issues traded by FINRA member firms in the third market.
+97.C
+For a defined contribution plan, annual contributions to an employee's account are lim
+ited to the lesser of 25% of compensation or $69,000 in 2024.
+98.D
+Pipeline theory is another name for conduit theory, which states that an investment com
+pany that passes all of its capital gains, interest, and dividends through to shareholders
+shouldn't be taxed at the corporate level.
+99.C
+When an economy is experiencing inflation, an overall increase in consumer prices leads
+to a decrease of purchasing power.
+100. A
+The gift tax annual exclusion is permitted for present interest gifts only.
+101. C
+The Investment Company Act of 1940 regulates the organization of companies, including
+mutual funds, that engage primarily in investing, reinvesting, and trading in securities.
+The act is designed to minimize conflicts of interest that arise in these complex opera
+tions.
+151
+Practice Exam 4
+102.A
+The Automated Client Account Transfer Service (ACATS) is a system that automates and
+standardizes procedures for the transfer of assets in a customer account from one bro
+kerage firm and/or bank to another.
+103. B
+The Trust Indenture Act of 1939 prohibits bond issues over $5 million from being offered
+for sale without a formal agreement signed by both the bond issuer and the bondholder
+that fully discloses the details of the issue.
+104. D
+In a defined contribution plan, the employee bears the investment risk. In a defined ben
+efit plan, the employer bears the investment risk.
+105.C
+To be considered an accredited investor, net worth must exceed $1,000,000, either
+alone or together with a spouse, excluding the value of the person's primary residence.
+106.A
+Qualified education costs and a first-time home purchase are among the exemptions from
+the 10% early withdrawal penalty from an IRA. Hardship withdrawals, and withdrawals
+made after separating from employment service at age 55 or older are permitted in
+401(k) plans but not IRAs. Loans from IRAs are not allowed.
+107.B
+Mortgage REITs invest in loans secured by real estate.
+108.C
+A. REM IC is a self-liquidating, flow-through entity that invests in real estate mortgages or
+mortgage-backed securities.
+109.A
+Equity REITs acquire ownership interests in commercial, industrial, and residential
+properties. Income is received from the rental of these properties.
+110.B
+An inverted yield curve results from short-term debt instruments having a higher yield
+than long-term debt instruments of the same credit quality.
+111.B
+The Federal Trade Commission implemented the Red Flags Rule that requires broker
+dealers and other financial institutions to create a written identity theft prevention pro
+gram designed to detect the warning signs of identity theft in their day-to-day operations.
+112.A
+Inflation is measured by the CPI (Consumer Price Index).
+152
+Practice Exam 4
+113. B
+The Customer Identification Program (CIP) is a requirement in which financial institu
+tions need to verify the identity of individuals wishing to conduct financial transactions
+with them.
+114. D
+The Uniform Securities Act was created by the National Conference of Commissioners on
+Uniform State Laws, and is a model statute designed to guide each state in drafting its
+state securities laws.
+115. A
+Mean = [(-3%) / (4%) + (5%)+ (-3%) + (2%) + (6%) + (-1%)] / 7 = 1.43%
+116.C
+Median = -3%, -3%, -1%, +2%, +4%, +5%, +6% = 2%
+117.A
+-3% is the only number that appears twice, therefore it is the mode.
+118.A
+Book value= Total assets - (Intangible assets+ Liabilities)
+119.B
+The difference between a bond's price and the conversion parity price is referred to as
+the conversion premium.
+120. D
+Regulation S-ID requires member firms that offer or maintain covered accounts to de
+velop and implement written identity theft prevention programs.
+121.C
+ECNs are members of FINRA, and, typically, only broker-dealers and certain institutional
+traders are permitted to become ECN subscribers. An execution occurs when the price of
+a buy order and the price of a sell order intersect on the ECN.
+122. D
+The two main types of mutual fund prospectuses are the statutory prospectus and the
+summary prospectus.
+123.D
+The OCC (Options Clearing Corporation) is the world's largest equity derivatives clearing
+organization. By acting as guarantor, they ensure that the obligations of the contracts that
+they clear are fulfilled.
+124. C
+An IAR (investment adviser representative) is a person who, for compensation, makes
+recommendations regarding securities, manages client accounts, and determines which
+advice regarding securities should be given.
+153
+Practice Exam 4
+125. B
+Pharmaceutical companies are defensive stocks.
+126. A
+Automobiles are cyclical stocks.
+127. A
+Airlines are cyclical stocks.
+128.A
+Railroads are cyclical stocks.
+129.B
+The activity ratios are the inventory turnover ratio, average collection period, and fixed
+asset turnover ratio.
+130.D
+A profit sharing plan is a type of defined contribution plan other than a pension plan.
+Contributions must be substantial and recurring, but are not required annually.
+154
