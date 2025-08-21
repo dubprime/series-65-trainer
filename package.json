@@ -10,7 +10,7 @@
 		"lint:fix": "next lint --fix",
 		"type-check": "tsc --noEmit",
 		"build:analyze": "ANALYZE=true next build",
-		"setup:production": "node scripts/setup-production.js",
+		"setup:production": "node scripts/setup-production-v2.js",
 		"setup:production:db": "echo 'Run the SQL in scripts/setup-production-direct.sql in your Supabase dashboard'",
 		"import:production": "node scripts/import-questions-production.js",
 		"parse:exams": "node scripts/parse_exams.mjs",

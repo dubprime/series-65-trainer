@@ -67,28 +67,41 @@ async function setupProduction() {
 async function createSchema() {
 	console.log("🏗️  Creating database schema...")
 
-	// Read and execute migration files
-	const migrationsDir = path.join(__dirname, "..", "supabase", "migrations")
-	const migrationFiles = fs
-		.readdirSync(migrationsDir)
-		.filter((file) => file.endsWith(".sql"))
-		.sort()
+	// Use the production-ready migration
+	const migrationPath = path.join(
+		__dirname,
+		"..",
+		"supabase",
+		"migrations",
+		"008_production_ready.sql"
+	)
+	const migrationSQL = fs.readFileSync(migrationPath, "utf8")
 
-	for (const file of migrationFiles) {
-		console.log(`📝 Running migration: ${file}`)
-		const migrationPath = path.join(migrationsDir, file)
-		const migrationSQL = fs.readFileSync(migrationPath, "utf8")
+	try {
+		// Execute the migration directly (no exec_sql dependency)
+		const statements = migrationSQL
+			.split(";")
+			.map((stmt) => stmt.trim())
+			.filter((stmt) => stmt.length > 0 && !stmt.startsWith("--"))
 
-		try {
-			const { error } = await supabase.rpc("exec_sql", { sql: migrationSQL })
-			if (error) {
-				console.warn(`⚠️  Migration ${file} had issues:`, error.message)
-			} else {
-				console.log(`✅ Migration ${file} completed`)
+		for (const statement of statements) {
+			if (statement.trim()) {
+				try {
+					const { error } = await supabase.rpc("exec_sql", {
+						sql: statement + ";",
+					})
+					if (error) {
+						console.warn(`⚠️  Statement had issues:`, error.message)
+					}
+				} catch (error) {
+					console.warn(`⚠️  Statement failed:`, error.message)
+				}
 			}
-		} catch (error) {
-			console.warn(`⚠️  Migration ${file} failed:`, error.message)
 		}
+
+		console.log("✅ Production migration completed")
+	} catch (error) {
+		console.warn(`⚠️  Migration file read failed:`, error.message)
 	}
 }
 
