@@ -9,7 +9,5 @@
 		"app/api/**/*.ts": {
 			"maxDuration": 30
 		}
-	},
-	// Environment variables are set directly in Vercel dashboard
-	// No need for complex mapping here
+	}
 }
