@@ -1,6 +1,7 @@
 "use client"
 
 import ProtectedRoute from "@/components/ProtectedRoute"
+import Link from "next/link"
 import StudySessionManager from "@/components/StudySessionManager"
 import StudySessionPlanner from "@/components/StudySessionPlanner"
 import StudyStreaks from "@/components/StudyStreaks"
@@ -66,7 +67,7 @@ function StudyManagerContent() {
 						].map((tab) => (
 							<button
 								key={tab.id}
-								onClick={() => setActiveTab(tab.id as any)}
+								onClick={() => setActiveTab(tab.id as "goals" | "planner" | "sessions" | "achievements" | "recommendations")}
 								className={`flex-1 py-3 px-4 rounded-lg font-medium transition-all ${
 									activeTab === tab.id
 										? "bg-[#0094C6] text-white shadow-sm"

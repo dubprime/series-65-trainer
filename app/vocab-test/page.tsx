@@ -391,7 +391,7 @@ function VocabTestContent() {
 				{/* Question */}
 				<div className="bg-white rounded-lg shadow-sm border border-[#E8F4F8] p-6 mb-6">
 					<h2 className="text-2xl font-bold text-[#000022] mb-4">
-						What is the definition of "{currentQuestion.term}"?
+						What is the definition of &quot;{currentQuestion.term}&quot;?
 					</h2>
 
 					{/* Choices */}

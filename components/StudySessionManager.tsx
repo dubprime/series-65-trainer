@@ -337,7 +337,7 @@ export default function StudySessionManager() {
 							📊 Progress Tracking
 						</h4>
 						<p className="text-sm text-[#005E7C]">
-							You're on track to complete your goals. Keep up the good work!
+							You&apos;re on track to complete your goals. Keep up the good work!
 						</p>
 					</div>
 				</div>

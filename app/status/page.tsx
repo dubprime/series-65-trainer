@@ -2,11 +2,12 @@
 
 import { useState, useEffect } from "react"
 import { createClient } from "@/lib/supabase/client"
+import Link from "next/link"
 
 export default function StatusPage() {
 	const [connectionStatus, setConnectionStatus] = useState<string>("Testing...")
 	const [connectionError, setConnectionError] = useState<string>("")
-	const [supabaseInfo, setSupabaseInfo] = useState<any>({})
+	const [supabaseInfo, setSupabaseInfo] = useState<Record<string, string>>({})
 
 	useEffect(() => {
 		testConnection()
@@ -31,8 +32,8 @@ export default function StatusPage() {
 
 			// Get Supabase info
 			setSupabaseInfo({
-				url: process.env.NEXT_PUBLIC_SUPABASE_URL,
-				anonKey: process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY?.substring(0, 20) + "...",
+				url: process.env.NEXT_PUBLIC_SUPABASE_URL || "Not configured",
+				anonKey: (process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY?.substring(0, 20) || "Not configured") + "...",
 			})
 		} catch (error) {
 			setConnectionStatus("Error")

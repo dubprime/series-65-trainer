@@ -103,15 +103,15 @@ export default function UserSettings() {
 		}
 	}
 
-	function updateSettings(path: string, value: any) {
+	function updateSettings(path: string, value: boolean | string | number) {
 		setSettings((prev) => {
 			const newSettings = { ...prev }
 			const keys = path.split(".")
-			let current: any = newSettings
+			let current: Record<string, unknown> = newSettings
 
-			for (let i = 0; i < keys.length - 1; i++) {
-				current = current[keys[i]]
-			}
+					for (let i = 0; i < keys.length - 1; i++) {
+			current = current[keys[i]] as Record<string, unknown>
+		}
 
 			current[keys[keys.length - 1]] = value
 			return newSettings
