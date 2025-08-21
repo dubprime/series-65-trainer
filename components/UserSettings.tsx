@@ -109,9 +109,9 @@ export default function UserSettings() {
 			const keys = path.split(".")
 			let current: Record<string, unknown> = newSettings
 
-					for (let i = 0; i < keys.length - 1; i++) {
-			current = current[keys[i]] as Record<string, unknown>
-		}
+			for (let i = 0; i < keys.length - 1; i++) {
+				current = current[keys[i]] as Record<string, unknown>
+			}
 
 			current[keys[keys.length - 1]] = value
 			return newSettings

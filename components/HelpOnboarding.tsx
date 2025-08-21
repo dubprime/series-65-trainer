@@ -228,7 +228,8 @@ export default function HelpOnboarding() {
 				</h3>
 				<div className="text-center">
 					<p className="text-[#005E7C] mb-4">
-						Can&apos;t find what you&apos;re looking for? We&apos;re here to help!
+						Can&apos;t find what you&apos;re looking for? We&apos;re here to
+						help!
 					</p>
 					<div className="space-x-4">
 						<button className="bg-[#0094C6] text-white px-6 py-2 rounded-lg hover:bg-[#001242] transition-colors">
