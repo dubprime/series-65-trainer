@@ -15,12 +15,12 @@ export default function StudyManagerPage() {
 					{/* Navigation Header */}
 					<div className="mb-6">
 						<nav className="flex items-center space-x-4 text-sm">
-							<a
+							<Link
 								href="/"
 								className="text-[#0094C6] hover:text-[#001242] transition-colors"
 							>
 								← Back to Dashboard
-							</a>
+							</Link>
 							<span className="text-[#005E7C]">/</span>
 							<span className="text-[#000022] font-medium">Study Manager</span>
 						</nav>

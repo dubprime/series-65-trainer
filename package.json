@@ -10,6 +10,7 @@
 		"lint:fix": "next lint --fix",
 		"type-check": "tsc --noEmit",
 		"build:analyze": "ANALYZE=true next build",
+		"setup:production": "node scripts/setup-production.js",
 		"parse:exams": "node scripts/parse_exams.mjs",
 		"llm:extract": "node scripts/llm-extract.mjs training-material",
 		"validate:parsed": "node scripts/validate-parsed.mjs",

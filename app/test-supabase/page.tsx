@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react"
 import { createClient } from "@/lib/supabase/client"
+import Link from "next/link"
 
 export default function TestSupabase() {
 	const [status, setStatus] = useState<string>("Testing...")
@@ -68,9 +69,9 @@ export default function TestSupabase() {
 			</div>
 
 			<div className="mt-6">
-				<a href="/" className="text-blue-600 hover:underline">
+				<Link href="/" className="text-blue-600 hover:underline">
 					← Back to Home
-				</a>
+				</Link>
 			</div>
 		</div>
 	)

@@ -79,12 +79,12 @@ export default function StatusPage() {
 
 				{/* Navigation */}
 				<div className="text-center">
-					<a
+					<Link
 						href="/"
 						className="text-[#0094C6] hover:text-[#001242] transition-colors"
 					>
 						← Back to Home
-					</a>
+					</Link>
 				</div>
 			</div>
 		</div>
