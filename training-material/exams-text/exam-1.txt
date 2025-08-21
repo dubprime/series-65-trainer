@@ -36,8 +36,7 @@ A. (3) and (4) only
 B. (1), (2), and (3) only
 C. (2), (3), and ( 4) only
 D. All of the above are correct
-3
-Practice Exam 1
+
 6. Which of the following statements describes a typical whole life insurance pollcy?
 (1) The premiums must be paid for the insured's entire lifetime, or for a period of at
 least ten years.
@@ -75,8 +74,7 @@ A. (1) and (3) only
 B. (2) and (4) only
 C. (1), (2), and (3) only
 D. (1), (3), and (4) only
-4
-Practice Exam 1
+
 10. Which of the following is a system of taxation where one tax rate is applied to all
 personal income, with no deductions or offsets allowed?
 A. Flat tax
@@ -112,8 +110,7 @@ A. Defensive stocks because they tend to underperform during economic downturns.
 B. Defensive stocks because they tend to outperform during economic downturns.
 C. Cyclical stocks because they tend to outperform during economic downturns.
 D. Cyclical stocks because they tend to underperform during economic downturns.
-5
-Practice Exam 1
+
 15. Assume that an investor's portfolio has a realized return of 16%. The realized return
 of the S&P 500 for the same time period is 18%, and the risk-free rate is 6%. If the
 beta of the portfolio is 0.75, what is the portfolio's alpha?
@@ -147,8 +144,7 @@ A. (1) only
 B. (1), (2), and (4) only
 C. (2), (3), and ( 4) only
 D. All of the above are correct
-6
-Practice Exam 1
+
 20. Which of the following is the illegal trading practice of manipulating the market by
 buying and selling a security to create the illusion of high trading activity and to at
 tract other traders who may increase the price?
@@ -183,8 +179,7 @@ the first client in that jurisdiction.
 C. Having a "place of business," as defined by applicable regulatory statutes, does not
 require notice filing unless the firm has 5 or more clients in the jurisdiction.
 D. All of the above are correct.
-7
-Practice Exam 1
+
 25. In order to be eligible to make a traditional IRA contribution, an individual must be
 younger than age by the end of the taxable year.
 A. 59½
@@ -218,8 +213,7 @@ A. $0
 B. $400
 C. $700
 D. $2,400
-8
-Practice Exam 1
+
 30. What is the amount of net short-term capital gains?
 A. -$2,700
 8.-$700
@@ -256,8 +250,7 @@ A. American
 B. Asian
 C. Australian
 D. European
-9
-Practice Exam 1
+
 36. Which of the following is the oldest international investor protection organization
 and is an association of state securities administrators who are charged with the re
 sponsibility to protect consumers who purchase securities or investment advice? Its
@@ -295,8 +288,7 @@ A. discounted value.
 B. expected future value.
 C. fair market value.
 D. original cost.
-10
-Practice Exam 1
+
 For questions 41 - 45, match the type of retirement plan with the description that fol
 lows. Use only one answer per blank. Answers may be used more than once or not at all.
 A. Money purchase plan
@@ -330,8 +322,7 @@ A. Charitable remainder annuity trust
 B. Charitable remainder unitrust
 C. Charitable lead annuity trust
 D. Charitable lead unitrust
-11
-Practice Exam 1
+
 48. An investment adviser will be deemed to have custody of client assets if which of the
 following apply?
 A. The advisor has possession of client funds or securities and does not return them
@@ -368,8 +359,7 @@ a single, nationwide computer system.
 C. Its computerized database contains the licensing and disciplinary histories on
 more than 650,000 securities professionals and 5,200 securities firms.
 D. All of the above are correct
-12
-Practice Exam 1
+
 53. The Russell 2000 measures the performance of U.S. stocks.
 A. small-cap
 B. mid-cap
@@ -396,8 +386,7 @@ B. Lagging economic indicator
 60. / Average duration of unemployment
 61. _ Change in money supply
 62. _ Housing starts
-13
-Practice Exam 1
+
 63. Which of the following is correct regarding Coverdell Education Savings Accounts
 (ESAs)?
 A. Private elementary school expenses are permitted to be paid from an ESA.
@@ -433,8 +422,7 @@ A. Arbitrage pricing theory
 B. Black-scholes valuation theory
 C. Efficient market theory
 D. Modern portfolio theory
-14
-Practice Exam 1
+
 68. What is the taxable equivalent yield of a municipal bond that has a tax-free yield of
 6%? Assume the investor is in the 28% tax bracket.
 A. 4.69%
@@ -473,8 +461,7 @@ advanced approval is not required.
 C. The member firm must have a written policy in place regarding borrowing and
 lending arrangements.
 D. All of the above are correct
-15
-Practice Exam 1
+
 73. A stock with a beta of -1.5 and a standard deviation of 10.1 will change in which of
 the following ways if the stock market increases 8%7
 A. Increase by 4%
@@ -510,8 +497,7 @@ sation.
 B. Contributions are made based on an age-weighted formula.
 C. Contributions are 100% immediately vested upon eligibility.
 D. Key employees must wait three years to enroll.
-16
-Practice Exam 1
+
 78. Which of the following rules permits the public resale ofrestricted or control securi
 ties if a number of conditions are met, including how long the securities are held, the
 way in which they are sold, and the amount that can be sold at any one time?
@@ -549,8 +535,7 @@ A. Accumulated voting
 B. Cumulative voting
 C. Non-regulatory voting
 D. Statutory voting
-17
-Practice Exam 1
+
 83. A participant in a defined contribution plan is least affected by which of the follow
 ing factors?
 A. Account balance
@@ -584,8 +569,7 @@ paid.
 87. / The date that it is determined who owns stock in the company and is entitled to
 receive a dividend.
 88. / The date that the market price of the stock adjusts for the dividend.
-18
-Practice Exam 1
+
 89. Which of the following option strategies involves an investor holding a position in
 both a call and put for the same underlying security, with the same strike price and
 expiration date?
@@ -625,8 +609,7 @@ A. (3) and (4) only
 B. (1), (2), and (3) only
 C. (1), (3), and (4) only
 D. All of the above are correct.
-19
-Practice Exam 1
+
 94. Kappa Inc., a C Corp, had a profitable year and has extra money to invest The owners
 would like to maximize the after-tax income to the corporation. Which of the following
 investments would best help them achieve their goal?
@@ -661,8 +644,7 @@ A. ACT
 8.AML
 C. CTR
 D. TRACE
-20
-Practice Exam 1
+
 99. Which of the following is the market value of all the goods and services produced in
 one year by labor and property supplied by the citizens of a country, wherever they
 are located?
@@ -700,8 +682,7 @@ B. All investors have the same expectations about the risk-return relationship o
 sets.
 C. Investors can borrow and lend at a specific risk-free rate of return equal to zero.
 D. There are no transaction costs, taxes, or inflation.
-21
-Practice Exam 1
+
 104. According to FINRA's eligibility requirements, statutory disqualification will result
 for certain misdemeanors and all felony criminal convictions for a period of _
 from the date of conviction.
@@ -737,8 +718,7 @@ A. Blue sheets
 B. Pink sheets
 C. White sheets
 D. Yellow sheets
-22
-Practice Exam 1
+
 109. The efficient market hypothesis suggests all but which of the following?
 A. Investors are unable to outperform the stock market on a consistent basis.
 B. Daily fluctuations in stock prices are a result of modern portfolio theory.
@@ -773,8 +753,7 @@ A. Corporate tax
 B. Progressive tax
 C. Regressive tax
 D. Value added tax
-23
-Practice Exam 1
+
 114. Which of the following has the mission of protecting investors, municipal entities,
 and the public interest by promoting a fair and efficient municipal market, regulating
 firms that engage in municipal securities and advisory activities, and promoting mar
@@ -812,8 +791,7 @@ A. premium to par.
 B. discount to par.
 C. price equal to par.
 D. price above or equal to par.
-24
-Practice Exam 1
+
 119. Lauren purchased a bond with a face value of $1,000 and a coupon rate of 4.5%. Her
 effective tax rate is 25%. If the risk-free rate is 4%, and coupon payments are made
 semiannually, what is the periodic interest payment?
@@ -849,8 +827,7 @@ A. Capital gain theory
 B. Conduit theory
 C. Passive income theory
 D. Ta x harvest theory
-25
-Practice Exam 1
+
 124. Which of the following is an order to purchase a security at or below a specified
 price?
 A. Buy stop order
@@ -887,8 +864,7 @@ A. (1) only
 B. (2) only
 C. Both (1) and (2) are correct.
 D. Neither (1) or (2) are correct.
-26
-Practice Exam 1
+
 129. Which of the following insures the interest and principal payments for municipal
 bonds and other public finance debt obligations?
 A. AMBAC
@@ -939,8 +915,7 @@ A bond's call provision may be included in a bond agreement, and it allows the d
 pay off the debt after a specific period of time at a predetermined price. It protects the
 issuer from declines in interest rates. If a bond is callable it will cause an investor's re
 quired rate of return to be higher.
-29
-Practice Exam 1
+
 12.B
 Defined benefit plans tend to favor older employees because the present value of the
 participant's promised benefit is greater the less time remaining until retirement.
@@ -980,8 +955,7 @@ Earnings after taxes / Common stockholder equity = Return on equity
 The cash balance plan, defined benefit plan, and target benefit plan all favor older em
 ployees. Money purchase plans guarantee a contribution will be made each year and will
 help Dr. Jones achieve her goal of retaining her young employees.
-30
-Practice Exam 1
+
 23. A
 Class A mutual fund shares charge a front-end load.
 24. C
@@ -1020,8 +994,7 @@ with the public, including communications with retail and institutional investor
 34. D
 Price = D1 + (r - g)
 Price= $3 + (0.12 - 0.04) = $37.50 per share
-31
-Practice Exam 1
+
 35.D
 An option that can be exercised only at its expiration date is a European style option.
 36. B
@@ -1062,8 +1035,7 @@ ployee's years of service by a percentage of his or her salary.
 45. A
 A money purchase plan requires that a fixed percentage of compensation be contributed
 for each eligible employee.
-32
-Practice Exam 1
+
 46. B
 A. Ponzi scheme is a fraudulent investment operation where the operator provides fabri
 cated reports and generates returns for older investors through revenue paid by new in
@@ -1103,8 +1075,7 @@ Preferred stock is considered a hybrid security because it has characteristics o
 common stock and fixed-income investments.
 56.A
 A change in consumer sentiment is a leading economic indicator.
-33
-Practice Exam 1
+
 57.B
 The average prime rate charged by banks is a lagging economic indicator.
 58.B
@@ -1140,8 +1111,7 @@ Taxable equivalent yield = 0.06 + (1 - 0.28) = 0.0833 = 8.33%
 Tenancy by entirety is a form of joint tenancy allowed only for married couples. The prop
 erty automatically passes to the surviving spouse when one spouse dies, and in most
 states it is not severable by an individual spouse.
-34
-Practice Exam 1
+
 70. A
 A zero-coupon bond does not make periodic interest payments, however it requires taxes
 to be paid on accrued interest each year. A zero-coupon bond has no reinvestment risk,
@@ -1180,8 +1150,7 @@ they are sold, and the amount that can be sold at any one time.
 The beta coefficient is calculated by dividing the standard deviation of the return for a
 particular security by the standard deviation of the return for the overall market, and then
 multiplying the result by the correlation coefficient of the two returns.
-35
-Practice Exam 1
+
 80.C
 Pete's basis in the annuity is $90,000, which represents his premium payments in the life
 insurance policy.
@@ -1221,8 +1190,7 @@ and put for the same underlying security, with the same strike price and expirat
 As a result of the SEC adopting an amendment to the Settlement Cycle Rule under the
 Securities Exchange Act of 1934, the standard settlement cycle was shortened from 3
 business days after the trade (T+3) to 2 business days after the trade (T+2).
-36
-Practice Exam 1
+
 91.D
 A federal gift tax return must be filed if a gift of a future interest is made, if spouses elect
 to split gifts, or if the gifts from a donor to any single donee for a calendar year exceed the
@@ -1262,8 +1230,7 @@ The permitted distribution options from a qualified retirement plan are lump sum
 bution, direct trustee-to-trustee transfer, payment in the form of an annuity or other pe
 riodic payment option, and rollover of funds from one qualified retirement plan to an
 other.
-37
-Practice Exam 1
+
 102. B
 A call is an option to buy a specified number of shares of stock during a specified period
 at a specified price. A buyer of a call option expects the price of the underlying stock to
@@ -1301,8 +1268,7 @@ of a random walk pattern.
 110.C
 Book value = Total assets - Total liabilities
 Book value= $3,250,000 - $2,980,000 = $270,000
-38
-Practice Exam 1
+
 111.B
 A pooled income fund is generally created by a public charity, such as a private or public
 higher education institution or a not-for-profit hospital. In a pooled income fund, the do
@@ -1341,8 +1307,7 @@ With TIPS (treasury inflation-protected securities), investors are paid either t
 principal amount at maturity, or the original principal amount, whichever is greater. TIPS
 pay interest every six months, and their interest payments increase with inflation and
 decrease with deflation. They have maturities of 5, 10, or 30 years.
-39
-Practice Exam 1
+
 122. B
 An FAC (face-amount certificate) is a contract between an investor and an issuer in which
 the issuer guarantees payment of a stated sum to the investor at some set date in the

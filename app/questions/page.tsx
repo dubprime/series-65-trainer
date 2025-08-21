@@ -3,16 +3,13 @@
 import { useState, useEffect } from "react"
 import { useAuth } from "@/lib/contexts/AuthContext"
 import { createClient } from "@/lib/supabase/client"
-import VocabTeaching from "@/components/VocabTeaching"
-import { vocabTerms } from "@/lib/data/vocab-terms"
-
-type StudyMode = "vocab" | "questions"
+import Link from "next/link"
 
 interface Question {
 	id: string
 	question_text: string
 	question_type: string
-	choices: Array<{ id: string; text: string }>
+	choices: Array<{ text: string; is_correct: boolean }>
 	correct_answer: string
 	explanation: string
 	category: string
@@ -40,7 +37,6 @@ function QuestionsContent() {
 	const [submitting, setSubmitting] = useState<Record<string, boolean>>({})
 	const [sessionStartTime] = useState<Date>(new Date())
 	const [sessionTime, setSessionTime] = useState<number>(0)
-	const [showVocabTeaching, setShowVocabTeaching] = useState(false)
 	const questionsPerPage = 5
 
 	useEffect(() => {
@@ -143,8 +139,11 @@ function QuestionsContent() {
 			const question = questions.find((q) => q.id === questionId)
 			if (!question) return
 
-			const isCorrect =
-				userAnswers[questionId].selected_answer === question.correct_answer
+			const choiceIndex = parseInt(userAnswers[questionId].selected_answer)
+			const selectedChoice = question.choices[choiceIndex]
+			if (!selectedChoice) return
+
+			const isCorrect = selectedChoice.is_correct
 
 			// Get existing progress to update attempts
 			const { data: existingProgress } = await supabase
@@ -213,9 +212,15 @@ function QuestionsContent() {
 		const answer = userAnswers[questionId]
 		if (!answer) return ""
 
+		const question = questions.find((q) => q.id === questionId)
+		if (!question) return ""
+
+		const choiceIndex = parseInt(choiceId)
+		const choice = question.choices[choiceIndex]
+		if (!choice) return ""
+
 		const isSelected = answer.selected_answer === choiceId
-		const isCorrect =
-			choiceId === questions.find((q) => q.id === questionId)?.correct_answer
+		const isCorrect = choice.is_correct
 
 		// Only show correct/incorrect styling if the answer has been submitted
 		if (!answer.submitted) {
@@ -272,18 +277,32 @@ function QuestionsContent() {
 	return (
 		<div className="min-h-screen bg-[#E8F4F8]">
 			<div className="max-w-4xl mx-auto px-6 py-12">
+				{/* Navigation Header */}
+				<div className="mb-6">
+					<nav className="flex items-center space-x-4 text-sm">
+						<Link
+							href="/"
+							className="text-[#0094C6] hover:text-[#001242] transition-colors"
+						>
+							← Back to Dashboard
+						</Link>
+						<span className="text-[#005E7C]">/</span>
+						<span className="text-[#000022] font-medium">Study Questions</span>
+					</nav>
+				</div>
+
 				{/* Header with Progress */}
 				<div className="mb-8">
 					<div className="flex justify-between items-center mb-4">
 						<h1 className="text-3xl font-bold text-[#000022]">
 							Series 65 Study Questions
 						</h1>
-						<button
-							onClick={() => setShowVocabTeaching(true)}
+						<Link
+							href="/vocab-test"
 							className="bg-[#0094C6] text-white px-4 py-2 rounded-lg hover:bg-[#001242] transition-colors"
 						>
-							📚 Review Vocab
-						</button>
+							📚 Take Vocab Test
+						</Link>
 					</div>
 					<p className="text-[#005E7C] mb-4">
 						Practice with {questions.length} questions covering key topics for
@@ -558,17 +577,12 @@ function QuestionsContent() {
 
 							{/* Action Buttons */}
 							<div className="flex flex-col sm:flex-row gap-3 justify-center">
-								<button
-									onClick={() => {
-										setUserAnswers({})
-										setShowExplanations({})
-										setSessionTime(0)
-										setShowVocabTeaching(true)
-									}}
-									className="bg-[#0094C6] text-white px-6 py-3 rounded-lg hover:bg-[#001242] transition-colors"
+								<Link
+									href="/vocab-test"
+									className="bg-[#0094C6] text-white px-6 py-3 rounded-lg hover:bg-[#001242] transition-colors text-center"
 								>
-									Start New Vocab Session
-								</button>
+									📚 Take Vocab Test
+								</Link>
 								<button
 									onClick={() => {
 										setUserAnswers({})
@@ -629,36 +643,67 @@ function QuestionsContent() {
 
 								{/* Question Choices */}
 								<div className="space-y-3 mb-4">
-									{question.choices.map((choice) => (
+									{question.choices.map((choice, choiceIndex) => (
 										<label
-											key={choice.id}
+											key={choiceIndex}
 											className={`flex items-center p-3 rounded-lg border cursor-pointer transition-all ${getChoiceStyle(
 												question.id,
-												choice.id
+												choiceIndex.toString()
 											)}`}
 										>
 											<input
 												type="radio"
 												name={`question-${question.id}`}
-												value={choice.id}
+												value={choiceIndex.toString()}
 												checked={
 													userAnswers[question.id]?.selected_answer ===
-													choice.id
+													choiceIndex.toString()
 												}
 												disabled={isSubmitting}
-												onChange={(e) => {
+												onChange={async (e) => {
+													const choiceIndex = parseInt(e.target.value)
+													const selectedChoice = question.choices[choiceIndex]
+
+													const newAnswer: UserAnswer = {
+														question_id: question.id,
+														selected_answer: e.target.value,
+														is_correct: selectedChoice.is_correct,
+														answered_at: new Date(),
+														submitted: false,
+													}
+
+													// Update local state immediately
 													const newAnswers = {
 														...userAnswers,
-														[question.id]: {
-															question_id: question.id,
-															selected_answer: e.target.value,
-															is_correct:
-																e.target.value === question.correct_answer,
-															answered_at: new Date(),
-															submitted: false,
-														} as UserAnswer,
+														[question.id]: newAnswer,
 													}
 													setUserAnswers(newAnswers)
+
+													// Save to database immediately (but not as submitted)
+													try {
+														const supabase = createClient()
+														const {
+															data: { user },
+														} = await supabase.auth.getUser()
+														if (user) {
+															await supabase.from("user_progress").upsert({
+																user_id: user.id,
+																question_id: question.id,
+																selected_answer: newAnswer.selected_answer,
+																is_correct: newAnswer.is_correct,
+																last_attempted_at:
+																	newAnswer.answered_at.toISOString(),
+																submitted: false,
+																attempts: 0, // Will be updated when submitted
+																correct_attempts: 0, // Will be updated when submitted
+															})
+														}
+													} catch (error) {
+														console.error(
+															"Error saving answer selection:",
+															error
+														)
+													}
 												}}
 												className="mr-3"
 											/>
@@ -803,16 +848,6 @@ function QuestionsContent() {
 						</button>
 					</div>
 				)}
-
-				{/* Navigation */}
-				<div className="mt-8 text-center">
-					<button
-						onClick={() => setShowVocabTeaching(true)}
-						className="text-[#0094C6] hover:text-[#001242] underline transition-colors"
-					>
-						← Back to Vocab Review
-					</button>
-				</div>
 			</div>
 		</div>
 	)
@@ -820,8 +855,6 @@ function QuestionsContent() {
 
 export default function QuestionsPage() {
 	const { user } = useAuth()
-	const [studyMode, setStudyMode] = useState<StudyMode>("vocab")
-	const [showVocabTeaching, setShowVocabTeaching] = useState(true)
 
 	if (!user) {
 		return (
@@ -830,19 +863,6 @@ export default function QuestionsPage() {
 					<p className="text-[#005E7C]">Please sign in to access questions.</p>
 				</div>
 			</div>
-		)
-	}
-
-	// Show vocab teaching first, then questions
-	if (showVocabTeaching) {
-		return (
-			<VocabTeaching
-				terms={vocabTerms}
-				onComplete={() => {
-					setShowVocabTeaching(false)
-					setStudyMode("questions")
-				}}
-			/>
 		)
 	}
 

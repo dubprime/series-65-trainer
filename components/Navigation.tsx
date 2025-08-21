@@ -21,44 +21,56 @@ export default function Navigation() {
 						{user ? (
 							<>
 								<Link
-									href="/dashboard"
-									className="text-white hover:text-[#E8F4F8] transition-colors"
+									href="/"
+									className="text-[#005E7C] hover:text-[#001242] transition-colors"
 								>
 									Dashboard
 								</Link>
 								<Link
 									href="/questions"
-									className="text-white hover:text-[#E8F4F8] transition-colors"
+									className="text-[#005E7C] hover:text-[#001242] transition-colors"
 								>
 									Questions
 								</Link>
 								<Link
 									href="/analytics"
-									className="text-white hover:text-[#E8F4F8] transition-colors"
+									className="text-[#005E7C] hover:text-[#001242] transition-colors"
 								>
 									Analytics
 								</Link>
 								<Link
 									href="/study-manager"
-									className="text-white hover:text-[#E8F4F8] transition-colors"
+									className="text-[#005E7C] hover:text-[#001242] transition-colors"
 								>
 									Study Manager
 								</Link>
 								<Link
+									href="/vocab-test"
+									className="text-[#005E7C] hover:text-[#001242] transition-colors"
+								>
+									Vocab Test
+								</Link>
+								<Link
 									href="/help"
-									className="text-white hover:text-[#E8F4F8] transition-colors"
+									className="text-[#005E7C] hover:text-[#001242] transition-colors"
 								>
 									Help
 								</Link>
 								<Link
+									href="/status"
+									className="text-[#005E7C] hover:text-[#001242] transition-colors"
+								>
+									Status
+								</Link>
+								<Link
 									href="/settings"
-									className="text-white hover:text-[#E8F4F8] transition-colors"
+									className="text-[#005E7C] hover:text-[#001242] transition-colors"
 								>
 									Settings
 								</Link>
 								<button
 									onClick={signOut}
-									className="text-white hover:text-[#E8F4F8] transition-colors"
+									className="text-[#005E7C] hover:text-[#001242] transition-colors"
 								>
 									Sign Out
 								</button>

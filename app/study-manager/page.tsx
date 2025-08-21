@@ -1,3 +1,5 @@
+"use client"
+
 import ProtectedRoute from "@/components/ProtectedRoute"
 import StudySessionManager from "@/components/StudySessionManager"
 import StudySessionPlanner from "@/components/StudySessionPlanner"
@@ -8,7 +10,24 @@ import { useState } from "react"
 export default function StudyManagerPage() {
 	return (
 		<ProtectedRoute>
-			<StudyManagerContent />
+			<div className="min-h-screen bg-[#E8F4F8]">
+				<div className="max-w-4xl mx-auto px-6 py-8">
+					{/* Navigation Header */}
+					<div className="mb-6">
+						<nav className="flex items-center space-x-4 text-sm">
+							<a
+								href="/"
+								className="text-[#0094C6] hover:text-[#001242] transition-colors"
+							>
+								← Back to Dashboard
+							</a>
+							<span className="text-[#005E7C]">/</span>
+							<span className="text-[#000022] font-medium">Study Manager</span>
+						</nav>
+					</div>
+					<StudyManagerContent />
+				</div>
+			</div>
 		</ProtectedRoute>
 	)
 }

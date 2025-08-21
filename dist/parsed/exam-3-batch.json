@@ -1,0 +1,3649 @@
+[
+  {
+    "module_code": "IVC",
+    "stem": "Monetary policy refers to actions taken by the to control the money supply, often by targeting a specific rate of interest.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Executive branch"
+      },
+      {
+        "id": "B",
+        "text": "FDIC"
+      },
+      {
+        "id": "C",
+        "text": "Federal Reserve"
+      },
+      {
+        "id": "D",
+        "text": "U.S. Treasury"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "The Federal Reserve is the central bank of the United States and is responsible for implementing monetary policy.",
+    "difficulty": 2,
+    "tags": [
+      "monetary policy",
+      "Federal Reserve",
+      "interest rates",
+      "economics"
+    ]
+  },
+  {
+    "module_code": "LRG",
+    "stem": "On a company's balance sheet, liabilities are reported at their:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "beginning of year balance."
+      },
+      {
+        "id": "B",
+        "text": "current outstanding balance."
+      },
+      {
+        "id": "C",
+        "text": "end of year balance."
+      },
+      {
+        "id": "D",
+        "text": "initial loan amount."
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "Liabilities on a balance sheet are reported at their end of year balance to reflect the company's financial position at that specific point in time.",
+    "difficulty": 2,
+    "tags": [
+      "balance sheet",
+      "liabilities",
+      "financial reporting",
+      "accounting"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "All but which of the following are correct regarding Treasury notes?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "They are issued by the U.S. Treasury Department."
+      },
+      {
+        "id": "B",
+        "text": "They have maturities of 10 years or less."
+      },
+      {
+        "id": "C",
+        "text": "They make variable interest payments on a semiannual basis."
+      },
+      {
+        "id": "D",
+        "text": "They are taxed at the federal level only."
+      }
+    ],
+    "correct": "C",
+    "rationale": "Treasury notes make fixed interest payments, not variable interest payments.",
+    "difficulty": 2,
+    "tags": [
+      "Treasury notes",
+      "fixed income",
+      "investment vehicles",
+      "U.S. Treasury"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following determines if a security being considered for inclusion in an investor's portfolio offers an adequate expected return for the level of risk assumed?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Capital market line"
+      },
+      {
+        "id": "B",
+        "text": "Security market line"
+      },
+      {
+        "id": "C",
+        "text": "Support line"
+      },
+      {
+        "id": "D",
+        "text": "Trendline"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "rationale": "The Security Market Line (SML) represents the relationship between expected return and systematic risk (beta) for individual securities, helping to determine if a security offers an adequate expected return for its risk level.",
+    "difficulty": 3,
+    "tags": [
+      "investment analysis",
+      "risk assessment",
+      "portfolio management",
+      "security valuation"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following is the correct method to conducting top-down investment analysis?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "First examine a specific company, then examine a specific industry, then examine a specific economy, then examine the global economy."
+      },
+      {
+        "id": "B",
+        "text": "First examine a specific company, then examine a specific economy, then examine a specific industry, then examine the global economy."
+      },
+      {
+        "id": "C",
+        "text": "First examine the global economy, then examine a specific industry, then examine a specific economy, then examine a specific company."
+      },
+      {
+        "id": "D",
+        "text": "First examine the global economy, then examine a specific economy, then examine a specific industry, then examine a specific company."
+      }
+    ],
+    "correct": "D",
+    "rationale": "The top-down investment analysis approach starts with the global economy, then narrows down to specific economies, industries, and finally individual companies.",
+    "difficulty": 3,
+    "tags": [
+      "investment analysis",
+      "top-down",
+      "economy",
+      "industry",
+      "company"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following investment strategies are profitable in a rising stock market?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "(1) and (3) only"
+      },
+      {
+        "id": "B",
+        "text": "(1) and (4) only"
+      },
+      {
+        "id": "C",
+        "text": "(2) and (3) only"
+      },
+      {
+        "id": "D",
+        "text": "(2) and (4) only"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "rationale": "In a rising stock market, buying a call (1) allows for profit as the stock price increases, and selling a put (3) can also be profitable as the stock price rises, leading to the option expiring worthless.",
+    "difficulty": 3,
+    "tags": [
+      "investment strategies",
+      "options trading",
+      "stock market",
+      "profitability"
+    ]
+  },
+  {
+    "module_code": "CIRS",
+    "stem": "Which of the following acts established a non-profit membership corporation that oversees the liquidation of member broker-dealers that close when the broker-dealer is bankrupt or in financial trouble, and customer assets are missing?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Securities Investor Protection Corporation Act of 1970"
+      },
+      {
+        "id": "B",
+        "text": "Securities Act Amendments of 1975"
+      },
+      {
+        "id": "C",
+        "text": "Uniform Prudent Investors Act of 1994"
+      },
+      {
+        "id": "D",
+        "text": "National Securities Market Improvement Act of 1996"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "rationale": "The Securities Investor Protection Corporation Act of 1970 established a non-profit membership corporation to oversee the liquidation of member broker-dealers in financial trouble.",
+    "difficulty": 3,
+    "tags": [
+      "broker-dealers",
+      "liquidation",
+      "SIPC",
+      "financial regulation"
+    ]
+  },
+  {
+    "module_code": "EFBI",
+    "stem": "Client information must be kept confidential unless which of the following circumstances apply?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The information is needed to establish an advisory or brokerage account."
+      },
+      {
+        "id": "B",
+        "text": "The information is required in response to proper legal process."
+      },
+      {
+        "id": "C",
+        "text": "The information is in connection with a civil dispute between the adviser and the client."
+      },
+      {
+        "id": "D",
+        "text": "All of the above are correct."
+      }
+    ],
+    "correct": [
+      "D"
+    ],
+    "rationale": "Client information can be disclosed under specific circumstances, including establishing accounts, legal processes, or disputes.",
+    "difficulty": 2,
+    "tags": [
+      "confidentiality",
+      "client information",
+      "legal process",
+      "advisory"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "The Dow Jones Industrial Average is a/an average of blue chip U.S. stocks.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "equal-weighted, 30"
+      },
+      {
+        "id": "B",
+        "text": "equal-weighted, 500"
+      },
+      {
+        "id": "C",
+        "text": "price-weighted, 30"
+      },
+      {
+        "id": "D",
+        "text": "price-weighted, 500"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "The Dow Jones Industrial Average is a price-weighted index that includes 30 blue chip stocks.",
+    "difficulty": 2,
+    "tags": [
+      "Dow Jones",
+      "stock market",
+      "index",
+      "blue chip"
+    ]
+  },
+  {
+    "module_code": "EFBI",
+    "stem": "Which of the following are correct regarding credits and deductions?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "(1) and (3) only"
+      },
+      {
+        "id": "B",
+        "text": "(1) and (4) only"
+      },
+      {
+        "id": "C",
+        "text": "(2) and (3) only"
+      },
+      {
+        "id": "D",
+        "text": "(2) and (4) only"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "rationale": "A deduction is more beneficial to a higher-bracket taxpayer because it reduces taxable income, while a credit directly reduces tax liability, making it more beneficial to a lower-bracket taxpayer.",
+    "difficulty": 3,
+    "tags": [
+      "taxation",
+      "credits",
+      "deductions",
+      "tax brackets"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following is a type of revocable trust in which the corpus consists of bank accounts and/or bank assets? At the grantor's death, the trust becomes irrevocable and avoids probate.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Marital trust"
+      },
+      {
+        "id": "B",
+        "text": "Payable on death trust"
+      },
+      {
+        "id": "C",
+        "text": "Totten trust"
+      },
+      {
+        "id": "D",
+        "text": "Transfer on death trust"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "A Totten trust is a type of revocable trust that allows the grantor to retain control over the assets during their lifetime, and upon death, the assets pass directly to the named beneficiary, avoiding probate.",
+    "difficulty": 3,
+    "tags": [
+      "trusts",
+      "estate planning",
+      "probate",
+      "revocable trusts"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following is an electronic filing system that facilitates investment adviser registration, exempt reporting adviser filing, regulatory review, and the public disclosure information of registered investment adviser firms and individuals?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "ADV"
+      },
+      {
+        "id": "B",
+        "text": "CRD"
+      },
+      {
+        "id": "C",
+        "text": "EDGAR"
+      },
+      {
+        "id": "D",
+        "text": "IARD"
+      }
+    ],
+    "correct": [
+      "D"
+    ],
+    "rationale": "IARD (Investment Adviser Registration Depository) is the electronic filing system specifically designed for investment adviser registration and related filings.",
+    "difficulty": 2,
+    "tags": [
+      "investment advisers",
+      "filing systems",
+      "regulatory compliance",
+      "registration"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "American Depository Receipts (ADRs) have which of the following characteristics?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "(1) only"
+      },
+      {
+        "id": "B",
+        "text": "(2) only"
+      },
+      {
+        "id": "C",
+        "text": "Both (1) and (2) are correct"
+      },
+      {
+        "id": "D",
+        "text": "Neither (1) or (2) are correct"
+      }
+    ],
+    "correct": "C",
+    "rationale": "Dividends paid from an ADR are declared in the local currency, but ADRs do not eliminate exchange rate risk.",
+    "difficulty": 3,
+    "tags": [
+      "ADRs",
+      "investment vehicles",
+      "exchange rate risk",
+      "dividends"
+    ]
+  },
+  {
+    "module_code": "LRG",
+    "stem": "A/An legal opinion indicates that a bond counsel has concerns regarding one or more of the statements in the bond issue.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "binding"
+      },
+      {
+        "id": "B",
+        "text": "enforceable"
+      },
+      {
+        "id": "C",
+        "text": "qualified"
+      },
+      {
+        "id": "D",
+        "text": "unqualified"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "A qualified legal opinion indicates that the bond counsel has concerns about the bond issue.",
+    "difficulty": 3,
+    "tags": [
+      "legal opinion",
+      "bond counsel",
+      "qualified opinion",
+      "bond issue"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following is considered an indicator of market volatility based on the premiums that investors are willing to pay for the right to buy or sell a stock?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "AGG"
+      },
+      {
+        "id": "B",
+        "text": "IWD"
+      },
+      {
+        "id": "C",
+        "text": "SPY"
+      },
+      {
+        "id": "D",
+        "text": "VIX"
+      }
+    ],
+    "correct": [
+      "D"
+    ],
+    "rationale": "VIX is known as the 'fear index' and measures market volatility based on options premiums.",
+    "difficulty": 3,
+    "tags": [
+      "market volatility",
+      "options",
+      "investing",
+      "VIX"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following is/are correct regarding capital losses?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "(1) only"
+      },
+      {
+        "id": "B",
+        "text": "(2) only"
+      },
+      {
+        "id": "C",
+        "text": "Both (1) and (2) are correct"
+      },
+      {
+        "id": "D",
+        "text": "Neither (1) or (2) are correct"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "Capital losses can be carried back for two years and carried forward for five years.",
+    "difficulty": 2,
+    "tags": [
+      "capital losses",
+      "taxation",
+      "investment vehicles",
+      "financial regulations"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "All but which of the following are characteristics of a SEP IRA?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "It is entirely owned by the participant."
+      },
+      {
+        "id": "B",
+        "text": "Plan loans are permitted."
+      },
+      {
+        "id": "C",
+        "text": "The contribution deadline to a SEP IRA is April 15, including extensions."
+      },
+      {
+        "id": "D",
+        "text": "The account balance is 100% vested at all times."
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "rationale": "Plan loans are not permitted in a SEP IRA.",
+    "difficulty": 2,
+    "tags": [
+      "SEP IRA",
+      "retirement accounts",
+      "investment vehicles",
+      "financial planning"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "A loss on the sale of securities is not deductible if a taxpayer purchases identical securities within prior to or after the date of sale. What is the time frame for this rule?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "7 days"
+      },
+      {
+        "id": "B",
+        "text": "14 days"
+      },
+      {
+        "id": "C",
+        "text": "30 days"
+      },
+      {
+        "id": "D",
+        "text": "60 days"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "The IRS disallows the deduction of a loss on the sale of securities if the taxpayer purchases identical securities within 30 days before or after the sale.",
+    "difficulty": 3,
+    "tags": [
+      "taxation",
+      "securities",
+      "deductions",
+      "investment"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following are correct regarding incentive stock options (ISOs) and non qualified stock options (NQSOs)? (1) Unlike an ISO, an NQSO does not have to meet any specific holding period rules. (2) Unlike an NQSO, an ISO does not have to meet any specific holding period rules. (3) With an ISO, the employee incurs a taxable event at the time the option is exercised. (4) With an NQSO, the employee incurs a taxable event at the time the option is exercised.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "(1) and (3) only"
+      },
+      {
+        "id": "B",
+        "text": "(1) and (4) only"
+      },
+      {
+        "id": "C",
+        "text": "(2) and (3) only"
+      },
+      {
+        "id": "D",
+        "text": "(1), (3), and (4) only"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "rationale": "An NQSO does not have to meet specific holding period rules, and a taxable event occurs at exercise for both ISOs and NQSOs, making (1) and (3) correct.",
+    "difficulty": 3,
+    "tags": [
+      "stock options",
+      "taxation",
+      "employee benefits",
+      "ISOs",
+      "NQSOs"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following is the formula to calculate an investment's taxable equivalent yield?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Taxable equivalent yield = Tax-free yield + (1 - Marginal tax rate)"
+      },
+      {
+        "id": "B",
+        "text": "Taxable equivalent yield = Tax-free yield + (1 + Marginal tax rate)"
+      },
+      {
+        "id": "C",
+        "text": "Taxable equivalent yield = (1 - Marginal tax rate) / Tax-free yield"
+      },
+      {
+        "id": "D",
+        "text": "Taxable equivalent yield = (1 + Marginal tax rate) / Tax-free yield"
+      }
+    ],
+    "correct": "A",
+    "rationale": "The correct formula for calculating an investment's taxable equivalent yield is Taxable equivalent yield = Tax-free yield / (1 - Marginal tax rate). This formula adjusts the tax-free yield to reflect the impact of taxes on the yield.",
+    "difficulty": 3,
+    "tags": [
+      "taxation",
+      "investment yield",
+      "financial formulas",
+      "tax-equivalent yield"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following is/are correct regarding a bond's interest rate and term to maturity? (1) The lower a bond's interest rate, the lower its relative price fluctuation. (2) The longer a bond's term to maturity, the greater its relative price fluctuation.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "(1) only"
+      },
+      {
+        "id": "B",
+        "text": "(2) only"
+      },
+      {
+        "id": "C",
+        "text": "Both (1) and (2) are correct."
+      },
+      {
+        "id": "D",
+        "text": "Neither (1) or (2) are correct."
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "Both statements are correct; lower interest rates lead to lower price fluctuations, and longer maturities increase price fluctuations.",
+    "difficulty": 3,
+    "tags": [
+      "bonds",
+      "interest rates",
+      "investment vehicles",
+      "price fluctuation"
+    ]
+  },
+  {
+    "module_code": "LRG",
+    "stem": "Investment advisers must amend Form ADV each year by filing an annual updating amendment within how many days of the end of their fiscal year?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "30 days"
+      },
+      {
+        "id": "B",
+        "text": "60 days"
+      },
+      {
+        "id": "C",
+        "text": "90 days"
+      },
+      {
+        "id": "D",
+        "text": "120 days"
+      }
+    ],
+    "correct": "A",
+    "rationale": "Investment advisers are required to file an annual updating amendment to Form ADV within 30 days of the end of their fiscal year.",
+    "difficulty": 2,
+    "tags": [
+      "Form ADV",
+      "Investment Advisers",
+      "Regulatory Compliance",
+      "Annual Filing"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "In a long call, the maximum gain is and the maximum loss is.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "limited, unlimited"
+      },
+      {
+        "id": "B",
+        "text": "the premium paid, unlimited"
+      },
+      {
+        "id": "C",
+        "text": "unlimited, the premium paid"
+      },
+      {
+        "id": "D",
+        "text": "unlimited, unlimited"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "In a long call option, the maximum gain is unlimited because the price of the underlying asset can rise indefinitely, while the maximum loss is limited to the premium paid for the option.",
+    "difficulty": 2,
+    "tags": [
+      "options",
+      "investment",
+      "risk management"
+    ]
+  },
+  {
+    "module_code": "LRG",
+    "stem": "Which of the following is/are correct regarding the objectives of ERISA?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "(1) only"
+      },
+      {
+        "id": "B",
+        "text": "(2) only"
+      },
+      {
+        "id": "C",
+        "text": "Both (1) and (2) are correct"
+      },
+      {
+        "id": "D",
+        "text": "Neither (1) or (2) are correct"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "ERISA establishes criteria for investment selection and minimum funding, eligibility, coverage, and vesting requirements for qualified retirement plans.",
+    "difficulty": 3,
+    "tags": [
+      "ERISA",
+      "retirement plans",
+      "investment selection",
+      "funding requirements"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following is correct regarding a bond's coupon rate?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "It is the stated annual interest rate that will be paid each period for the term of a bond."
+      },
+      {
+        "id": "B",
+        "text": "It is stated as a percentage of the current market price of a bond."
+      },
+      {
+        "id": "C",
+        "text": "A 5% coupon bond will pay $50 each semiannual period for a $1,000 bond."
+      },
+      {
+        "id": "D",
+        "text": "A bond's coupon rate is also its yield to maturity (YTM)."
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "rationale": "The coupon rate is the stated annual interest rate that will be paid on a bond, not based on the current market price or yield to maturity.",
+    "difficulty": 2,
+    "tags": [
+      "bonds",
+      "coupon rate",
+      "fixed income",
+      "investments"
+    ]
+  },
+  {
+    "module_code": "LRG",
+    "stem": "In which of the following trusts is the surviving spouse given a general power of appointment by the decedent spouse to distribute the decedent's property as the surviving spouse determines?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Credit shelter trust"
+      },
+      {
+        "id": "B",
+        "text": "Estate trust"
+      },
+      {
+        "id": "C",
+        "text": "Marital trust"
+      },
+      {
+        "id": "D",
+        "text": "QTIP trust"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "A marital trust allows the surviving spouse to have a general power of appointment, enabling them to distribute the decedent's property as they see fit.",
+    "difficulty": 3,
+    "tags": [
+      "trusts",
+      "estate planning",
+      "surviving spouse",
+      "general power of appointment"
+    ]
+  },
+  {
+    "module_code": "LRG",
+    "stem": "Which of the following acts transferred the responsibility for rulemaking and enforcement of identity theft Red Flags Rules to the SEC and CFTC for the firms they regulate?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Insider Trading and Securities Fraud Enforcement Act of 1988"
+      },
+      {
+        "id": "B",
+        "text": "Patriot Act of 2001"
+      },
+      {
+        "id": "C",
+        "text": "Sarbanes-Oxley Act of 2002"
+      },
+      {
+        "id": "D",
+        "text": "Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010"
+      }
+    ],
+    "correct": [
+      "D"
+    ],
+    "rationale": "The Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 transferred the responsibility for rulemaking and enforcement of identity theft Red Flags Rules to the SEC and CFTC.",
+    "difficulty": 3,
+    "tags": [
+      "identity theft",
+      "regulatory compliance",
+      "Dodd-Frank",
+      "SEC",
+      "CFTC"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Interest earned from Series EE bonds may be excluded from gross income if the proceeds are used to pay for which of the following?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "First-time home purchase."
+      },
+      {
+        "id": "B",
+        "text": "Medical expenses exceeding 7.5% of income."
+      },
+      {
+        "id": "C",
+        "text": "Qualified higher education expenses."
+      },
+      {
+        "id": "D",
+        "text": "Tax bill owed to the IRS."
+      }
+    ],
+    "correct": [
+      "A",
+      "C"
+    ],
+    "rationale": "Interest from Series EE bonds can be excluded from gross income when used for qualified higher education expenses or a first-time home purchase, subject to certain conditions.",
+    "difficulty": 2,
+    "tags": [
+      "Series EE bonds",
+      "tax exclusion",
+      "investment vehicles",
+      "education expenses"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following are insurance industry rating services?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "(1) and (2) only"
+      },
+      {
+        "id": "B",
+        "text": "(1), (2), and (4) only"
+      },
+      {
+        "id": "C",
+        "text": "(2), (3), and (4) only"
+      },
+      {
+        "id": "D",
+        "text": "All of the above are correct"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "rationale": "A.M. Best, Fitch, and Standard & Poor's are recognized insurance industry rating services, while NAIC is not primarily a rating service.",
+    "difficulty": 2,
+    "tags": [
+      "insurance",
+      "rating services",
+      "financial analysis"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "What is Theta LLC's debt-to-capital ratio?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "0.59"
+      },
+      {
+        "id": "B",
+        "text": "0.73"
+      },
+      {
+        "id": "C",
+        "text": "0.75"
+      },
+      {
+        "id": "D",
+        "text": "0.77"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "The debt-to-capital ratio is calculated as total debt divided by total capital. Total capital is the sum of total debt and equity (common stock + retained earnings). In this case, total debt is $615,000 and total capital is $205,000 + $230,000 + $615,000 = $1,050,000. Therefore, the debt-to-capital ratio is $615,000 / $1,050,000 = 0.5857, which rounds to 0.59.",
+    "difficulty": 3,
+    "tags": [
+      "debt-to-capital",
+      "financial ratios",
+      "investment analysis",
+      "corporate finance"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following is a group of underwriters who agree to purchase the shares of an IPO from an issuer and then sell the shares to investors?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Registered investment advisers"
+      },
+      {
+        "id": "B",
+        "text": "Regulated investment company"
+      },
+      {
+        "id": "C",
+        "text": "Solicitors"
+      },
+      {
+        "id": "D",
+        "text": "Syndicate"
+      }
+    ],
+    "correct": [
+      "D"
+    ],
+    "rationale": "A syndicate is a group of underwriters that work together to sell shares of an IPO.",
+    "difficulty": 2,
+    "tags": [
+      "IPO",
+      "underwriting",
+      "syndicate",
+      "investment"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following is correct regarding defensive stocks?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "They are stocks that invest in the defense sector of the U.S. economy."
+      },
+      {
+        "id": "B",
+        "text": "They are stocks that are unaffected by general fluctuations in the economy."
+      },
+      {
+        "id": "C",
+        "text": "They are stocks that are tax efficient and therefore 'defensive' for tax purposes."
+      },
+      {
+        "id": "D",
+        "text": "They are stocks that are unaffected by changes in interest rates."
+      }
+    ],
+    "correct": "B",
+    "rationale": "Defensive stocks are typically those that provide stable earnings and dividends regardless of the economic environment, making them less sensitive to economic fluctuations.",
+    "difficulty": 2,
+    "tags": [
+      "stocks",
+      "defensive",
+      "investment",
+      "economy"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following is correct regarding the relationship between a bond's coupon and its duration?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Higher coupon = Lower duration = Lower interest rate risk"
+      },
+      {
+        "id": "B",
+        "text": "Higher coupon = Higher duration = Higher interest rate risk"
+      },
+      {
+        "id": "C",
+        "text": "Higher coupon = Lower duration = Higher interest rate risk"
+      },
+      {
+        "id": "D",
+        "text": "Higher coupon = Higher duration = Lower interest rate risk"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "rationale": "Higher coupon payments reduce the bond's duration, which in turn lowers its sensitivity to interest rate changes, thus reducing interest rate risk.",
+    "difficulty": 3,
+    "tags": [
+      "bonds",
+      "duration",
+      "interest rate risk",
+      "fixed income"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "All but which of the following are considered securities under the Uniform Securities Act?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Debentures"
+      },
+      {
+        "id": "B",
+        "text": "Precious metals"
+      },
+      {
+        "id": "C",
+        "text": "Variable annuities"
+      },
+      {
+        "id": "D",
+        "text": "Variable life insurance"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "rationale": "Precious metals are not considered securities under the Uniform Securities Act, while debentures, variable annuities, and variable life insurance are.",
+    "difficulty": 3,
+    "tags": [
+      "securities",
+      "Uniform Securities Act",
+      "investment vehicles",
+      "regulations"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following is a type of debt issued by a national government in a foreign currency in order to finance the issuing country's growth and development?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Domestic debt"
+      },
+      {
+        "id": "B",
+        "text": "Eurodebt"
+      },
+      {
+        "id": "C",
+        "text": "Foreign debt"
+      },
+      {
+        "id": "D",
+        "text": "Sovereign debt"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "rationale": "Eurodebt refers to debt instruments issued in a currency not native to the country where it is issued, typically by a national government.",
+    "difficulty": 3,
+    "tags": [
+      "debt instruments",
+      "government finance",
+      "foreign currency"
+    ]
+  },
+  {
+    "module_code": "EFBI",
+    "stem": "Which of the following is true regarding gift splitting?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "A married couple can select which gifts made during the year will receive split gift treatment."
+      },
+      {
+        "id": "B",
+        "text": "A gift made after one spouse dies can still be split."
+      },
+      {
+        "id": "C",
+        "text": "The split gift election is commonly used with community property."
+      },
+      {
+        "id": "D",
+        "text": "When the gift splitting election is made, gifts made by either spouse are treated as being made one-half by each spouse."
+      }
+    ],
+    "correct": [
+      "D"
+    ],
+    "rationale": "When the gift splitting election is made, gifts made by either spouse are treated as being made one-half by each spouse.",
+    "difficulty": 3,
+    "tags": [
+      "gift splitting",
+      "taxation",
+      "marital property",
+      "estate planning"
+    ]
+  },
+  {
+    "module_code": "LRG",
+    "stem": "Which of the following is the FINRA committee that reviews initial decisions rendered in FINRA disciplinary and membership proceedings? It may affirm, dismiss, modify, or reverse any finding, or remand the case for further proceedings.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Board of Governors"
+      },
+      {
+        "id": "B",
+        "text": "FINRA Disciplinary Council"
+      },
+      {
+        "id": "C",
+        "text": "National Adjudicatory Council"
+      },
+      {
+        "id": "D",
+        "text": "None of the above are correct."
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "The National Adjudicatory Council reviews initial decisions rendered in FINRA disciplinary and membership proceedings.",
+    "difficulty": 3,
+    "tags": [
+      "FINRA",
+      "disciplinary proceedings",
+      "regulatory",
+      "adjudication"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "What is the value of Zeta stock if it pays a constant dividend of $4.10 per share each year and the investor has a required rate of return of 7%?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "$4.39 per share"
+      },
+      {
+        "id": "B",
+        "text": "$17.07 per share"
+      },
+      {
+        "id": "C",
+        "text": "$58.57 per share"
+      },
+      {
+        "id": "D",
+        "text": "$69.10 per share"
+      }
+    ],
+    "correct": "B",
+    "rationale": "The value of a stock with a constant dividend can be calculated using the formula: Value = Dividend / Required Rate of Return. Here, Value = $4.10 / 0.07 = $58.57.",
+    "difficulty": 3,
+    "tags": [
+      "dividend valuation",
+      "stock analysis",
+      "investment vehicles"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following tax rate structures is being used to tax Mary and Mike?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Flat"
+      },
+      {
+        "id": "B",
+        "text": "Progressive"
+      },
+      {
+        "id": "C",
+        "text": "Regressive"
+      },
+      {
+        "id": "D",
+        "text": "Value added"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "rationale": "Mary and Mike's tax liabilities indicate a progressive tax structure, where higher income levels are taxed at higher rates.",
+    "difficulty": 2,
+    "tags": [
+      "taxation",
+      "progressive tax",
+      "income tax",
+      "financial literacy"
+    ]
+  },
+  {
+    "module_code": "LRG",
+    "stem": "Which of the following is a self-regulatory organization (SRO)?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "FINRA"
+      },
+      {
+        "id": "B",
+        "text": "NYSE"
+      },
+      {
+        "id": "C",
+        "text": "SIPC"
+      },
+      {
+        "id": "D",
+        "text": "All of the above are correct."
+      }
+    ],
+    "correct": [
+      "D"
+    ],
+    "rationale": "FINRA, NYSE, and SIPC are all considered self-regulatory organizations (SROs) in the financial industry.",
+    "difficulty": 2,
+    "tags": [
+      "self-regulatory organization",
+      "SRO",
+      "finance",
+      "regulation"
+    ]
+  },
+  {
+    "module_code": "EFBI",
+    "stem": "Which of the following is/are correct regarding a qualified personal residence trust (QPRT)? (1) A QPRT is generally appropriate for vacation homes valued over $1 million. (2) A QPRT is ideal for a single parent in his or her 30s or 40s. (3) The grantor will have a taxable gift upon the creation of a QPRT. (4) After the trust term ends, the house reverts back to the grantor.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "(1) only"
+      },
+      {
+        "id": "B",
+        "text": "(1) and (3) only"
+      },
+      {
+        "id": "C",
+        "text": "(2) and (4) only"
+      },
+      {
+        "id": "D",
+        "text": "(1), (3), and (4) only"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "rationale": "A QPRT is generally appropriate for vacation homes valued over $1 million and the grantor will have a taxable gift upon its creation. The other statements are not correct.",
+    "difficulty": 3,
+    "tags": [
+      "trusts",
+      "estate planning",
+      "QPRT",
+      "taxation"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "All but which of the following are correct regarding Treasury bills?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "They have maturities of one year or less."
+      },
+      {
+        "id": "B",
+        "text": "They are sold in minimum denominations of $500."
+      },
+      {
+        "id": "C",
+        "text": "They are considered to be risk free of default."
+      },
+      {
+        "id": "D",
+        "text": "They are sold at a discount to par."
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "rationale": "Treasury bills are sold in minimum denominations of $1,000, not $500.",
+    "difficulty": 2,
+    "tags": [
+      "Treasury Bills",
+      "Investment Vehicles",
+      "Risk Assessment"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following accurately describes the difference between rights and warrants?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "(1) only"
+      },
+      {
+        "id": "B",
+        "text": "(1) and (2) only"
+      },
+      {
+        "id": "C",
+        "text": "(2), (3), and (4) only"
+      },
+      {
+        "id": "D",
+        "text": "All of the above are correct"
+      }
+    ],
+    "correct": [
+      "D"
+    ],
+    "rationale": "All statements about the differences between rights and warrants are correct.",
+    "difficulty": 3,
+    "tags": [
+      "rights",
+      "warrants",
+      "investment vehicles",
+      "financial instruments"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following was the self-regulatory organization for the over-the-counter market, and is now part of FINRA?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "NAC"
+      },
+      {
+        "id": "B",
+        "text": "NASAA"
+      },
+      {
+        "id": "C",
+        "text": "NASD"
+      },
+      {
+        "id": "D",
+        "text": "NYSE"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "The NASD (National Association of Securities Dealers) was the self-regulatory organization for the over-the-counter market and is now part of FINRA (Financial Industry Regulatory Authority).",
+    "difficulty": 2,
+    "tags": [
+      "self-regulatory organizations",
+      "FINRA",
+      "securities",
+      "over-the-counter market"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following will increase an employer's contribution to a defined benefit plan?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "(1) and (2) only"
+      },
+      {
+        "id": "B",
+        "text": "(1) and (3) only"
+      },
+      {
+        "id": "C",
+        "text": "(2) and (3) only"
+      },
+      {
+        "id": "D",
+        "text": "(3) and (4) only"
+      }
+    ],
+    "correct": "A",
+    "rationale": "Lower than expected investment returns and high turnover among employees both increase the employer's contribution to a defined benefit plan.",
+    "difficulty": 3,
+    "tags": [
+      "defined benefit plan",
+      "employer contributions",
+      "investment returns",
+      "employee turnover"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following yield curves results from similar yields among Treasury notes, Treasury bonds, and Treasury bills?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Flat yield curve"
+      },
+      {
+        "id": "B",
+        "text": "Inverted yield curve"
+      },
+      {
+        "id": "C",
+        "text": "Negative yield curve"
+      },
+      {
+        "id": "D",
+        "text": "Steep yield curve"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "rationale": "A flat yield curve indicates that there are similar yields across different maturities, which is the case when Treasury notes, bonds, and bills have similar yields.",
+    "difficulty": 2,
+    "tags": [
+      "yield curve",
+      "Treasury securities",
+      "fixed income",
+      "investment analysis"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Common stock is referred to as / because the owner of the stock is also an owner of the corporation and may participate in its capital and income growth.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "cumulative stock"
+      },
+      {
+        "id": "B",
+        "text": "debt"
+      },
+      {
+        "id": "C",
+        "text": "equity"
+      },
+      {
+        "id": "D",
+        "text": "preferred stock"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "Common stock represents ownership in a corporation and is classified as equity, allowing shareholders to participate in the company's growth.",
+    "difficulty": 2,
+    "tags": [
+      "common stock",
+      "equity",
+      "investment vehicles",
+      "ownership"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following is/are correct regarding closed-end mutual funds?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "(1) only"
+      },
+      {
+        "id": "B",
+        "text": "(2) only"
+      },
+      {
+        "id": "C",
+        "text": "Both (1) and (2) are correct."
+      },
+      {
+        "id": "D",
+        "text": "Neither (1) or (2) are correct."
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "rationale": "Closed-end mutual funds may sell at a premium or discount to their net asset value, but they do not issue new shares when an individual buys existing shares.",
+    "difficulty": 2,
+    "tags": [
+      "mutual funds",
+      "investment vehicles",
+      "closed-end funds"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following is the correct reason to purchase a particular investment for a client's portfolio?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Growth stocks because they pay high dividends."
+      },
+      {
+        "id": "B",
+        "text": "FNMA securities because they are backed by the full faith and credit of the U.S. government."
+      },
+      {
+        "id": "C",
+        "text": "Global fund because it provides only international exposure."
+      },
+      {
+        "id": "D",
+        "text": "Blue chip common stocks because they provide a hedge against inflation."
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "rationale": "FNMA securities are indeed backed by the full faith and credit of the U.S. government, making them a secure investment choice.",
+    "difficulty": 2,
+    "tags": [
+      "investment",
+      "portfolio management",
+      "securities",
+      "financial planning"
+    ]
+  },
+  {
+    "module_code": "LRG",
+    "stem": "According to the Telephone Consumer Protection Act, solicitors are prohibited from calling residences before and after local time.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "7 a.m., 10 p.m."
+      },
+      {
+        "id": "B",
+        "text": "8 a.m., 9 p.m."
+      },
+      {
+        "id": "C",
+        "text": "9 a.m., 5 p.m."
+      },
+      {
+        "id": "D",
+        "text": "10 a.m., 8 p.m."
+      }
+    ],
+    "correct": "A",
+    "rationale": "The Telephone Consumer Protection Act prohibits solicitors from calling residences before 7 a.m. and after 10 p.m.",
+    "difficulty": 2,
+    "tags": [
+      "Telephone Consumer Protection Act",
+      "solicitation",
+      "regulations",
+      "consumer rights"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following accounts is most suitable to hold a zero-coupon bond?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "IRA"
+      },
+      {
+        "id": "B",
+        "text": "Joint taxable account"
+      },
+      {
+        "id": "C",
+        "text": "Payable on death account"
+      },
+      {
+        "id": "D",
+        "text": "Totten trust"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "rationale": "An IRA is suitable for holding zero-coupon bonds because the tax advantages of the account can enhance the benefits of the bond's deferred interest.",
+    "difficulty": 2,
+    "tags": [
+      "zero-coupon bond",
+      "investment accounts",
+      "tax advantages",
+      "IRAs"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "How is the original basis of a newly acquired asset calculated? Assume the asset was acquired at an arm's length transaction from a non-related party.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Cost minus expenses of sale, such as sales tax paid, installation costs, freight charges, and commissions incurred in acquiring the asset."
+      },
+      {
+        "id": "B",
+        "text": "Cost plus expenses of sale, such as sales tax paid, installation costs, freight charges, and commissions incurred in acquiring the asset."
+      },
+      {
+        "id": "C",
+        "text": "Cost plus commissions incurred in acquiring the asset only."
+      },
+      {
+        "id": "D",
+        "text": "Cost minus commissions incurred in acquiring the asset only."
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "rationale": "The original basis of a newly acquired asset is calculated as the cost plus expenses of sale, which includes sales tax, installation costs, freight charges, and commissions incurred in acquiring the asset.",
+    "difficulty": 2,
+    "tags": [
+      "asset valuation",
+      "investment vehicles",
+      "basis calculation",
+      "financial principles"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "All but which of the following are characteristics of an employee stock purchase plan (ESPP)?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The plan must be offered to employees on a nondiscriminatory basis."
+      },
+      {
+        "id": "B",
+        "text": "The maximum discount permitted is 15% of the greater of the market price on the date the option is granted or the date the shares were purchased."
+      },
+      {
+        "id": "C",
+        "text": "The maximum fair market value of stock that an employee has the right to purchase cannot exceed $100,000 in any calendar year."
+      },
+      {
+        "id": "D",
+        "text": "An ESPP allows a company to sell stock to employees at a discount from the market price."
+      }
+    ],
+    "correct": "D",
+    "rationale": "An ESPP allows employees to purchase stock at a discount, but the other options describe characteristics that are true of ESPPs.",
+    "difficulty": 3,
+    "tags": [
+      "ESPP",
+      "employee benefits",
+      "stock options",
+      "investment vehicles"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Current assets - Current liabilities = ?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Current ratio"
+      },
+      {
+        "id": "B",
+        "text": "Debt-to-equity ratio"
+      },
+      {
+        "id": "C",
+        "text": "Quick ratio"
+      },
+      {
+        "id": "D",
+        "text": "Return on assets"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "rationale": "The current ratio is calculated by dividing current assets by current liabilities, which can also be expressed as current assets - current liabilities.",
+    "difficulty": 2,
+    "tags": [
+      "financial ratios",
+      "current assets",
+      "liabilities",
+      "investment analysis"
+    ]
+  },
+  {
+    "module_code": "CIRS",
+    "stem": "All but which of the following are correct regarding investment adviser representatives (IARs)?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Every investment advisory firm must have at least one IAR registered to the firm."
+      },
+      {
+        "id": "B",
+        "text": "An IAR can be a dual registrant of multiple firms in some states only."
+      },
+      {
+        "id": "C",
+        "text": "There are currently no continuing education requirements for IARs."
+      },
+      {
+        "id": "D",
+        "text": "An IAR does not need to be registered to an RIA firm in order to conduct investment advisory business."
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "Currently, there are continuing education requirements for IARs, making option C incorrect.",
+    "difficulty": 3,
+    "tags": [
+      "IAR",
+      "investment advisory",
+      "regulations",
+      "continuing education"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "The holding period of inherited property is considered to be in nature.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "always short-term"
+      },
+      {
+        "id": "B",
+        "text": "always long-term"
+      },
+      {
+        "id": "C",
+        "text": "sometimes short-term"
+      },
+      {
+        "id": "D",
+        "text": "sometimes long-term"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "rationale": "Inherited property is always considered to have a long-term holding period for tax purposes.",
+    "difficulty": 2,
+    "tags": [
+      "inheritance",
+      "taxation",
+      "investment",
+      "property"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "The conversion ratio of the bond is:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "47.5:1"
+      },
+      {
+        "id": "B",
+        "text": "50.0:1"
+      },
+      {
+        "id": "C",
+        "text": "52.5:1"
+      },
+      {
+        "id": "D",
+        "text": "55.5:1"
+      }
+    ],
+    "correct": null,
+    "rationale": null,
+    "difficulty": 2,
+    "tags": [
+      "bonds",
+      "conversion ratio",
+      "investment vehicles"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "The conversion value of the bond is:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "$9,500."
+      },
+      {
+        "id": "B",
+        "text": "$9,700."
+      },
+      {
+        "id": "C",
+        "text": "$9,800."
+      },
+      {
+        "id": "D",
+        "text": "$10,000."
+      }
+    ],
+    "correct": null,
+    "rationale": null,
+    "difficulty": null,
+    "tags": null
+  },
+  {
+    "module_code": "IVC",
+    "stem": "The conversion condition for the bond is:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "below parity."
+      },
+      {
+        "id": "B",
+        "text": "at parity."
+      },
+      {
+        "id": "C",
+        "text": "above parity."
+      },
+      {
+        "id": "D",
+        "text": "unknown."
+      }
+    ],
+    "correct": null,
+    "rationale": null,
+    "difficulty": 2,
+    "tags": [
+      "bonds",
+      "conversion",
+      "investment vehicles"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following determines the minimum margin requirement for investment accounts?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Congress"
+      },
+      {
+        "id": "B",
+        "text": "FDIC"
+      },
+      {
+        "id": "C",
+        "text": "Federal Reserve"
+      },
+      {
+        "id": "D",
+        "text": "SIPC"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "The Federal Reserve determines the minimum margin requirements for investment accounts.",
+    "difficulty": 2,
+    "tags": [
+      "margin requirements",
+      "Federal Reserve",
+      "investment accounts",
+      "regulations"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "An investor purchased a share of Kappa stock for $184 and sold it for $173. If a $4.25 dividend was paid during the holding period, what was the total return?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "-4.67%"
+      },
+      {
+        "id": "B",
+        "text": "-4.33%"
+      },
+      {
+        "id": "C",
+        "text": "-4.02%"
+      },
+      {
+        "id": "D",
+        "text": "-3.67%"
+      }
+    ],
+    "correct": "B",
+    "rationale": "Total return is calculated as (Ending Value - Beginning Value + Dividends) / Beginning Value. In this case, it is (-11 + 4.25) / 184 = -4.33%.",
+    "difficulty": 2,
+    "tags": [
+      "total return",
+      "investing",
+      "dividends",
+      "stock"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "All but which of the following are correct regarding Series I bonds?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "They are adjusted for inflation as measured by the Consumer Price Index."
+      },
+      {
+        "id": "B",
+        "text": "They are taxed at the state level only."
+      },
+      {
+        "id": "C",
+        "text": "They are guaranteed to never lose value, even during deflationary periods."
+      },
+      {
+        "id": "D",
+        "text": "They are non-marketable bonds that cannot be bought or sold in the secondary market."
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "rationale": "Series I bonds are subject to federal tax but are exempt from state and local taxes. Therefore, option B is incorrect.",
+    "difficulty": 2,
+    "tags": [
+      "bonds",
+      "taxation",
+      "investment vehicles",
+      "Series I bonds"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following groups may be eligible to participate in a 403(b) plan?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Church employees"
+      },
+      {
+        "id": "B",
+        "text": "Not-for-profit hospital employees"
+      },
+      {
+        "id": "C",
+        "text": "Public school employees"
+      },
+      {
+        "id": "D",
+        "text": "All of the above are correct."
+      }
+    ],
+    "correct": [
+      "D"
+    ],
+    "rationale": "A 403(b) plan is designed for certain employees of public schools and tax-exempt organizations, including church employees, not-for-profit hospital employees, and public school employees.",
+    "difficulty": 2,
+    "tags": [
+      "403(b)",
+      "retirement plans",
+      "eligibility",
+      "investment vehicles"
+    ]
+  },
+  {
+    "module_code": "EFBI",
+    "stem": "According to __ __. when an issuer discloses material nonpublic information to certain individuals or entities, typically securities market professionals, the issuer must make public disclosure of that information, as well.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Regulation BB"
+      },
+      {
+        "id": "B",
+        "text": "Regulation CF"
+      },
+      {
+        "id": "C",
+        "text": "Regulation FD"
+      },
+      {
+        "id": "D",
+        "text": "Regulation SK"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "Regulation FD (Fair Disclosure) requires issuers to disclose material nonpublic information to all investors, not just select individuals or entities.",
+    "difficulty": 3,
+    "tags": [
+      "Regulation FD",
+      "Securities",
+      "Disclosure",
+      "Market Professionals"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following describes the relationship between total risk, systematic risk, and unsystematic risk?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Total risk= Systematic risk - Unsystematic risk"
+      },
+      {
+        "id": "B",
+        "text": "Total risk - Systematic risk = Unsystematic risk"
+      },
+      {
+        "id": "C",
+        "text": "Total risk+ Unsystematic risk= Systematic risk"
+      },
+      {
+        "id": "D",
+        "text": "Unsystematic risk - Total risk= Systematic risk"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "rationale": "Total risk is composed of both systematic risk and unsystematic risk, where unsystematic risk is the portion of total risk that is not correlated with market movements.",
+    "difficulty": 2,
+    "tags": [
+      "risk management",
+      "investment analysis",
+      "financial concepts"
+    ]
+  },
+  {
+    "module_code": "LRG",
+    "stem": "Which of the following lists the stages of money laundering in the correct order?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Layering, integration, placement"
+      },
+      {
+        "id": "B",
+        "text": "Layering, placement, integration"
+      },
+      {
+        "id": "C",
+        "text": "Placement, integration, layering"
+      },
+      {
+        "id": "D",
+        "text": "Placement, layering, integration"
+      }
+    ],
+    "correct": [
+      "D"
+    ],
+    "rationale": "The correct order of the stages of money laundering is placement, layering, and integration.",
+    "difficulty": 3,
+    "tags": [
+      "money laundering",
+      "regulatory compliance",
+      "financial crime",
+      "anti-money laundering"
+    ]
+  },
+  {
+    "module_code": "EFBI",
+    "stem": "Information such as fee schedule, services offered, key advisory personnel, conflicts of interest, and educational background are typically included in the:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "ADV"
+      },
+      {
+        "id": "B",
+        "text": "CRD"
+      },
+      {
+        "id": "C",
+        "text": "IARD"
+      },
+      {
+        "id": "D",
+        "text": "U4"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "rationale": "The ADV (Form ADV) is the primary document used by investment advisers to register with the SEC and state regulators, and it includes information about the advisory firm, including fee schedules and services offered.",
+    "difficulty": 2,
+    "tags": [
+      "investment advisory",
+      "regulatory compliance",
+      "form ADV",
+      "disclosure"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following is a value-weighted index measuring the overall performance of the U.S. stock market?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Dow Jones Industrial Average"
+      },
+      {
+        "id": "B",
+        "text": "EAFE Index"
+      },
+      {
+        "id": "C",
+        "text": "Russell 2000"
+      },
+      {
+        "id": "D",
+        "text": "Wilshire 5000"
+      }
+    ],
+    "correct": [
+      "D"
+    ],
+    "rationale": "The Wilshire 5000 is a value-weighted index that measures the performance of all U.S. stocks, making it the broadest index of the U.S. stock market.",
+    "difficulty": 2,
+    "tags": [
+      "index",
+      "stock market",
+      "value-weighted",
+      "performance"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "If the risk-free rate is 2.5%, then the expected return for the market, according to the capital asset pricing model, is:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "6.84%"
+      },
+      {
+        "id": "B",
+        "text": "7.45%"
+      },
+      {
+        "id": "C",
+        "text": "7.96%"
+      },
+      {
+        "id": "D",
+        "text": "8.02%"
+      }
+    ],
+    "correct": "D",
+    "rationale": "According to the Capital Asset Pricing Model (CAPM), the expected return for the market can be calculated using the formula: Expected Return = Risk-Free Rate + Beta * (Market Return - Risk-Free Rate). Given the values, the expected return for the market is 8.02%.",
+    "difficulty": 3,
+    "tags": [
+      "CAPM",
+      "expected return",
+      "market return",
+      "beta"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following provides clearing, settlement, risk management, central counterparty services, and a guarantee of completion for certain transactions for virtually all broker-to-broker trades involving equities, corporate and municipal debt, ADRs, ETFs, and UITs?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "ATC"
+      },
+      {
+        "id": "B",
+        "text": "NSCC"
+      },
+      {
+        "id": "C",
+        "text": "OCC"
+      },
+      {
+        "id": "D",
+        "text": "TRACE"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "rationale": "The National Securities Clearing Corporation (NSCC) provides clearing, settlement, risk management, and central counterparty services for broker-to-broker trades.",
+    "difficulty": 3,
+    "tags": [
+      "clearing",
+      "settlement",
+      "brokerage",
+      "financial services"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "A mutual fund with a high turnover rate will require / active management and will typically charge expenses.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "less, higher"
+      },
+      {
+        "id": "B",
+        "text": "less, lower"
+      },
+      {
+        "id": "C",
+        "text": "more, higher"
+      },
+      {
+        "id": "D",
+        "text": "more, lower"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "A mutual fund with a high turnover rate typically requires more active management and incurs higher expenses due to frequent trading.",
+    "difficulty": 3,
+    "tags": [
+      "mutual funds",
+      "investment management",
+      "expenses",
+      "turnover rate"
+    ]
+  },
+  {
+    "module_code": "LRG",
+    "stem": "All but which of the following are correct regarding probate?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "It provides for clean title to a decedent's property."
+      },
+      {
+        "id": "B",
+        "text": "It's the process by which a state or local court validates a decedent's will."
+      },
+      {
+        "id": "C",
+        "text": "It protects the decedent from an untimely filing of claims by his or her lifetime creditors."
+      },
+      {
+        "id": "D",
+        "text": "It may be either a public or private process depending on the wishes of the decedent."
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "Probate does not protect the decedent from claims by lifetime creditors; it is a process for settling the estate.",
+    "difficulty": 3,
+    "tags": [
+      "probate",
+      "estate planning",
+      "legal process",
+      "decedent"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "If Monica's brother were to die, how much tax would she owe on the $350,000 life insurance policy?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "$0"
+      },
+      {
+        "id": "B",
+        "text": "$35,000"
+      },
+      {
+        "id": "C",
+        "text": "$70,000"
+      },
+      {
+        "id": "D",
+        "text": "$105,000"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "rationale": "Life insurance proceeds are generally not subject to federal or state income tax, so Monica would owe $0 in taxes.",
+    "difficulty": 2,
+    "tags": [
+      "life insurance",
+      "taxation",
+      "beneficiary",
+      "financial planning"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following is correct regarding the selling price of Treasury STRIPS?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "They are sold at a discount from face value."
+      },
+      {
+        "id": "B",
+        "text": "They are sold at a premium to face value."
+      },
+      {
+        "id": "C",
+        "text": "They are sold at face value."
+      },
+      {
+        "id": "D",
+        "text": "They are sold at either a discount or premium to face value."
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "rationale": "Treasury STRIPS are zero-coupon bonds that are sold at a discount from their face value, as they do not pay interest but are redeemed at face value at maturity.",
+    "difficulty": 2,
+    "tags": [
+      "Treasury STRIPS",
+      "fixed income",
+      "investment vehicles",
+      "bonds"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "All but which of the following are correct regarding Electronic Communication Networks (ECNs)?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "They are a type of alternative trading system (ATS)."
+      },
+      {
+        "id": "B",
+        "text": "They trade unlisted stocks and other non-exchange-traded products."
+      },
+      {
+        "id": "C",
+        "text": "Unlike dark pools, ECNs display orders in the consolidated quote stream."
+      },
+      {
+        "id": "D",
+        "text": "ECNs are required to register with the SEC as broker-dealers."
+      }
+    ],
+    "correct": [
+      "D"
+    ],
+    "rationale": "ECNs are not required to register as broker-dealers; they operate under different regulatory requirements.",
+    "difficulty": 3,
+    "tags": [
+      "ECNs",
+      "trading systems",
+      "regulation",
+      "market structure"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "The typical grace period for a life insurance policy is:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "7 days"
+      },
+      {
+        "id": "B",
+        "text": "14 days"
+      },
+      {
+        "id": "C",
+        "text": "30 days"
+      },
+      {
+        "id": "D",
+        "text": "60 days"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "The typical grace period for a life insurance policy is 30 days, allowing policyholders time to make premium payments without losing coverage.",
+    "difficulty": 2,
+    "tags": [
+      "life insurance",
+      "grace period",
+      "insurance policies",
+      "premium payments"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "The standard deviation of an investment portfolio must be the weighted average of the standard deviation of returns of the individual securities.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "equal to"
+      },
+      {
+        "id": "B",
+        "text": "greater than"
+      },
+      {
+        "id": "C",
+        "text": "less than"
+      },
+      {
+        "id": "D",
+        "text": "less than or equal to"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "rationale": "The standard deviation of an investment portfolio is calculated as the weighted average of the standard deviations of the individual securities, considering their correlations.",
+    "difficulty": 3,
+    "tags": [
+      "portfolio theory",
+      "standard deviation",
+      "investment analysis"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "To establish a Coverdell Education Savings Account (ESA), the beneficiary must be under age / unless the individual is designated as a special needs beneficiary.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "14"
+      },
+      {
+        "id": "B",
+        "text": "18"
+      },
+      {
+        "id": "C",
+        "text": "21"
+      },
+      {
+        "id": "D",
+        "text": "30"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "rationale": "To establish a Coverdell Education Savings Account (ESA), the beneficiary must be under age 18 unless designated as a special needs beneficiary.",
+    "difficulty": 2,
+    "tags": [
+      "Coverdell ESA",
+      "education savings",
+      "investment vehicles",
+      "tax benefits"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following is a fee deducted from a mutual fund's assets to pay for marketing and distribution costs associated with operating the fund?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Accounting fee"
+      },
+      {
+        "id": "B",
+        "text": "Custodial fee"
+      },
+      {
+        "id": "C",
+        "text": "Transfer agent fee"
+      },
+      {
+        "id": "D",
+        "text": "12b-1 fee"
+      }
+    ],
+    "correct": [
+      "D"
+    ],
+    "rationale": "The 12b-1 fee is specifically used to cover marketing and distribution costs for mutual funds.",
+    "difficulty": 2,
+    "tags": [
+      "mutual funds",
+      "fees",
+      "investment vehicles",
+      "marketing"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following type of bond is unregistered, with no record kept regarding the owner or transactions involving ownership?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Bearer bond"
+      },
+      {
+        "id": "B",
+        "text": "Brady bond"
+      },
+      {
+        "id": "C",
+        "text": "Fidelity bond"
+      },
+      {
+        "id": "D",
+        "text": "Surety bond"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "rationale": "A bearer bond is unregistered and does not have a record of ownership, making it different from other types of bonds listed.",
+    "difficulty": 2,
+    "tags": [
+      "bonds",
+      "investment vehicles",
+      "financial instruments",
+      "unregistered securities"
+    ]
+  },
+  {
+    "module_code": "CIRS",
+    "stem": "According to FINRA, which of the following elements must be addressed in a firm's business continuity plan relating to an emergency or significant business disruption?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Alternate physical location of employees"
+      },
+      {
+        "id": "B",
+        "text": "Communications with regulators"
+      },
+      {
+        "id": "C",
+        "text": "Data backup and recovery"
+      },
+      {
+        "id": "D",
+        "text": "All of the above are correct."
+      }
+    ],
+    "correct": [
+      "D"
+    ],
+    "rationale": "FINRA requires that a firm's business continuity plan includes provisions for alternate physical locations, communication with regulators, and data backup and recovery.",
+    "difficulty": 2,
+    "tags": [
+      "FINRA",
+      "business continuity",
+      "regulatory compliance",
+      "emergency planning"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "An investor deposited $150 in an interest-bearing account earning 6% annually. Assuming the interest is not withdrawn, the amount of interest earned in the third year will be:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "$9.00"
+      },
+      {
+        "id": "B",
+        "text": "$9.54"
+      },
+      {
+        "id": "C",
+        "text": "$10.11"
+      },
+      {
+        "id": "D",
+        "text": "$10.72"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "The interest earned in the third year can be calculated using the formula for compound interest. The amount at the end of the second year is $150 * (1 + 0.06)^2 = $168.30. The interest earned in the third year is then $168.30 * 0.06 = $10.11.",
+    "difficulty": 3,
+    "tags": [
+      "interest",
+      "compound interest",
+      "investing",
+      "financial literacy"
+    ]
+  },
+  {
+    "module_code": "CIRS",
+    "stem": "Which of the following acts gives consumers the right to one free credit report each year from the credit reporting agencies? It also allows consumers to purchase, for a reasonable fee, a credit score along with information about how the credit score was calculated.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Securities Act Amendments of 1975"
+      },
+      {
+        "id": "B",
+        "text": "Insider Trading and Securities Fraud Enforcement Act of 1988"
+      },
+      {
+        "id": "C",
+        "text": "FACT Act of 2003"
+      },
+      {
+        "id": "D",
+        "text": "Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "The FACT Act of 2003 allows consumers to obtain one free credit report annually and to purchase their credit score.",
+    "difficulty": 2,
+    "tags": [
+      "credit reporting",
+      "consumer rights",
+      "FACT Act",
+      "financial literacy"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Kappa Fund has a Treynor ratio of 4.71. If the fund's return is 11%, and the risk-free rate is 2%, what is the fund's beta?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "1.75"
+      },
+      {
+        "id": "B",
+        "text": "1.86"
+      },
+      {
+        "id": "C",
+        "text": "1.88"
+      },
+      {
+        "id": "D",
+        "text": "1.91"
+      }
+    ],
+    "correct": "B",
+    "rationale": "The Treynor ratio is calculated as (Return - Risk-Free Rate) / Beta. Rearranging the formula gives Beta = (Return - Risk-Free Rate) / Treynor Ratio. Plugging in the values: Beta = (0.11 - 0.02) / 4.71 = 0.09 / 4.71 = 1.91.",
+    "difficulty": 3,
+    "tags": [
+      "Treynor Ratio",
+      "Beta",
+      "Investment Analysis",
+      "Risk Assessment"
+    ]
+  },
+  {
+    "module_code": "EFBI",
+    "stem": "Which of the following is a manipulative trading activity that is designed to prevent the price of a security from rising?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Capping"
+      },
+      {
+        "id": "B",
+        "text": "Front running"
+      },
+      {
+        "id": "C",
+        "text": "Painting the tape"
+      },
+      {
+        "id": "D",
+        "text": "Pegging"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "rationale": "Capping is a manipulative trading activity aimed at preventing the price of a security from rising by placing sell orders at or just above the current market price.",
+    "difficulty": 3,
+    "tags": [
+      "manipulative trading",
+      "securities",
+      "market behavior",
+      "ethics"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following are basic provisions of a universal life insurance policy?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "(1) and (2) only"
+      },
+      {
+        "id": "B",
+        "text": "(2) and (3) only"
+      },
+      {
+        "id": "C",
+        "text": "(1), (2), and (4) only"
+      },
+      {
+        "id": "D",
+        "text": "(1), (3), and (4) only"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "Universal life insurance policies typically include flexible death benefits, flexible premiums, and an unbundled structure, but do not guarantee a minimum cash value.",
+    "difficulty": 3,
+    "tags": [
+      "insurance",
+      "universal life",
+      "policy provisions",
+      "financial planning"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Assume that an investor wants to dollar cost average into Delta mutual fund by making quarterly purchases over a two-year period. If the total amount to be invested is $48,000, then how much will be invested each quarter if the fund's NAV increases by a total of 10% over the two-year period?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "$6,000"
+      },
+      {
+        "id": "B",
+        "text": "$6,600"
+      },
+      {
+        "id": "C",
+        "text": "$8,000"
+      },
+      {
+        "id": "D",
+        "text": "$8,800"
+      }
+    ],
+    "correct": "C",
+    "rationale": "The total investment of $48,000 over 8 quarters (2 years) results in $6,000 per quarter, regardless of the NAV increase.",
+    "difficulty": 2,
+    "tags": [
+      "dollar cost averaging",
+      "mutual funds",
+      "investment strategy",
+      "NAV"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "SEC-registered advisers are not required to deliver a brochure to clients who receive only impersonal investment advice from the adviser and who will pay the adviser less than what amount per year?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "$100"
+      },
+      {
+        "id": "B",
+        "text": "$500"
+      },
+      {
+        "id": "C",
+        "text": "$1,000"
+      },
+      {
+        "id": "D",
+        "text": "$1,500"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "According to SEC regulations, advisers are not required to deliver a brochure to clients who receive only impersonal investment advice and pay less than $1,000 per year.",
+    "difficulty": 2,
+    "tags": [
+      "SEC",
+      "investment advice",
+      "brochure",
+      "regulations"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following models determines the intrinsic value of a stock based on future dividends that grow at a non-changing rate?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Adjustable dividend growth model"
+      },
+      {
+        "id": "B",
+        "text": "CAPM dividend growth model"
+      },
+      {
+        "id": "C",
+        "text": "Constant dividend growth model"
+      },
+      {
+        "id": "D",
+        "text": "Intrinsic dividend growth model"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "The constant dividend growth model, also known as the Gordon Growth Model, calculates the intrinsic value of a stock based on the assumption that dividends will grow at a constant rate indefinitely.",
+    "difficulty": 2,
+    "tags": [
+      "dividend growth",
+      "stock valuation",
+      "investment models",
+      "finance"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "A health savings account (HSA) allows the account holder to set aside money on a/an basis to pay for / medical expenses.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "after-tax, qualified"
+      },
+      {
+        "id": "B",
+        "text": "after-tax, unqualified"
+      },
+      {
+        "id": "C",
+        "text": "pre-tax, qualified"
+      },
+      {
+        "id": "D",
+        "text": "pre-tax, unqualified"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "Health savings accounts (HSAs) allow contributions to be made on a pre-tax basis, and the funds can be used for qualified medical expenses.",
+    "difficulty": 2,
+    "tags": [
+      "HSA",
+      "tax",
+      "medical expenses",
+      "investment vehicles"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following refers to a computerized system used by the NYSE to display, record, and execute orders for securities?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Automated quotation system"
+      },
+      {
+        "id": "B",
+        "text": "Order management system"
+      },
+      {
+        "id": "C",
+        "text": "Super display book system"
+      },
+      {
+        "id": "D",
+        "text": "None of the above are correct."
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "The Super Display Book system is the computerized system used by the NYSE for displaying, recording, and executing orders.",
+    "difficulty": 3,
+    "tags": [
+      "NYSE",
+      "securities",
+      "trading systems",
+      "order execution"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "An investor purchased a share of Omikron stock for $90.00 and sold it for $95.50. If the total return was 7.50%, the dividend paid during the holding period was:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "$1.20"
+      },
+      {
+        "id": "B",
+        "text": "$1.25"
+      },
+      {
+        "id": "C",
+        "text": "$1.35"
+      },
+      {
+        "id": "D",
+        "text": "$1.40"
+      }
+    ],
+    "correct": "B",
+    "rationale": "The total return is calculated as (Selling Price - Purchase Price + Dividends) / Purchase Price. Here, the total return of 7.50% on a $90 investment equals $6.75. The capital gain is $5.50 ($95.50 - $90.00), so the dividend must be $6.75 - $5.50 = $1.25.",
+    "difficulty": 3,
+    "tags": [
+      "total return",
+      "dividends",
+      "investment analysis",
+      "stock"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following is an order to sell a security at or above a specified price?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Sell limit order"
+      },
+      {
+        "id": "B",
+        "text": "Sell market order"
+      },
+      {
+        "id": "C",
+        "text": "Sell top order"
+      },
+      {
+        "id": "D",
+        "text": "None of the above are correct."
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "rationale": "A sell limit order allows an investor to sell a security at a specified price or higher, making it the correct choice.",
+    "difficulty": 2,
+    "tags": [
+      "order types",
+      "trading",
+      "investment vehicles",
+      "market orders"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following preserves and promotes public confidence in the U.S. financial system by insuring deposits in banks by identifying, monitoring, and addressing risks to the deposit insurance funds; and by limiting the effect on the economy when a financial institution fails?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "FDIC"
+      },
+      {
+        "id": "B",
+        "text": "NASD"
+      },
+      {
+        "id": "C",
+        "text": "PBGC"
+      },
+      {
+        "id": "D",
+        "text": "SIPC"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "rationale": "The FDIC (Federal Deposit Insurance Corporation) insures deposits in banks and promotes public confidence in the financial system.",
+    "difficulty": 2,
+    "tags": [
+      "financial system",
+      "insurance",
+      "FDIC",
+      "public confidence"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Phil has owned his company, Beta Corporation, for 15 years. He is now 52 years old and plans to retire at age 64. He has five young employees and wants to establish a retirement plan that will provide him with the highest benefit. Assuming adequate cash flow, which of the following is the most suitable plan for Beta Corporation to establish?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Age-based profit sharing plan"
+      },
+      {
+        "id": "B",
+        "text": "Defined benefit plan"
+      },
+      {
+        "id": "C",
+        "text": "Money purchase plan"
+      },
+      {
+        "id": "D",
+        "text": "SIMPLE IRA"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "rationale": "A defined benefit plan is designed to provide a specific benefit at retirement, which can be advantageous for someone like Phil who is nearing retirement age and wants to maximize his retirement benefits.",
+    "difficulty": 3,
+    "tags": [
+      "retirement planning",
+      "defined benefit",
+      "profit sharing",
+      "investment vehicles"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following is a type of debt security that repackages and directs the payments of principal and interest from a collateral pool to different types and maturities of securities?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "CMO"
+      },
+      {
+        "id": "B",
+        "text": "GIC"
+      },
+      {
+        "id": "C",
+        "text": "REIT"
+      },
+      {
+        "id": "D",
+        "text": "UIT"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "rationale": "A CMO (Collateralized Mortgage Obligation) is a type of debt security that repackages and directs the payments of principal and interest from a collateral pool to different types and maturities of securities.",
+    "difficulty": 3,
+    "tags": [
+      "debt securities",
+      "CMO",
+      "investment vehicles",
+      "financial instruments"
+    ]
+  },
+  {
+    "module_code": "LRG",
+    "stem": "All companies, foreign and domestic, are required to file registration statements, periodic reports, and other forms electronically through which of the following? Consumers can then access and download this information for free.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "CRD"
+      },
+      {
+        "id": "B",
+        "text": "EDGAR"
+      },
+      {
+        "id": "C",
+        "text": "IARD"
+      },
+      {
+        "id": "D",
+        "text": "NSCC"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "rationale": "EDGAR (Electronic Data Gathering, Analysis, and Retrieval system) is the system used by the SEC for companies to file registration statements and periodic reports electronically.",
+    "difficulty": 2,
+    "tags": [
+      "filing",
+      "SEC",
+      "regulations",
+      "reporting"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following is/are correct regarding loan provisions in a SIMPLE plan?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "(1) only"
+      },
+      {
+        "id": "B",
+        "text": "(2) only"
+      },
+      {
+        "id": "C",
+        "text": "Both (1) and (2) are correct"
+      },
+      {
+        "id": "D",
+        "text": "Neither (1) or (2) are correct"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "rationale": "Loans from a SIMPLE IRA are not permitted, while loans from a SIMPLE 401(k) plan are permitted.",
+    "difficulty": 2,
+    "tags": [
+      "SIMPLE IRA",
+      "401(k)",
+      "loan provisions",
+      "retirement plans"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "To be considered a 'qualified purchaser,' an individual must have not less than ___ in investments.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "$1 million"
+      },
+      {
+        "id": "B",
+        "text": "$2 million"
+      },
+      {
+        "id": "C",
+        "text": "$5 million"
+      },
+      {
+        "id": "D",
+        "text": "$10 million"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "A qualified purchaser is defined as an individual who has at least $5 million in investments.",
+    "difficulty": 2,
+    "tags": [
+      "qualified purchaser",
+      "investments",
+      "regulations",
+      "IVC"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following is a type of debt that allows the lender to collect from the debtor and the debtor's assets in the case of default, as opposed to foreclosing on a particular property or asset?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Nonrecourse loan"
+      },
+      {
+        "id": "B",
+        "text": "Private annuity"
+      },
+      {
+        "id": "C",
+        "text": "Recourse loan"
+      },
+      {
+        "id": "D",
+        "text": "Self-cancelling installment note"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "A recourse loan allows the lender to pursue the borrower's other assets in case of default, unlike a nonrecourse loan which limits the lender's recovery to the collateral.",
+    "difficulty": 2,
+    "tags": [
+      "debt",
+      "lending",
+      "recourse",
+      "finance"
+    ]
+  },
+  {
+    "module_code": "CIRS",
+    "stem": "Which of the following is the voice of state securities agencies responsible for efficient capital formation and grass-roots investor protection in the U.S.?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "NAIC"
+      },
+      {
+        "id": "B",
+        "text": "NASAA"
+      },
+      {
+        "id": "C",
+        "text": "NASD"
+      },
+      {
+        "id": "D",
+        "text": "SIPC"
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "rationale": "NASAA (North American Securities Administrators Association) represents state securities agencies and focuses on investor protection and efficient capital formation.",
+    "difficulty": 2,
+    "tags": [
+      "securities",
+      "investor protection",
+      "regulation",
+      "state agencies"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "All but which of the following are correct regarding unit investment trusts (UITs)?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Units may be bought or sold on the secondary market."
+      },
+      {
+        "id": "B",
+        "text": "Upon termination of a UIT, any remaining securities in the trust will be sold and proceeds will be paid to investors."
+      },
+      {
+        "id": "C",
+        "text": "Units are sold to investors for a minimum cost of $100,000."
+      },
+      {
+        "id": "D",
+        "text": "They typically have low fees and expenses."
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "Units of UITs are typically sold for much less than $100,000, making option C incorrect.",
+    "difficulty": 2,
+    "tags": [
+      "UITs",
+      "investment vehicles",
+      "financial products",
+      "regulations"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following are correct regarding Roth IRAs?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "(1) and (3) only"
+      },
+      {
+        "id": "B",
+        "text": "(2) and (3) only"
+      },
+      {
+        "id": "C",
+        "text": "(1), (3), and (4) only"
+      },
+      {
+        "id": "D",
+        "text": "(2), (3), and (4) only"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "rationale": "Contributions to a Roth IRA can be made at any age (1) and a Roth IRA owner is not required to take a minimum distribution during his or her lifetime (3) are correct. Contributions must be made before age 70 is incorrect (2), and Roth IRA contributions may not be deducted in limited circumstances (4).",
+    "difficulty": 3,
+    "tags": [
+      "Roth IRA",
+      "retirement accounts",
+      "investment vehicles",
+      "tax implications"
+    ]
+  },
+  {
+    "module_code": "LRG",
+    "stem": "Firms must retain blotters containing all purchases and sales of securities for at least ___ years, and they must keep copies of confirmations for years. For the first years, these records must be kept in an easily accessible location.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "3, 2, 2"
+      },
+      {
+        "id": "B",
+        "text": "4, 3, 2"
+      },
+      {
+        "id": "C",
+        "text": "5, 4, 3"
+      },
+      {
+        "id": "D",
+        "text": "6, 3, 2"
+      }
+    ],
+    "correct": null,
+    "rationale": null,
+    "difficulty": 3,
+    "tags": [
+      "record retention",
+      "securities",
+      "regulatory compliance",
+      "broker-dealer"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following is correct regarding the taxation of TIPS?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "TIPS are taxed at the federal level only."
+      },
+      {
+        "id": "B",
+        "text": "TIPS are taxed at the state level only."
+      },
+      {
+        "id": "C",
+        "text": "TIPS are taxed at the state and federal level."
+      },
+      {
+        "id": "D",
+        "text": "TIPS are tax-free at both the state and federal level."
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "TIPS (Treasury Inflation-Protected Securities) are subject to federal income tax but are exempt from state and local taxes.",
+    "difficulty": 2,
+    "tags": [
+      "taxation",
+      "TIPS",
+      "investments",
+      "federal"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "What characterizes contractionary policy?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Taxes decreasing, public spending increasing, and government borrowing increasing."
+      },
+      {
+        "id": "B",
+        "text": "Taxes increasing, public spending decreasing, and government borrowing decreasing."
+      },
+      {
+        "id": "C",
+        "text": "Taxes remaining the same, public spending increasing, and government borrowing remaining the same."
+      },
+      {
+        "id": "D",
+        "text": "Taxes increasing, public spending increasing, and government borrowing decreasing."
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "rationale": "Contractionary policy is characterized by increasing taxes, decreasing public spending, and decreasing government borrowing.",
+    "difficulty": 2,
+    "tags": [
+      "contractionary policy",
+      "fiscal policy",
+      "government borrowing",
+      "public spending"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Interest earned from Series EE bonds may be excluded from gross income if the proceeds are used to pay for qualified higher education expenses. What is the correct statement regarding this?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Interest earned from Series EE bonds is always taxable."
+      },
+      {
+        "id": "B",
+        "text": "Interest earned from Series EE bonds may be excluded from gross income if used for qualified higher education expenses."
+      },
+      {
+        "id": "C",
+        "text": "Interest earned from Series EE bonds can only be excluded if the bonds are held for more than 10 years."
+      },
+      {
+        "id": "D",
+        "text": "Interest earned from Series EE bonds is exempt from state taxes regardless of use."
+      }
+    ],
+    "correct": [
+      "B"
+    ],
+    "rationale": "Interest earned from Series EE bonds can be excluded from gross income when the proceeds are used for qualified higher education expenses.",
+    "difficulty": 2,
+    "tags": [
+      "bonds",
+      "taxation",
+      "education",
+      "investments"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following statements about mutual funds and stocks is true?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Closed-end mutual funds may only sell at a premium to their net asset value."
+      },
+      {
+        "id": "B",
+        "text": "Only open-end mutual funds may issue new shares when an individual buys existing shares."
+      },
+      {
+        "id": "C",
+        "text": "Blue chip common stocks provide a hedge against inflation."
+      },
+      {
+        "id": "D",
+        "text": "Growth stocks typically pay dividends to shareholders."
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "Blue chip common stocks are known for their stability and ability to provide a hedge against inflation, while growth stocks typically reinvest earnings rather than pay dividends.",
+    "difficulty": 3,
+    "tags": [
+      "mutual funds",
+      "stocks",
+      "investment vehicles",
+      "financial regulations"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which account is the most suitable to hold a zero-coupon bond due to tax-deferred interest?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "IRA"
+      },
+      {
+        "id": "B",
+        "text": "Taxable account"
+      },
+      {
+        "id": "C",
+        "text": "Roth IRA"
+      },
+      {
+        "id": "D",
+        "text": "401(k)"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "rationale": "An IRA allows for tax-deferred growth, making it suitable for holding zero-coupon bonds, as interest is not taxed until withdrawal.",
+    "difficulty": 2,
+    "tags": [
+      "zero-coupon bond",
+      "IRA",
+      "tax-deferred",
+      "investment vehicles"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "What is the maximum fair market value of stock that an employee has the right to purchase through an Employee Stock Purchase Plan (ESPP) in any calendar year?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "$15,000"
+      },
+      {
+        "id": "B",
+        "text": "$20,000"
+      },
+      {
+        "id": "C",
+        "text": "$25,000"
+      },
+      {
+        "id": "D",
+        "text": "$30,000"
+      }
+    ],
+    "correct": [
+      "C"
+    ],
+    "rationale": "The maximum fair market value of stock that an employee can purchase through an ESPP cannot exceed $25,000 in any calendar year.",
+    "difficulty": 2,
+    "tags": [
+      "ESPP",
+      "employee benefits",
+      "investment vehicles",
+      "stock purchase"
+    ]
+  },
+  {
+    "module_code": "EFBI",
+    "stem": "What information is typically included in the ADV?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Fee schedule, services offered, key advisory personnel, conflicts of interest, and educational background"
+      },
+      {
+        "id": "B",
+        "text": "Investment performance history and client testimonials"
+      },
+      {
+        "id": "C",
+        "text": "Market analysis and economic forecasts"
+      },
+      {
+        "id": "D",
+        "text": "Regulatory compliance and audit reports"
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "rationale": "The ADV includes essential information about the advisory firm, including fee schedules, services offered, key personnel, conflicts of interest, and educational background.",
+    "difficulty": 2,
+    "tags": [
+      "ADV",
+      "regulatory",
+      "investment advisory",
+      "disclosure"
+    ]
+  },
+  {
+    "module_code": "IVC",
+    "stem": "Which of the following statements is true regarding bonds and their characteristics?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "There is an inverse relationship between the yield to maturity of a bond and its duration. Therefore, the lower the yield to maturity, the greater the bond's duration."
+      },
+      {
+        "id": "B",
+        "text": "The NASAA (North American Securities Administrators Association) is the voice of state securities agencies responsible for efficient capital formation and grass-roots investor protection in the U.S."
+      },
+      {
+        "id": "C",
+        "text": "Unit investment trusts (UITs) are sold to investors for a typical cost of $1,000."
+      },
+      {
+        "id": "D",
+        "text": "Firms must retain blotters containing all purchases and sales of securities for at least 6 years."
+      }
+    ],
+    "correct": [
+      "A"
+    ],
+    "rationale": "The statement about the inverse relationship between yield to maturity and duration is a fundamental principle in bond investing.",
+    "difficulty": 3,
+    "tags": [
+      "bonds",
+      "yield",
+      "investment",
+      "duration"
+    ]
+  }
+]

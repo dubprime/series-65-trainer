@@ -1,7 +1,7 @@
 /**
  * scripts/parse-exams-batch.js
  * Batch processor for OCR-cleaned Series 65 practice exams with rate limiting.
- * 
+ *
  * This script processes questions in small batches with delays to avoid rate limits.
  * It also includes OCR cleanup for better text quality.
  */
@@ -87,32 +87,36 @@ Rules:
 - If unclear, return null
 - module_code: EFBI=Ethics, IVC=Investment Vehicles, CIRS=Customer Investment, LRG=Legal/Regulatory
 - difficulty: 1=easy, 2=basic, 3=moderate, 4=hard, 5=expert
-- 2-5 concise tags`
+- 2-5 concise tags`,
 	}
 
 	const userPrompt = {
 		role: "user",
-		content: `Question ${questionNumber}:\n${questionText}`
+		content: `Question ${questionNumber}:\n${questionText}`,
 	}
 
 	try {
 		const response = await fetch("https://api.openai.com/v1/chat/completions", {
 			method: "POST",
 			headers: {
-				"Authorization": `Bearer ${OPENAI_API_KEY}`,
-				"Content-Type": "application/json"
+				Authorization: `Bearer ${OPENAI_API_KEY}`,
+				"Content-Type": "application/json",
 			},
 			body: JSON.stringify({
 				model: "gpt-4o-mini",
 				messages: [systemPrompt, userPrompt],
 				temperature: 0.1,
-				max_tokens: 1000
-			})
+				max_tokens: 1000,
+			}),
 		})
 
 		if (!response.ok) {
 			const error = await response.json()
-			throw new Error(`OpenAI API error: ${response.status} - ${error.error?.message || 'Unknown error'}`)
+			throw new Error(
+				`OpenAI API error: ${response.status} - ${
+					error.error?.message || "Unknown error"
+				}`
+			)
 		}
 
 		const data = await response.json()
@@ -129,7 +133,7 @@ Rules:
 		}
 
 		const parsed = JSON.parse(jsonMatch[0])
-		
+
 		// Validate the parsed question
 		if (!parsed.stem || !parsed.choices || parsed.choices.length !== 4) {
 			return null
@@ -146,9 +150,13 @@ Rules:
 async function processBatch(questions, startIndex) {
 	const batch = questions.slice(startIndex, startIndex + BATCH_SIZE)
 	const results = []
-	
-	console.log(`Processing batch ${Math.floor(startIndex / BATCH_SIZE) + 1}: questions ${startIndex + 1}-${Math.min(startIndex + BATCH_SIZE, questions.length)}`)
-	
+
+	console.log(
+		`Processing batch ${Math.floor(startIndex / BATCH_SIZE) + 1}: questions ${
+			startIndex + 1
+		}-${Math.min(startIndex + BATCH_SIZE, questions.length)}`
+	)
+
 	for (let i = 0; i < batch.length; i++) {
 		const questionNumber = startIndex + i + 1
 		const result = await processQuestion(batch[i], questionNumber)
@@ -158,79 +166,99 @@ async function processBatch(questions, startIndex) {
 		} else {
 			console.log(`✗ Question ${questionNumber} failed or was unclear`)
 		}
-		
+
 		// Small delay between individual questions
 		if (i < batch.length - 1) {
-			await new Promise(resolve => setTimeout(resolve, 2000))
+			await new Promise((resolve) => setTimeout(resolve, 2000))
 		}
 	}
-	
+
 	return results
 }
 
 // Main processing function
 async function processFile(filePath) {
 	console.log(`\n🚀 Starting batch processing of: ${path.basename(filePath)}`)
-	
+
 	// Read and clean the file
 	const content = fs.readFileSync(filePath, "utf8")
 	const questions = splitBlocks(content)
-	
+
 	console.log(`📊 Found ${questions.length} question blocks`)
-	
+
 	if (questions.length === 0) {
 		console.log("❌ No questions found in file")
 		return
 	}
-	
+
 	// Process in batches
 	const allResults = []
 	const totalBatches = Math.ceil(questions.length / BATCH_SIZE)
-	
+
 	for (let batchIndex = 0; batchIndex < totalBatches; batchIndex++) {
 		const startIndex = batchIndex * BATCH_SIZE
 		const batchResults = await processBatch(questions, startIndex)
 		allResults.push(...batchResults)
-		
-		console.log(`✅ Batch ${batchIndex + 1}/${totalBatches} complete: ${batchResults.length} questions processed`)
-		
+
+		console.log(
+			`✅ Batch ${batchIndex + 1}/${totalBatches} complete: ${
+				batchResults.length
+			} questions processed`
+		)
+
 		// Delay between batches (except for the last batch)
 		if (batchIndex < totalBatches - 1) {
-			console.log(`⏳ Waiting ${DELAY_BETWEEN_BATCHES / 1000} seconds before next batch...`)
-			await new Promise(resolve => setTimeout(resolve, DELAY_BETWEEN_BATCHES))
+			console.log(
+				`⏳ Waiting ${
+					DELAY_BETWEEN_BATCHES / 1000
+				} seconds before next batch...`
+			)
+			await new Promise((resolve) => setTimeout(resolve, DELAY_BETWEEN_BATCHES))
 		}
 	}
-	
+
 	// Save results
-	const outputPath = path.join("dist", "parsed", `${path.basename(filePath, ".txt")}-batch.json`)
+	const outputPath = path.join(
+		"dist",
+		"parsed",
+		`${path.basename(filePath, ".txt")}-batch.json`
+	)
 	fs.mkdirSync(path.dirname(outputPath), { recursive: true })
 	fs.writeFileSync(outputPath, JSON.stringify(allResults, null, 2))
-	
+
 	console.log(`\n🎉 Processing complete!`)
 	console.log(`📁 Output saved to: ${outputPath}`)
-	console.log(`📊 Total questions processed: ${allResults.length}/${questions.length}`)
-	console.log(`📈 Success rate: ${((allResults.length / questions.length) * 100).toFixed(1)}%`)
-	
+	console.log(
+		`📊 Total questions processed: ${allResults.length}/${questions.length}`
+	)
+	console.log(
+		`📈 Success rate: ${((allResults.length / questions.length) * 100).toFixed(
+			1
+		)}%`
+	)
+
 	return allResults
 }
 
 // Main execution
 async function main() {
 	const args = process.argv.slice(2)
-	
+
 	if (args.length === 0) {
 		console.log("Usage: node scripts/parse-exams-batch.js <file-path>")
-		console.log("Example: node scripts/parse-exams-batch.js training-material/exam-1.txt")
+		console.log(
+			"Example: node scripts/parse-exams-batch.js training-material/exams-text/exam-1.txt"
+		)
 		process.exit(1)
 	}
-	
+
 	const filePath = args[0]
-	
+
 	if (!fs.existsSync(filePath)) {
 		console.error(`❌ File not found: ${filePath}`)
 		process.exit(1)
 	}
-	
+
 	try {
 		await processFile(filePath)
 	} catch (error) {
