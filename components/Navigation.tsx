@@ -1,10 +1,23 @@
 "use client"
 
 import Link from "next/link"
+import { usePathname } from "next/navigation"
 import { useAuth } from "@/lib/contexts/AuthContext"
 
 export default function Navigation() {
 	const { user, signOut } = useAuth()
+	const pathname = usePathname()
+
+	function getLinkStyle(href: string) {
+		const isActive =
+			pathname === href ||
+			(href !== "/" && pathname.startsWith(href)) ||
+			(href === "/" && pathname === "/")
+
+		return isActive
+			? "text-[#0094C6] font-semibold border-b-2 border-[#0094C6] pb-1"
+			: "text-[#005E7C] hover:text-[#001242] transition-colors"
+	}
 
 	return (
 		<nav className="bg-white border-b border-[#E8F4F8] shadow-sm">
@@ -20,52 +33,34 @@ export default function Navigation() {
 					<div className="flex items-center space-x-6">
 						{user ? (
 							<>
-								<Link
-									href="/"
-									className="text-[#005E7C] hover:text-[#001242] transition-colors"
-								>
+								<Link href="/" className={getLinkStyle("/")}>
 									Dashboard
 								</Link>
-								<Link
-									href="/questions"
-									className="text-[#005E7C] hover:text-[#001242] transition-colors"
-								>
+								<Link href="/questions" className={getLinkStyle("/questions")}>
 									Questions
 								</Link>
-								<Link
-									href="/analytics"
-									className="text-[#005E7C] hover:text-[#001242] transition-colors"
-								>
+								<Link href="/analytics" className={getLinkStyle("/analytics")}>
 									Analytics
 								</Link>
 								<Link
 									href="/study-manager"
-									className="text-[#005E7C] hover:text-[#001242] transition-colors"
+									className={getLinkStyle("/study-manager")}
 								>
 									Study Manager
 								</Link>
 								<Link
 									href="/vocab-test"
-									className="text-[#005E7C] hover:text-[#001242] transition-colors"
+									className={getLinkStyle("/vocab-test")}
 								>
 									Vocab Test
 								</Link>
-								<Link
-									href="/help"
-									className="text-[#005E7C] hover:text-[#001242] transition-colors"
-								>
+								<Link href="/help" className={getLinkStyle("/help")}>
 									Help
 								</Link>
-								<Link
-									href="/status"
-									className="text-[#005E7C] hover:text-[#001242] transition-colors"
-								>
+								<Link href="/status" className={getLinkStyle("/status")}>
 									Status
 								</Link>
-								<Link
-									href="/settings"
-									className="text-[#005E7C] hover:text-[#001242] transition-colors"
-								>
+								<Link href="/settings" className={getLinkStyle("/settings")}>
 									Settings
 								</Link>
 								<button

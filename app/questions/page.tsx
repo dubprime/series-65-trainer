@@ -39,6 +39,18 @@ function QuestionsContent() {
 	const [sessionTime, setSessionTime] = useState<number>(0)
 	const questionsPerPage = 5
 
+	// Filter states
+	const [showFilters, setShowFilters] = useState(false)
+	const [filteredQuestions, setFilteredQuestions] = useState<Question[]>([])
+	const [selectedDifficulty, setSelectedDifficulty] = useState<string>("all")
+	const [selectedCategory, setSelectedCategory] = useState<string>("all")
+	const [selectedTags, setSelectedTags] = useState<string[]>([])
+	const [availableCategories, setAvailableCategories] = useState<string[]>([])
+	const [availableTags, setAvailableTags] = useState<string[]>([])
+	const [availableDifficulties, setAvailableDifficulties] = useState<number[]>(
+		[]
+	)
+
 	useEffect(() => {
 		fetchQuestions()
 		fetchUserProgress()
@@ -53,6 +65,13 @@ function QuestionsContent() {
 		return () => clearInterval(timer)
 	}, [sessionStartTime])
 
+	// Apply filters when filter states change
+	useEffect(() => {
+		if (questions.length > 0) {
+			applyFilters()
+		}
+	}, [selectedDifficulty, selectedCategory, selectedTags, questions])
+
 	async function fetchQuestions() {
 		try {
 			const supabase = createClient()
@@ -66,7 +85,27 @@ function QuestionsContent() {
 				return
 			}
 
-			setQuestions(data || [])
+			const questionsData = data || []
+			setQuestions(questionsData)
+
+			// Extract available filter options
+			const categories = [
+				...new Set(questionsData.map((q) => q.category).filter(Boolean)),
+			]
+			const difficulties = [
+				...new Set(
+					questionsData.map((q) => q.difficulty_level).filter(Boolean)
+				),
+			]
+			const allTags = questionsData.flatMap((q) => q.tags || []).filter(Boolean)
+			const tags = [...new Set(allTags)]
+
+			setAvailableCategories(categories)
+			setAvailableDifficulties(difficulties)
+			setAvailableTags(tags)
+
+			// Initially set filtered questions to all questions
+			setFilteredQuestions(questionsData)
 		} catch (error) {
 			console.error("Error:", error)
 		} finally {
@@ -118,6 +157,46 @@ function QuestionsContent() {
 		} catch (error) {
 			console.error("Error fetching user progress:", error)
 		}
+	}
+
+	function applyFilters() {
+		let filtered = questions
+
+		// Filter by difficulty
+		if (selectedDifficulty !== "all") {
+			filtered = filtered.filter(
+				(q) => q.difficulty_level.toString() === selectedDifficulty
+			)
+		}
+
+		// Filter by category
+		if (selectedCategory !== "all") {
+			filtered = filtered.filter((q) => q.category === selectedCategory)
+		}
+
+		// Filter by tags
+		if (selectedTags.length > 0) {
+			filtered = filtered.filter(
+				(q) => q.tags && q.tags.some((tag) => selectedTags.includes(tag))
+			)
+		}
+
+		setFilteredQuestions(filtered)
+		setCurrentPage(1) // Reset to first page when filtering
+	}
+
+	function clearFilters() {
+		setSelectedDifficulty("all")
+		setSelectedCategory("all")
+		setSelectedTags([])
+		setFilteredQuestions(questions)
+		setCurrentPage(1)
+	}
+
+	function toggleTag(tag: string) {
+		setSelectedTags((prev) =>
+			prev.includes(tag) ? prev.filter((t) => t !== tag) : [...prev, tag]
+		)
 	}
 
 	async function submitAnswer(questionId: string) {
@@ -243,11 +322,11 @@ function QuestionsContent() {
 	// Pagination
 	const indexOfLastQuestion = currentPage * questionsPerPage
 	const indexOfFirstQuestion = indexOfLastQuestion - questionsPerPage
-	const currentQuestions = questions.slice(
+	const currentQuestions = filteredQuestions.slice(
 		indexOfFirstQuestion,
 		indexOfLastQuestion
 	)
-	const totalPages = Math.ceil(questions.length / questionsPerPage)
+	const totalPages = Math.ceil(filteredQuestions.length / questionsPerPage)
 
 	const nextPage = () =>
 		setCurrentPage((prev) => Math.min(prev + 1, totalPages))
@@ -261,7 +340,9 @@ function QuestionsContent() {
 		(a) => a.submitted && a.is_correct
 	).length
 	const progressPercentage =
-		questions.length > 0 ? (answeredCount / questions.length) * 100 : 0
+		filteredQuestions.length > 0
+			? (answeredCount / filteredQuestions.length) * 100
+			: 0
 
 	if (loading) {
 		return (
@@ -305,9 +386,145 @@ function QuestionsContent() {
 						</Link>
 					</div>
 					<p className="text-[#005E7C] mb-4">
-						Practice with {questions.length} questions covering key topics for
-						the Series 65 exam.
+						Practice with {filteredQuestions.length} filtered questions covering
+						key topics for the Series 65 exam.
+						{filteredQuestions.length !== questions.length && (
+							<span className="text-sm text-[#0094C6]">
+								{" "}
+								({questions.length} total available)
+							</span>
+						)}
 					</p>
+
+					{/* Filter Toggle */}
+					<div className="mb-4">
+						<button
+							onClick={() => setShowFilters(!showFilters)}
+							className="bg-[#E8F4F8] text-[#005E7C] px-4 py-2 rounded-lg hover:bg-[#D1E7DD] transition-colors flex items-center space-x-2"
+						>
+							<span>🔍</span>
+							<span>{showFilters ? "Hide" : "Show"} Filters</span>
+							{(selectedDifficulty !== "all" ||
+								selectedCategory !== "all" ||
+								selectedTags.length > 0) && (
+								<span className="bg-[#0094C6] text-white text-xs px-2 py-1 rounded-full">
+									{[
+										selectedDifficulty !== "all" ? 1 : 0,
+										selectedCategory !== "all" ? 1 : 0,
+										selectedTags.length,
+									].reduce((a, b) => a + b, 0)}
+								</span>
+							)}
+						</button>
+					</div>
+
+					{/* Filters Section */}
+					{showFilters && (
+						<div className="bg-white border border-[#E8F4F8] rounded-lg p-6 mb-6 shadow-sm">
+							<div className="flex justify-between items-center mb-4">
+								<h3 className="text-lg font-semibold text-[#000022]">
+									Study Filters
+								</h3>
+								<button
+									onClick={clearFilters}
+									className="text-sm text-[#DC2626] hover:text-[#B91C1C] underline transition-colors"
+								>
+									Clear All Filters
+								</button>
+							</div>
+
+							<div className="grid md:grid-cols-3 gap-6">
+								{/* Difficulty Filter */}
+								<div>
+									<label className="block text-sm font-medium text-[#000022] mb-2">
+										Difficulty Level
+									</label>
+									<select
+										value={selectedDifficulty}
+										onChange={(e) => setSelectedDifficulty(e.target.value)}
+										className="w-full p-2 border border-[#E8F4F8] rounded-lg focus:ring-2 focus:ring-[#0094C6] focus:border-[#0094C6]"
+									>
+										<option value="all">All Difficulties</option>
+										{availableDifficulties.sort().map((difficulty) => (
+											<option key={difficulty} value={difficulty.toString()}>
+												Level {difficulty}
+											</option>
+										))}
+									</select>
+								</div>
+
+								{/* Category Filter */}
+								<div>
+									<label className="block text-sm font-medium text-[#000022] mb-2">
+										Module/Category
+									</label>
+									<select
+										value={selectedCategory}
+										onChange={(e) => setSelectedCategory(e.target.value)}
+										className="w-full p-2 border border-[#E8F4F8] rounded-lg focus:ring-2 focus:ring-[#0094C6] focus:border-[#0094C6]"
+									>
+										<option value="all">All Categories</option>
+										{availableCategories.sort().map((category) => (
+											<option key={category} value={category}>
+												{category}
+											</option>
+										))}
+									</select>
+								</div>
+
+								{/* Tags Filter */}
+								<div>
+									<label className="block text-sm font-medium text-[#000022] mb-2">
+										Tags
+									</label>
+									<div className="space-y-2 max-h-32 overflow-y-auto">
+										{availableTags.sort().map((tag) => (
+											<label key={tag} className="flex items-center space-x-2">
+												<input
+													type="checkbox"
+													checked={selectedTags.includes(tag)}
+													onChange={() => toggleTag(tag)}
+													className="rounded border-[#E8F4F8] text-[#0094C6] focus:ring-[#0094C6]"
+												/>
+												<span className="text-sm text-[#005E7C]">{tag}</span>
+											</label>
+										))}
+									</div>
+								</div>
+							</div>
+
+							{/* Active Filters Display */}
+							{(selectedDifficulty !== "all" ||
+								selectedCategory !== "all" ||
+								selectedTags.length > 0) && (
+								<div className="mt-4 pt-4 border-t border-[#E8F4F8]">
+									<h4 className="text-sm font-medium text-[#000022] mb-2">
+										Active Filters:
+									</h4>
+									<div className="flex flex-wrap gap-2">
+										{selectedDifficulty !== "all" && (
+											<span className="bg-[#E8F4F8] text-[#005E7C] px-2 py-1 rounded-full text-xs">
+												Difficulty: Level {selectedDifficulty}
+											</span>
+										)}
+										{selectedCategory !== "all" && (
+											<span className="bg-[#E8F4F8] text-[#005E7C] px-2 py-1 rounded-full text-xs">
+												Category: {selectedCategory}
+											</span>
+										)}
+										{selectedTags.map((tag) => (
+											<span
+												key={tag}
+												className="bg-[#E8F4F8] text-[#005E7C] px-2 py-1 rounded-full text-xs"
+											>
+												Tag: {tag}
+											</span>
+										))}
+									</div>
+								</div>
+							)}
+						</div>
+					)}
 
 					{/* Progress Bar */}
 					<div className="bg-white rounded-full h-3 mb-2 border border-[#E8F4F8]">
@@ -318,7 +535,13 @@ function QuestionsContent() {
 					</div>
 
 					{/* Progress Stats */}
-					<div className="grid grid-cols-3 gap-4 mb-4">
+					<div className="grid grid-cols-4 gap-4 mb-4">
+						<div className="bg-white border border-[#E8F4F8] rounded-lg p-3 text-center shadow-sm">
+							<div className="text-2xl font-bold text-[#001242]">
+								{filteredQuestions.length}
+							</div>
+							<div className="text-sm text-[#005E7C]">Available</div>
+						</div>
 						<div className="bg-white border border-[#E8F4F8] rounded-lg p-3 text-center shadow-sm">
 							<div className="text-2xl font-bold text-[#001242]">
 								{answeredCount}
@@ -333,7 +556,7 @@ function QuestionsContent() {
 						</div>
 						<div className="bg-white border border-[#E8F4F8] rounded-lg p-3 text-center shadow-sm">
 							<div className="text-2xl font-bold text-[#0094C6]">
-								{questions.length > 0
+								{filteredQuestions.length > 0
 									? Math.round(
 											(correctCount / Math.max(answeredCount, 1)) * 100
 									  )
@@ -493,109 +716,125 @@ function QuestionsContent() {
 				{/* Questions List */}
 				<div className="space-y-6">
 					{/* Completion Message */}
-					{answeredCount === questions.length && questions.length > 0 && (
-						<div className="bg-white border border-[#16A34A] rounded-lg p-6 text-center shadow-lg">
-							<div className="text-6xl mb-4">🎉</div>
-							<h2 className="text-2xl font-bold text-[#000022] mb-2">
-								Congratulations!
-							</h2>
-							<p className="text-[#005E7C] mb-4">
-								You&apos;ve completed all {questions.length} questions in this
-								set.
-							</p>
+					{answeredCount === filteredQuestions.length &&
+						filteredQuestions.length > 0 && (
+							<div className="bg-white border border-[#16A34A] rounded-lg p-6 text-center shadow-lg">
+								<div className="text-6xl mb-4">🎉</div>
+								<h2 className="text-2xl font-bold text-[#000022] mb-2">
+									Congratulations!
+								</h2>
+								<p className="text-[#005E7C] mb-4">
+									You&apos;ve completed all {filteredQuestions.length} questions
+									in this set.
+									{filteredQuestions.length !== questions.length && (
+										<span className="text-sm text-[#0094C6]">
+											{" "}
+											(Filtered from {questions.length} total questions)
+										</span>
+									)}
+								</p>
 
-							{/* Final Score Display */}
-							<div className="bg-[#E8F4F8] rounded-lg p-4 mb-6">
-								<div className="text-3xl font-bold text-[#16A34A] mb-2">
-									{Math.round((correctCount / questions.length) * 100)}%
+								{/* Final Score Display */}
+								<div className="bg-[#E8F4F8] rounded-lg p-4 mb-6">
+									<div className="text-3xl font-bold text-[#16A34A] mb-2">
+										{Math.round(
+											(correctCount / filteredQuestions.length) * 100
+										)}
+										%
+									</div>
+									<div className="text-lg text-[#005E7C] mb-2">
+										Final Score: {correctCount} out of{" "}
+										{filteredQuestions.length}
+									</div>
+									<div className="text-sm text-[#005E7C]">
+										Study Time: {Math.floor(sessionTime / 60)}:
+										{(sessionTime % 60).toString().padStart(2, "0")}
+									</div>
 								</div>
-								<div className="text-lg text-[#005E7C] mb-2">
-									Final Score: {correctCount} out of {questions.length}
-								</div>
-								<div className="text-sm text-[#005E7C]">
-									Study Time: {Math.floor(sessionTime / 60)}:
-									{(sessionTime % 60).toString().padStart(2, "0")}
-								</div>
-							</div>
 
-							{/* Performance Analysis */}
-							<div className="grid md:grid-cols-3 gap-4 mb-6">
-								<div className="bg-[#DCFCE7] p-3 rounded border border-[#16A34A]">
-									<div className="text-lg font-bold text-[#16A34A]">
-										{correctCount}
+								{/* Performance Analysis */}
+								<div className="grid md:grid-cols-3 gap-4 mb-6">
+									<div className="bg-[#DCFCE7] p-3 rounded border border-[#16A34A]">
+										<div className="text-lg font-bold text-[#16A34A]">
+											{correctCount}
+										</div>
+										<div className="text-sm text-[#15803D]">
+											Correct Answers
+										</div>
 									</div>
-									<div className="text-sm text-[#15803D]">Correct Answers</div>
+									<div className="bg-[#FEE2E2] p-3 rounded border border-[#DC2626]">
+										<div className="text-lg font-bold text-[#DC2626]">
+											{filteredQuestions.length - correctCount}
+										</div>
+										<div className="text-sm text-[#B91C1C]">
+											Incorrect Answers
+										</div>
+									</div>
+									<div className="bg-[#E8F4F8] p-3 rounded border border-[#0094C6]">
+										<div className="text-lg font-bold text-[#0094C6]">
+											{Math.round(
+												(correctCount / filteredQuestions.length) * 100
+											)}
+											%
+										</div>
+										<div className="text-sm text-[#005E7C]">Success Rate</div>
+									</div>
 								</div>
-								<div className="bg-[#FEE2E2] p-3 rounded border border-[#DC2626]">
-									<div className="text-lg font-bold text-[#DC2626]">
-										{questions.length - correctCount}
-									</div>
-									<div className="text-sm text-[#B91C1C]">
-										Incorrect Answers
-									</div>
-								</div>
-								<div className="bg-[#E8F4F8] p-3 rounded border border-[#0094C6]">
-									<div className="text-lg font-bold text-[#0094C6]">
-										{Math.round((correctCount / questions.length) * 100)}%
-									</div>
-									<div className="text-sm text-[#005E7C]">Success Rate</div>
-								</div>
-							</div>
 
-							{/* Study Recommendations */}
-							<div className="bg-[#E8F4F8] rounded-lg p-4 mb-6 text-left">
-								<h3 className="font-semibold text-[#001242] mb-3">
-									Study Recommendations:
-								</h3>
-								<ul className="text-sm text-[#005E7C] space-y-2">
-									{correctCount >= questions.length * 0.8 ? (
-										<li className="flex items-center">
-											<span className="text-[#16A34A] mr-2">✓</span>
-											Excellent work! You&apos;re ready for the exam.
-										</li>
-									) : correctCount >= questions.length * 0.6 ? (
+								{/* Study Recommendations */}
+								<div className="bg-[#E8F4F8] rounded-lg p-4 mb-6 text-left">
+									<h3 className="font-semibold text-[#001242] mb-3">
+										Study Recommendations:
+									</h3>
+									<ul className="text-sm text-[#005E7C] space-y-2">
+										{correctCount >= filteredQuestions.length * 0.8 ? (
+											<li className="flex items-center">
+												<span className="text-[#16A34A] mr-2">✓</span>
+												Excellent work! You&apos;re ready for the exam.
+											</li>
+										) : correctCount >= filteredQuestions.length * 0.6 ? (
+											<li className="flex items-center">
+												<span className="text-[#0094C6] mr-2">→</span>
+												Good progress! Review incorrect answers to improve.
+											</li>
+										) : (
+											<li className="flex items-center">
+												<span className="text-[#DC2626] mr-2">!</span>
+												Keep practicing! Focus on understanding the concepts.
+											</li>
+										)}
 										<li className="flex items-center">
 											<span className="text-[#0094C6] mr-2">→</span>
-											Good progress! Review incorrect answers to improve.
+											Review explanations for incorrect answers
 										</li>
-									) : (
 										<li className="flex items-center">
-											<span className="text-[#DC2626] mr-2">!</span>
-											Keep practicing! Focus on understanding the concepts.
+											<span className="text-[#0094C6] mr-2">→</span>
+											Take a break and return for another session
 										</li>
-									)}
-									<li className="flex items-center">
-										<span className="text-[#0094C6] mr-2">→</span>
-										Review explanations for incorrect answers
-									</li>
-									<li className="flex items-center">
-										<span className="text-[#0094C6] mr-2">→</span>
-										Take a break and return for another session
-									</li>
-								</ul>
-							</div>
+									</ul>
+								</div>
 
-							{/* Action Buttons */}
-							<div className="flex flex-col sm:flex-row gap-3 justify-center">
-								<Link
-									href="/vocab-test"
-									className="bg-[#0094C6] text-white px-6 py-3 rounded-lg hover:bg-[#001242] transition-colors text-center"
-								>
-									📚 Take Vocab Test
-								</Link>
-								<button
-									onClick={() => {
-										setUserAnswers({})
-										setShowExplanations({})
-										setSessionTime(0)
-									}}
-									className="bg-[#16A34A] text-white px-6 py-3 rounded-lg hover:bg-[#15803D] transition-colors"
-								>
-									Retake Questions
-								</button>
+								{/* Action Buttons */}
+								<div className="flex flex-col sm:flex-row gap-3 justify-center">
+									<Link
+										href="/vocab-test"
+										className="bg-[#0094C6] text-white px-6 py-3 rounded-lg hover:bg-[#001242] transition-colors text-center"
+									>
+										📚 Take Vocab Test
+									</Link>
+									<button
+										onClick={() => {
+											setUserAnswers({})
+											setShowExplanations({})
+											setSessionTime(0)
+										}}
+										className="bg-[#16A34A] text-white px-6 py-3 rounded-lg hover:bg-[#15803D] transition-colors"
+									>
+										Retake Questions
+									</button>
+								</div>
 							</div>
-						</div>
-					)}
+						)}
 
 					{currentQuestions.map((question, index) => {
 						const answerStatus = getAnswerStatus(question.id)

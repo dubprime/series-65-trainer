@@ -41,6 +41,11 @@ function VocabTestContent() {
 	const [loading, setLoading] = useState(true)
 	const [submitting, setSubmitting] = useState(false)
 
+	// Score tracking
+	const [score, setScore] = useState(0)
+	const [totalAnswered, setTotalAnswered] = useState(0)
+	const [showHint, setShowHint] = useState(false)
+
 	useEffect(() => {
 		generateVocabQuestions()
 	}, [])
@@ -170,6 +175,10 @@ function VocabTestContent() {
 		const question = questions[currentQuestionIndex]
 		if (!question) return
 
+		const currentAnswer = userAnswers[question.id]
+		if (!currentAnswer) return
+
+		// Update the answer as submitted
 		setUserAnswers((prev) => ({
 			...prev,
 			[question.id]: {
@@ -177,11 +186,21 @@ function VocabTestContent() {
 				submitted: true,
 			},
 		}))
+
+		// Track score
+		setTotalAnswered((prev) => prev + 1)
+		if (currentAnswer.is_correct) {
+			setScore((prev) => prev + 1)
+		}
+
+		// Hide hint for next question
+		setShowHint(false)
 	}
 
 	function nextQuestion() {
 		if (currentQuestionIndex < questions.length - 1) {
 			setCurrentQuestionIndex((prev) => prev + 1)
+			setShowHint(false) // Hide hint for next question
 		} else {
 			setShowResults(true)
 		}
@@ -217,6 +236,9 @@ function VocabTestContent() {
 		setCurrentQuestionIndex(0)
 		setUserAnswers({})
 		setShowResults(false)
+		setScore(0)
+		setTotalAnswered(0)
+		setShowHint(false)
 		generateVocabQuestions()
 	}
 
@@ -232,11 +254,9 @@ function VocabTestContent() {
 	}
 
 	if (showResults) {
-		const correctAnswers = Object.values(userAnswers).filter(
-			(a) => a.submitted && a.is_correct
-		).length
+		const correctAnswers = score
 		const totalQuestions = questions.length
-		const percentage = Math.round((correctAnswers / totalQuestions) * 100)
+		const percentage = Math.round((score / totalQuestions) * 100)
 
 		return (
 			<div className="min-h-screen bg-[#E8F4F8] p-6">
@@ -341,6 +361,33 @@ function VocabTestContent() {
 					</div>
 				</div>
 
+				{/* Score Display */}
+				<div className="mb-6">
+					<div className="bg-white border border-[#E8F4F8] rounded-lg p-4 shadow-sm">
+						<div className="flex justify-between items-center">
+							<div className="text-center">
+								<div className="text-2xl font-bold text-[#16A34A]">{score}</div>
+								<div className="text-sm text-[#005E7C]">Correct</div>
+							</div>
+							<div className="text-center">
+								<div className="text-2xl font-bold text-[#DC2626]">
+									{totalAnswered - score}
+								</div>
+								<div className="text-sm text-[#005E7C]">Incorrect</div>
+							</div>
+							<div className="text-center">
+								<div className="text-2xl font-bold text-[#0094C6]">
+									{totalAnswered > 0
+										? Math.round((score / totalAnswered) * 100)
+										: 0}
+									%
+								</div>
+								<div className="text-sm text-[#005E7C]">Accuracy</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
 				{/* Question */}
 				<div className="bg-white rounded-lg shadow-sm border border-[#E8F4F8] p-6 mb-6">
 					<h2 className="text-2xl font-bold text-[#000022] mb-4">
@@ -370,12 +417,35 @@ function VocabTestContent() {
 						))}
 					</div>
 
-					{/* Example (if available) */}
+					{/* Hint (if available) */}
 					{currentQuestion.example && (
-						<div className="bg-[#F8FBFC] rounded-lg p-4 mb-4">
-							<p className="text-sm text-[#005E7C]">
-								<strong>Example:</strong> {currentQuestion.example}
-							</p>
+						<div className="mb-4">
+							{!showHint ? (
+								<button
+									onClick={() => setShowHint(true)}
+									className="bg-[#F8FBFC] text-[#0094C6] px-4 py-2 rounded-lg border border-[#E8F4F8] hover:bg-[#E8F4F8] transition-colors flex items-center space-x-2"
+								>
+									<span>💡</span>
+									<span>Show Hint</span>
+								</button>
+							) : (
+								<div className="bg-[#F8FBFC] rounded-lg p-4 border border-[#E8F4F8]">
+									<div className="flex justify-between items-start mb-2">
+										<p className="text-sm text-[#005E7C] font-medium">
+											💡 Hint:
+										</p>
+										<button
+											onClick={() => setShowHint(false)}
+											className="text-[#005E7C] hover:text-[#001242] text-sm underline"
+										>
+											Hide
+										</button>
+									</div>
+									<p className="text-sm text-[#005E7C]">
+										{currentQuestion.example}
+									</p>
+								</div>
+							)}
 						</div>
 					)}
 
