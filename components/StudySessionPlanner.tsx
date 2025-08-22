@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react"
+import { useState, useEffect, useCallback } from "react"
 import { createClient } from "@/lib/supabase/client"
 import { defaultSpacedRepetition, QuestionPriority } from "@/lib/algorithms/spaced-repetition"
 
@@ -19,12 +19,6 @@ export default function StudySessionPlanner({ onStartSession }: StudySessionPlan
 	useEffect(() => {
 		fetchAvailableCategories()
 	}, [])
-
-	useEffect(() => {
-		if (sessionType && sessionSize > 0) {
-			generateSessionPreview()
-		}
-	}, [sessionType, selectedCategory, sessionSize])
 
 	async function fetchAvailableCategories() {
 		try {
@@ -49,7 +43,7 @@ export default function StudySessionPlanner({ onStartSession }: StudySessionPlan
 		}
 	}
 
-	async function generateSessionPreview() {
+	const generateSessionPreview = useCallback(async () => {
 		setLoading(true)
 		try {
 			const supabase = createClient()
@@ -132,7 +126,17 @@ export default function StudySessionPlanner({ onStartSession }: StudySessionPlan
 		} finally {
 			setLoading(false)
 		}
-	}
+	}, [sessionType, selectedCategory, sessionSize])
+
+	const generateSessionPreviewCallback = useCallback(() => {
+		if (sessionType && sessionSize > 0) {
+			generateSessionPreview()
+		}
+	}, [sessionType, sessionSize, generateSessionPreview])
+
+	useEffect(() => {
+		generateSessionPreviewCallback()
+	}, [generateSessionPreviewCallback])
 
 	function handleStartSession() {
 		const questionIds = sessionPreview.map(q => q.questionId)

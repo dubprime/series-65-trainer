@@ -19,7 +19,7 @@ export default function VocabTeaching({
 }: VocabTeachingProps) {
 	const [currentTermIndex, setCurrentTermIndex] = useState(0)
 	const [showDefinition, setShowDefinition] = useState(false)
-	const [completedTerms, setCompletedTerms] = useState<Set<string>>(new Set())
+	const [completedTerms, setCompletedTerms] = useState<Set<string>>(new Set()) // Will be used for progress tracking
 
 	const currentTerm = terms[currentTermIndex]
 	const isLastTerm = currentTermIndex === terms.length - 1

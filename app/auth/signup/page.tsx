@@ -2,7 +2,7 @@
 
 import { useState } from "react"
 import { useAuth } from "@/lib/contexts/AuthContext"
-import { useRouter } from "next/navigation"
+// import { useRouter } from "next/navigation" // Will be used when implementing redirect
 import Link from "next/link"
 
 export default function SignUp() {
@@ -16,7 +16,7 @@ export default function SignUp() {
 	const [message, setMessage] = useState<string | null>(null)
 
 	const { signUp } = useAuth()
-	const router = useRouter()
+	// const router = useRouter() // Will be used when implementing redirect
 
 	const handleSubmit = async (e: React.FormEvent) => {
 		e.preventDefault()
@@ -48,7 +48,7 @@ export default function SignUp() {
 				setMessage("Check your email for the confirmation link!")
 				// Don't redirect immediately - user needs to confirm email
 			}
-		} catch (err) {
+		} catch {
 			setError("An unexpected error occurred")
 		} finally {
 			setLoading(false)

@@ -145,7 +145,7 @@ function StudyManagerContent() {
 											🔥 Study Streak
 										</h3>
 										<p className="text-sm text-[#005E7C]">
-											You've studied for 5 consecutive days!
+											You&apos;ve studied for 5 consecutive days!
 										</p>
 									</div>
 									<div className="text-3xl">🔥</div>

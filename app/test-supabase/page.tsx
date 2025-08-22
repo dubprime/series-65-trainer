@@ -12,7 +12,7 @@ export default function TestSupabase() {
 		async function testConnection() {
 			try {
 				const supabase = createClient()
-				const { data, error } = await supabase
+				const { error } = await supabase
 					.from("_dummy_table_")
 					.select("*")
 					.limit(1)

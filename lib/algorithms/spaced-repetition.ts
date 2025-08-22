@@ -47,17 +47,22 @@ export class SpacedRepetitionAlgorithm {
 
 		if (accuracy >= 0.8) {
 			// High accuracy: increase interval
-			interval = baseInterval * Math.pow(this.config.correctMultiplier, attempts)
+			interval =
+				baseInterval * Math.pow(this.config.correctMultiplier, attempts)
 		} else if (accuracy >= 0.6) {
 			// Medium accuracy: moderate increase
 			interval = baseInterval * Math.pow(1.5, attempts)
 		} else {
 			// Low accuracy: decrease interval for more frequent review
-			interval = baseInterval * Math.pow(this.config.incorrectMultiplier, attempts)
+			interval =
+				baseInterval * Math.pow(this.config.incorrectMultiplier, attempts)
 		}
 
 		// Apply bounds
-		interval = Math.max(this.config.minInterval, Math.min(this.config.maxInterval, interval))
+		interval = Math.max(
+			this.config.minInterval,
+			Math.min(this.config.maxInterval, interval)
+		)
 
 		return interval
 	}
@@ -75,7 +80,12 @@ export class SpacedRepetitionAlgorithm {
 	): QuestionPriority {
 		const accuracy = attempts > 0 ? correctAttempts / attempts : 0
 		const daysSinceLastAttempt = this.getDaysSince(lastAttempted)
-		const nextInterval = this.calculateNextInterval(attempts, correctAttempts, lastAttempted, difficulty)
+		const nextInterval = this.calculateNextInterval(
+			attempts,
+			correctAttempts,
+			lastAttempted,
+			difficulty
+		)
 
 		// Priority factors
 		const urgencyFactor = Math.max(0, daysSinceLastAttempt - nextInterval) / 10
@@ -93,7 +103,9 @@ export class SpacedRepetitionAlgorithm {
 		// Determine reason for priority
 		let reason = ""
 		if (daysSinceLastAttempt > nextInterval) {
-			reason = `Due for review (${Math.floor(daysSinceLastAttempt)} days overdue)`
+			reason = `Due for review (${Math.floor(
+				daysSinceLastAttempt
+			)} days overdue)`
 		} else if (accuracy < 0.5) {
 			reason = "Low accuracy - needs practice"
 		} else if (attempts === 0) {
@@ -125,11 +137,14 @@ export class SpacedRepetitionAlgorithm {
 			difficulty_level: number
 			category: string
 		}>,
-		userProgress: Record<string, {
-			attempts: number
-			correctAttempts: number
-			lastAttempted: Date
-		}>,
+		userProgress: Record<
+			string,
+			{
+				attempts: number
+				correctAttempts: number
+				lastAttempted: Date
+			}
+		>,
 		sessionSize: number = 5
 	): QuestionPriority[] {
 		const priorities: QuestionPriority[] = []
@@ -147,7 +162,7 @@ export class SpacedRepetitionAlgorithm {
 				progress.correctAttempts,
 				progress.lastAttempted,
 				question.difficulty_level,
-				question.category
+				question.category // eslint-disable-line @typescript-eslint/no-unused-vars
 			)
 
 			priorities.push(priority)
@@ -168,19 +183,26 @@ export class SpacedRepetitionAlgorithm {
 			difficulty_level: number
 			category: string
 		}>,
-		userProgress: Record<string, {
-			attempts: number
-			correctAttempts: number
-			lastAttempted: Date
-		}>,
+		userProgress: Record<
+			string,
+			{
+				attempts: number
+				correctAttempts: number
+				lastAttempted: Date
+			}
+		>,
 		category: string,
 		sessionSize: number = 5
 	): QuestionPriority[] {
-		const categoryQuestions = questions.filter(q => q.category === category)
-		const priorities = this.getPrioritizedQuestions(categoryQuestions, userProgress, sessionSize)
-		
+		const categoryQuestions = questions.filter((q) => q.category === category)
+		const priorities = this.getPrioritizedQuestions(
+			categoryQuestions,
+			userProgress,
+			sessionSize
+		)
+
 		// Filter to only include questions with low accuracy
-		return priorities.filter(q => q.accuracy < 0.7)
+		return priorities.filter((q) => q.accuracy < 0.7)
 	}
 
 	/**
@@ -192,19 +214,32 @@ export class SpacedRepetitionAlgorithm {
 			difficulty_level: number
 			category: string
 		}>,
-		userProgress: Record<string, {
-			attempts: number
-			correctAttempts: number
-			lastAttempted: Date
-		}>,
+		userProgress: Record<
+			string,
+			{
+				attempts: number
+				correctAttempts: number
+				lastAttempted: Date
+			}
+		>,
 		sessionSize: number = 5
 	): QuestionPriority[] {
-		const priorities = this.getPrioritizedQuestions(questions, userProgress, sessionSize * 2)
-		
+		const priorities = this.getPrioritizedQuestions(
+			questions,
+			userProgress,
+			sessionSize * 2
+		)
+
 		// Ensure mix of difficulties
-		const easy = priorities.filter(q => q.difficulty <= 2).slice(0, Math.ceil(sessionSize * 0.3))
-		const medium = priorities.filter(q => q.difficulty === 3).slice(0, Math.ceil(sessionSize * 0.4))
-		const hard = priorities.filter(q => q.difficulty >= 4).slice(0, Math.ceil(sessionSize * 0.3))
+		const easy = priorities
+			.filter((q) => q.difficulty <= 2)
+			.slice(0, Math.ceil(sessionSize * 0.3))
+		const medium = priorities
+			.filter((q) => q.difficulty === 3)
+			.slice(0, Math.ceil(sessionSize * 0.4))
+		const hard = priorities
+			.filter((q) => q.difficulty >= 4)
+			.slice(0, Math.ceil(sessionSize * 0.3))
 
 		return [...easy, ...medium, ...hard].slice(0, sessionSize)
 	}

@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react"
 import { createClient } from "@/lib/supabase/client"
-import { defaultSpacedRepetition } from "@/lib/algorithms/spaced-repetition"
+// import { defaultSpacedRepetition } from "@/lib/algorithms/spaced-repetition" // Will be used for default config
 
 interface StudyGoal {
 	id: string
@@ -25,8 +25,8 @@ interface StudySession {
 export default function StudySessionManager() {
 	const [goals, setGoals] = useState<StudyGoal[]>([])
 	const [sessions, setSessions] = useState<StudySession[]>([])
-	const [showGoalForm, setShowGoalForm] = useState(false)
-	const [showSessionForm, setShowSessionForm] = useState(false)
+	// const [showGoalForm, setShowGoalForm] = useState(false) // Will be used for goal form modal
+	// const [showSessionForm, setShowSessionForm] = useState(false) // Will be used for session form modal
 	const [loading, setLoading] = useState(true)
 
 	useEffect(() => {
@@ -127,14 +127,14 @@ export default function StudySessionManager() {
 					Study Session Manager
 				</h2>
 				<div className="space-x-3">
+								<button
+									onClick={() => console.log("Goal form will be implemented")}
+									className="bg-[#16A34A] text-white px-4 py-2 rounded-lg hover:bg-[#15803D] transition-colors"
+								>
+									🎯 New Goal
+								</button>
 					<button
-						onClick={() => setShowGoalForm(true)}
-						className="bg-[#16A34A] text-white px-4 py-2 rounded-lg hover:bg-[#15803D] transition-colors"
-					>
-						🎯 New Goal
-					</button>
-					<button
-						onClick={() => setShowSessionForm(true)}
+						onClick={() => console.log("Session form will be implemented")}
 						className="bg-[#0094C6] text-white px-4 py-2 rounded-lg hover:bg-[#001242] transition-colors"
 					>
 						📝 Log Session

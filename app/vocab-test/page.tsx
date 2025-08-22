@@ -1,8 +1,8 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import { useAuth } from "@/lib/contexts/AuthContext"
-import { createClient } from "@/lib/supabase/client"
+// import { useAuth } from "@/lib/contexts/AuthContext" // Will be used for progress tracking
+// import { createClient } from "@/lib/supabase/client" // Will be used for progress tracking
 import Link from "next/link"
 import ProtectedRoute from "@/components/ProtectedRoute"
 
@@ -31,7 +31,7 @@ export default function VocabTestPage() {
 }
 
 function VocabTestContent() {
-	const { user } = useAuth()
+	// const { user } = useAuth() // Will be used for progress tracking
 	const [questions, setQuestions] = useState<VocabQuestion[]>([])
 	const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0)
 	const [userAnswers, setUserAnswers] = useState<Record<string, VocabAnswer>>(
@@ -39,7 +39,7 @@ function VocabTestContent() {
 	)
 	const [showResults, setShowResults] = useState(false)
 	const [loading, setLoading] = useState(true)
-	const [submitting, setSubmitting] = useState(false)
+	// const [submitting, setSubmitting] = useState(false) // Will be used for form submission state
 
 	// Score tracking
 	const [score, setScore] = useState(0)

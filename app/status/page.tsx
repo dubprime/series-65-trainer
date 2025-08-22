@@ -7,7 +7,7 @@ import Link from "next/link"
 export default function StatusPage() {
 	const [connectionStatus, setConnectionStatus] = useState<string>("Testing...")
 	const [connectionError, setConnectionError] = useState<string>("")
-	const [supabaseInfo, setSupabaseInfo] = useState<Record<string, string>>({})
+	// const [supabaseInfo] = useState<Record<string, string>>({}) // Will be used for displaying Supabase info
 
 	useEffect(() => {
 		testConnection()
@@ -18,9 +18,9 @@ export default function StatusPage() {
 			const supabase = createClient()
 			
 			// Test basic connection
-			const { data, error } = await supabase
-				.from("questions")
-				.select("count", { count: "exact", head: true })
+		const { error } = await supabase
+			.from("questions")
+			.select("count", { count: "exact", head: true })
 
 			if (error) {
 				setConnectionStatus("Error")
@@ -30,11 +30,11 @@ export default function StatusPage() {
 				setConnectionError("")
 			}
 
-			// Get Supabase info
-			setSupabaseInfo({
-				url: process.env.NEXT_PUBLIC_SUPABASE_URL || "Not configured",
-				anonKey: (process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY?.substring(0, 20) || "Not configured") + "...",
-			})
+			// Get Supabase info (commented out for now)
+			// setSupabaseInfo({
+			// 	url: process.env.NEXT_PUBLIC_SUPABASE_URL || "Not configured",
+			// 	anonKey: (process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY?.substring(0, 20) || "Not configured") + "...",
+			// })
 		} catch (error) {
 			setConnectionStatus("Error")
 			setConnectionError(`Connection error: ${error}`)

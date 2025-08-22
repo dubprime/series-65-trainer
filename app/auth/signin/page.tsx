@@ -28,7 +28,7 @@ export default function SignIn() {
 				// Redirect to dashboard or home page
 				router.push("/")
 			}
-		} catch (err) {
+		} catch {
 			setError("An unexpected error occurred")
 		} finally {
 			setLoading(false)

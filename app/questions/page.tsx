@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, useEffect } from "react"
+import { useState, useEffect, useCallback } from "react"
 import { useAuth } from "@/lib/contexts/AuthContext"
 import { createClient } from "@/lib/supabase/client"
 import Link from "next/link"
@@ -65,12 +65,39 @@ function QuestionsContent() {
 		return () => clearInterval(timer)
 	}, [sessionStartTime])
 
+	// Define applyFilters function first
+	const applyFilters = useCallback(() => {
+		let filtered = questions
+
+		// Filter by difficulty
+		if (selectedDifficulty !== "all") {
+			filtered = filtered.filter(
+				(q) => q.difficulty_level.toString() === selectedDifficulty
+			)
+		}
+
+		// Filter by category
+		if (selectedCategory !== "all") {
+			filtered = filtered.filter((q) => q.category === selectedCategory)
+		}
+
+		// Filter by tags
+		if (selectedTags.length > 0) {
+			filtered = filtered.filter(
+				(q) => q.tags && q.tags.some((tag) => selectedTags.includes(tag))
+			)
+		}
+
+		setFilteredQuestions(filtered)
+		setCurrentPage(1) // Reset to first page when filtering
+	}, [questions, selectedDifficulty, selectedCategory, selectedTags])
+
 	// Apply filters when filter states change
 	useEffect(() => {
 		if (questions.length > 0) {
 			applyFilters()
 		}
-	}, [selectedDifficulty, selectedCategory, selectedTags, questions])
+	}, [selectedDifficulty, selectedCategory, selectedTags, questions, applyFilters])
 
 	async function fetchQuestions() {
 		try {
@@ -157,32 +184,6 @@ function QuestionsContent() {
 		} catch (error) {
 			console.error("Error fetching user progress:", error)
 		}
-	}
-
-	function applyFilters() {
-		let filtered = questions
-
-		// Filter by difficulty
-		if (selectedDifficulty !== "all") {
-			filtered = filtered.filter(
-				(q) => q.difficulty_level.toString() === selectedDifficulty
-			)
-		}
-
-		// Filter by category
-		if (selectedCategory !== "all") {
-			filtered = filtered.filter((q) => q.category === selectedCategory)
-		}
-
-		// Filter by tags
-		if (selectedTags.length > 0) {
-			filtered = filtered.filter(
-				(q) => q.tags && q.tags.some((tag) => selectedTags.includes(tag))
-			)
-		}
-
-		setFilteredQuestions(filtered)
-		setCurrentPage(1) // Reset to first page when filtering
 	}
 
 	function clearFilters() {
